@@ -55,13 +55,13 @@ First, set paramters in [src/utils/config.py](https://github.com/lkopf/prism/blo
 This script outputs multiple feature descriptions based on percentile sampling and clustering for one feature.
 
 ```bash
-python src/concept_clustering.py
+python src/feature_description.py
 ```
 
 To generate descriptions for multiple features define `EXPLAIN_FILE` in [config.py](https://github.com/lkopf/prism/blob/main/src/utils/config.py) and run: 
 
 ```bash
-python src/run_concept_clustering.py
+python src/run_feature_description.py
 ```
 
 Generated feature descriptions can be found in [descriptions](https://github.com/lkopf/prism/tree/main/descriptions) folder.

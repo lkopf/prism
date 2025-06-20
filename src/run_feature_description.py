@@ -46,9 +46,9 @@ for i, params in enumerate(experiment_settings):
     # Update the configuration file
     update_config(params)
 
-    # Run concept_clustering.py
+    # Run feature_description.py
     process = subprocess.run(
-        ["python", "src/concept_clustering.py"],
+        ["python", "src/feature_description.py"],
         stdout=None,  # Let output go directly to console
         stderr=None,
         check=False,
