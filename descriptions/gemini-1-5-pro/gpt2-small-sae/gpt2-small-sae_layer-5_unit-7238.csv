@@ -1,0 +1,6 @@
+layer,unit,description,mean_activation,highlights
+5,7238,Medical or pharmaceutical treatments/procedures/drugs,1.5561934113502502,"['Text #1: istration (1.8877171277999878)', 'Text #2:  intraven (1.2246696949005127)']"
+5,7238,"Titles of movies, TV shows, video games, or books",,[]
+5,7238,"Computer/IT skills, software, or computer programs, often in a business/professional/marketing/sales context",,[]
+5,7238,Food contamination with Listeria,10.208927392959595,"['Text #1: ister (11.414224624633789)', 'Text #1: ister (11.038759231567383)', 'Text #1: ister (9.263284683227539)', 'Text #1: ister (9.119441032409668)']"
+5,7238,"Intense heat, voter rolls, or a person named Lev/Levison",2.5802743196487428,"['Text #1: isters (4.821741104125977)', 'Text #2: isters (3.9744298458099365)', 'Text #3: Lev (1.9932619333267212)', 'Text #4: Lev (1.0559693574905396)', 'Text #5: Lev (1.0559693574905396)']"

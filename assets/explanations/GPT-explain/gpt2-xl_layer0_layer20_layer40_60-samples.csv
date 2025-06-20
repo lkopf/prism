@@ -1,0 +1,61 @@
+layer,unit,description,score
+0,6314," words related to physical activities, exercises, and technology use in fitness.",0.4908205609134567
+0,2725," words related to deserving, earning, or gaining something.",0.6730503896812644
+0,4297, words related to non-traditional or alternative concepts.,0.181738609565318
+0,4842,terms related to data and analytics.,0.5965271579940772
+0,5551, words and phrases related to European Union (EU) and political interactions or negotiations.,0.3721052866729584
+0,1749," words related to advancement, improvement, and progress.",0.7024728889568675
+0,3943,proper nouns and related identifying words.,0.1384761283809747
+0,5960, action words related to wrapping or fastening.,0.6050147171516844
+0,3696, punctuation specifically related to colons.,0.7820779718549423
+0,3533, numbers and numerical values.,0.2706899560490315
+0,3124,scientific terms related to biological processes and research.,0.3423301095598203
+0,1149," quotes, personal pronouns, and expressions of personal perspective or identity.",0.5338027136456861
+0,6114," numerical values, especially three-digit numbers.",0.4821192628550231
+0,3279,"emotion and emphasis indicators, such as punctuation and expressions.",0.3416380489957858
+0,440, words related to recognition or acknowledgement.,0.7780957384984155
+0,4405, words related to governmental and institutional aspects.,0.1794758340419295
+0,5781, names of people or characters.,0.5581034538695607
+0,3057, acronyms and technical terms from various fields.,0.1842969547149226
+0,5085," occurrences of the word ""way"" and its variations.",0.8642575927262288
+0,4679,"occurrences of the word ""new"" and related terms highlighting something recent, upcoming, or updated.",0.3850224890268153
+20,328,words related to technology and communication.,0.0161243189451432
+20,5789, verbs related to performing an action.,0.3655685543945158
+20,4268, phrases related to choices and alternatives.,0.2007482564798753
+20,2988, words that indicate a relationship or connection between entities.,-0.0375920932587817
+20,4683, groups of words reflecting relationships and connections.,0.0771080625508018
+20,6045, specific and distinct nouns.,0.0775900730769804
+20,5741, words related to suggestions or decision-making.,-0.0092570843614266
+20,5662,actions related to someone doing something or interacting with objects.,-0.0278189551390281
+20,2679, phrases related to time and duration.,0.0791471653771402
+20,2869, possessive relationships and connections.,0.3494358560463591
+20,1424, words and phrases related to percentages and numbers in the context of different situations.,-0.0393870126647564
+20,5278, numerical values followed by units of time or measurement.,0.0383362380148731
+20,2325," words related to dates, objects, and locations.",-0.0202949820096304
+20,2700," prepositions, conjunctions, and connected fragments in sentences.",-0.0283110677462124
+20,3313, instances of numerals or phrases related to counting and ranking.,0.0190306299290614
+20,1004, time-related phrases and references.,0.1664588538146767
+20,4447,words related to titles and partial word matches in compound words.,0.0714292708751081
+20,1406, words and phrases related to quantity or comparison.,0.0019407451441373
+20,3885,"words or phrases that contain the syllable ""go"".",0.3430248695266016
+20,1790, words and phrases related to actions and processes.,-0.0319726032057318
+40,4965,"possessive pronouns and connecting words, focusing on ownership and relationships.",0.0825858049816057
+40,3948, words and phrases related to various forms of differentiation and distinction.,-0.0193643004515283
+40,4055," numbers related to technical specifications, particularly in electronics.",0.1268782820787438
+40,824,"phrases related to secrecy, confidentiality, and keeping information hidden.",0.2838217938829501
+40,1823," web addresses, dates, and numbers.",0.1416949572839768
+40,5557,relevant numerical values and their associated units or measurements.,0.0087015544153465
+40,1516,"words related to rules, laws, and regulations.",-0.0140012610162303
+40,364," combinations of letters and numbers, often related to technical specifications or codes.",0.0393469630086296
+40,4808, phrases related to groups or teams working together.,-0.0016764499768268
+40,3612, numeric values and codes.,0.2443128554974384
+40,6364, parts of sentences with multiple connecting words or phrases.,0.020155740668682
+40,3515," groups, organizations, and collective nouns.",-0.0605405072275698
+40,556, words and phrases related to projects or activities.,0.0232057063552933
+40,183, words and phrases related to job markets and employment situations.,0.1458727368759427
+40,3254, phrases describing relationships or connections between items or concepts.,0.0110095143805815
+40,6067, proper nouns related to political figures and events.,0.1124758210112778
+40,3636, action-related phrases in various contexts.,0.0551035797703846
+40,1555, words and phrases related to finance and monetary transactions.,0.1041295021975491
+40,6106,locations and names of companies or organizations.,0.099786613962825
+40,4244, words related to controversial or sensitive issues.,-0.0578226865003912

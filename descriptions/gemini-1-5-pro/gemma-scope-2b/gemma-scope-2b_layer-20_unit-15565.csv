@@ -1,0 +1,6 @@
+layer,unit,description,mean_activation,highlights
+20,15565,Process or function related to a type or class,9.416781425476074,"['Text #1:  action (9.45713996887207)', 'Text #2:  categories (9.376422882080078)']"
+20,15565,"Discussions of financial matters and wealth disparity, along with sports news, religious faith, and personal reflections",,[]
+20,15565,"Medical, scientific, or academic publications/research/studies",,[]
+20,15565,Negation or absence of requirement,13.376222610473633,"['Text #1:  java (18.79367446899414)', 'Text #2:  not (7.958770751953125)']"
+20,15565,Second person pronoun related to consumption or usage of something,7.9256134033203125,"['Text #1:  You (7.9256134033203125)', 'Text #2:  You (7.9256134033203125)']"

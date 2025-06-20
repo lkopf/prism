@@ -1,0 +1,6 @@
+layer,unit,description,mean_activation,highlights
+0,9661,Data/internet service plan offerings,0.8125391602516174,"['Text #1:  packs (0.7991009950637817)', 'Text #1:  packs (0.8259773254394531)']"
+0,9661,Business competitors/competition,9.682665824890137,['Text #1:  rivals (9.682665824890137)']
+0,9661,Competition between entities/products,13.605048179626465,"['Text #1:  rival (13.957883834838867)', 'Text #1:  rival (13.252212524414062)']"
+0,9661,Competitors/competition,9.70656967163086,['Text #1:  rivals (9.70656967163086)']
+0,9661,"Tropical drinks, Alaskan rivers, or cooking",7.4212247133255005,"['Text #1:  rival (13.259861946105957)', 'Text #2: ival (1.582587480545044)']"

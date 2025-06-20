@@ -1,0 +1,6 @@
+layer,unit,description,mean_activation,highlights
+0,13767,"Events, classes, or establishments with schedules, times, dates, costs, or locations",,[]
+0,13767,Strong opinions or demands,2.459222435951233,"['Text #1:  complaining (4.447352886199951)', 'Text #2:  insisted (2.0580666065216064)', 'Text #3:  insists (0.8722478151321411)']"
+0,13767,"Website/software features, functionalities, services, and businesses, especially related to online businesses, e-commerce, or website development",,[]
+0,13767,"A discussion of product features or specifications, often in a comparative context",,[]
+0,13767,Negative customer feedback about products,4.570277690887451,['Text #1:  complaining (4.570277690887451)']

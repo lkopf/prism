@@ -1,0 +1,301 @@
+layer,unit,explanation,AUC,U1,p,MAD
+0,6314,"Medical procedures, hospital access, biological and cellular processes, academic institutions and chemistry, or electronic states of matter, family planning, or behavioral medicine",0.8116000000000001,1884.0,0.0006881885454218992,0.7050265852976142
+0,6314,"Events, celebrations, or holidays and their related activities",0.9212,788.0,4.468691434991117e-06,1.4682049817132123
+0,6314,Fast food or a character named Ivana,0.8505,1495.0,0.0001345130735059496,0.9010390054085368
+0,6314,"Streaming service details, cute or fuzzy creatures, or game user interface elements and fixes",0.7718,2282.0,0.003070073809894906,0.48575362158417373
+0,6314,"Discussions about social media marketing and its integration with broader online strategies, or discussions of communication, commerce, and Blackberry Messenger contact services",0.86,1400.0,8.79829461930034e-05,0.8944478197931032
+0,2725,Entities that are not robots,0.9545,455.0,7.379752621842835e-07,1.9741605637000166
+0,2725,"Toys appropriate/suitable for children, including dolls, tricycles, flippers",0.9793999999999999,206.0,1.766459695280253e-07,2.5537980121885524
+0,2725,Winning or being awarded something,0.9732999999999999,267.0,2.523966747387902e-07,2.3828581651046057
+0,2725,"Topical climate, strangers who are impatient and destructive, inevitability, going ahead, repulsive behavior, overcoming obstacles without belief, being ready to eradicate something while predicting approaching rain and perceiving expanse",0.9885,115.0,1.029075356074078e-07,2.933988705411011
+0,2725,"Phytonutrients, giving something antioxidant properties, or cycling, OR earning something through riding or being a biker",0.9674999999999999,325.0,3.529538171365153e-07,2.264111236427707
+0,4297,"Real estate agency services, guarantees, or shipping and delivery processes",0.9158000000000001,842.0,5.913207566758224e-06,0.864354184128081
+0,4297,"Preventing leaks/damage, expressions of gratitude, or the Zend Framework",0.9199,801.0,4.781860452982845e-06,0.8636172011902785
+0,4297,"Discussions of anxiety, social interactions, uncertainty, and life events, or redevelopment strategies and voluntary cleanup programs or comparative statements",0.9022,978.0,1.1797261151156834e-05,0.7905789794552177
+0,4297,"Game or band-related content, referencing resources, controllers, multiplayer features, or a location, members, and music of a band",0.9009,991.0,1.2588509446133501e-05,0.7120161515002039
+0,4297,"Financial or legal agreements, including those related to taxes, employee stock options, company shares, or licensing agreements",0.9682000000000001,318.0,3.390240073992266e-07,3.7998074355493636
+0,4842,"Hair care and styling, Christmas gift ideas, team/intelligence agencies, compilation errors, relationship therapy",0.4949,5051.0,0.9561239596441852,-0.19233509874146568
+0,4842,"Discussions of generations, problems, classes, and ringtones, video chats, emails and data usage, shelving systems, companies, customers, products, teams, storage solutions, online shopping carts, broken phone screens, and Tesla's production in China",0.33130000000000004,6687.0,0.06615231558276276,-0.5607768273694654
+0,4842,"Data integrity, batch records, packaging design, cleaning programs, or Hib vaccine series, unit responses, and comments or office ergonomics, perspective, habits, and health issues",0.1774,8226.0,0.00044127388056817144,-0.8985609581950972
+0,4842,"The abbreviation BG, likely referring to Bowling Green, appearing in the context of Bowling Green State University and its student newspaper",0.1956,8044.0,0.0009138114101086329,-0.86113110377675
+0,4842,"Cross-country cycling, including trail features like roots, available routes, favorite trails, specific locations like ridges or corners, and trail loops",0.07550000000000001,9245.0,3.759508461986397e-06,-1.1670726531876274
+0,5551,United Nations Security Council actions or medical information about encephalitis and its vaccine,0.4968,5032.0,0.9726233427210386,1.5739956255015641
+0,5551,"Playhouse memberships, vaping products, government aid programs, or loyalty programs and their subsidiaries",0.001100000000000001,9989.0,5.485232663027702e-08,-1.4818382771202074
+0,5551,"Parts of footwear (sneaker, embossed, heel) or text (wording) related to footwear and requirements (recognition, entry)",0.02020000000000001,9798.0,1.7253458170022376e-07,-1.098813094180632
+0,5551,"Espionage, legal matters, comparisons, high places, boundaries, and initialisms",0.15750000000000003,8425.0,0.00019080601478961272,-0.9306366044311761
+0,5551,"Minimizing investment, implementation, dedications, outages, advantages, principles, art, animation, gadgets, areas, countries, trading, high",0.2967,7033.0,0.026804945354894374,-0.46047540624159633
+0,1749,"Legal cases, pharmaceutical quality control issues, or reward points programs",0.021700000000000007,9783.0,1.8844661366012334e-07,-2.4507375287020112
+0,1749,"Real estate sales, easing the process of selling a home, specifically referencing Massachusetts and the transition involved",0.01140000000000001,9886.0,1.0229290877398768e-07,-2.446050328654967
+0,1749,"A giraffe canvas print growth chart, including customization options like background color and name personalization, with mentions of invoice, note to seller, and the final print",0.005800000000000005,9942.0,7.300532038886129e-08,-2.7032375791023333
+0,1749,Locations or establishments,0.018600000000000016,9814.0,1.569950173824799e-07,-2.2595089554941525
+0,1749,"Information needed about a show/movie titled ""My Daddy is in Heaven"" on American Netflix",0.0025000000000000022,9975.0,5.974401278504218e-08,-2.8894085323288605
+0,3943,"Rebellion, negative actions, or snakes",0.9898,102.0,9.518898732039492e-08,3.0147779576317277
+0,3943,Removing calcium from swimming pools,0.9308000000000001,692.0,2.6937296324175056e-06,1.6393180498800943
+0,3943,"Film and TV show ratings, real estate sales and marketing, or polyester dupion fabric",0.9763999999999999,236.0,2.106471978246986e-07,2.6228788238953133
+0,3943,"Tips, advice, or strategies",0.9360999999999999,639.0,2.0278246176907076e-06,1.9927031401852837
+0,3943,Clothing or stressful Christmas gift suggestions,0.9767,233.0,2.069811181834571e-07,2.580305722967062
+0,5960,"Construction, real estate sales, car rentals, or website live chat features",0.8279,1721.0,0.00035450159745890804,0.8615676879808865
+0,5960,"Locations related to geographic features, events, or establishments",0.9263999999999999,736.0,3.4015408599919726e-06,1.7638486919802834
+0,5960,"Religious faith, software/programming language design, artistic endeavors, or unstructured children's play",0.9265,735.0,3.3836357347912706e-06,1.562393659681623
+0,5960,"Mechanical conveyance, bows, or informal dining establishments",0.9268000000000001,732.0,3.3304610301186833e-06,1.4798747315000242
+0,5960,Extreme weather events,0.9084,916.0,8.633192930472837e-06,1.3722023694931913
+0,3696,"Fear, geographical charts, scamming, and ergonomics/diabetes",0.001100000000000001,9989.0,5.485232663027702e-08,-1.4617898058815852
+0,3696,"Gambling, live broadcasts, or educational opportunities",0.0039000000000000033,9961.0,6.50572312903225e-08,-1.398616822859028
+0,3696,"The name ""Baz"" appearing as part of ""Shaune Bazner"" in the context of shawl pins",0.0004000000000000004,9996.0,5.255433869802383e-08,-1.501362599968284
+0,3696,"Specific aspects of databases or structured datasets, such as tracking data, categories, summaries, surfing, stand-up paddleboarding, places, and car models",0.0001000000000000001,9999.0,5.159830430437887e-08,-1.5726667548140594
+0,3696,"Fixes to multiple selections, cauldron-related crashes, and evoker fangs",0.014800000000000002,9852.0,1.2532017275493844e-07,-1.328955228068624
+0,3533,Ordinal numbers,0.5102,4898.0,0.9119484988751676,-0.12867688663204732
+0,3533,"Ordering gifts, flowers, or other items online or in stores",0.6693,3307.0,0.06519378023712288,0.28462159164694106
+0,3533,"Data storage media, including tapes, disks, and recorders",0.9435,565.0,1.3567704384269971e-06,1.7786562061747173
+0,3533,Places or the month of July,0.2585,7415.0,0.008525337040109326,-0.6721959379975325
+0,3533,The afterlife and navigating a webpage,0.5579000000000001,4421.0,0.5285257578999434,-0.037152977595390296
+0,3124,"Selling or performing a duty, an executive search and hiring process, financial planning services for high net worth clients, a musical prodigy's adolescence and career, an elite financial advisor award, or stressing a lack of criminal intent during a celebrity arrest",0.0018000000000000015,9982.0,5.7247561289514174e-08,-1.0070666852815577
+0,3124,"Gene expression, cell lines, pandemic H1N1 2009 virus, immunization/vaccination, or furniture",0.8029999999999999,1970.0,0.0009649633891357354,1.817174993281692
+0,3124,"Consolidation, presentation, registrant, boulevard, redevelopment, or gathering/bringing together",0.005300000000000004,9947.0,7.082696454003445e-08,-0.9146346876246007
+0,3124,"Locations or information kiosks, high definition, the Opel car brand and a new car model presentation or exhibition",0.004200000000000004,9958.0,6.625392847153903e-08,-0.9108916791498797
+0,3124,Information about a movie/show's availability on American Netflix,0.004500000000000004,9955.0,6.747193827297039e-08,-0.9314372547910739
+0,1149,"First-person personal experiences, introspection, thoughts, reality, mind, and self-awareness, or the number 63 within a recipe or how-to guide",0.24230000000000002,7577.0,0.0050002453131889725,-0.8035340904359319
+0,1149,"Jeep, internet, automotive parts, or iPhone remote control features",0.016100000000000003,9839.0,1.353886730644816e-07,-2.052455710915442
+0,1149,"Alcoholic beverages, vaping, HVAC companies, numbers, or food items",0.01090000000000001,9891.0,9.92726865362816e-08,-2.073417867302399
+0,1149,"Techno music, DJs, events, or music venues",0.017500000000000016,9825.0,1.4710614385898046e-07,-1.8065740177200633
+0,1149,"Information about the movie ""My Daddy is in Heaven"" on American Netflix, including details like availability, expiry, seasons, ratings, and cast",0.06970000000000004,9303.0,2.7664081607167286e-06,-1.316130289685208
+0,6114,"Locations, trails, junctions, or resorts, as well as phone diagnostics, broken phones, promises, car models, new model cars, car shows, and car size",0.6633,3367.0,0.07531211879092359,0.3402933492265191
+0,6114,"Color, a specific year, the autumn season, or a storage container from the 1800s",0.5805,4195.0,0.3807701499599797,0.07788110847474146
+0,6114,"The Linux distribution Ubuntu, the year 2019, or the word ""kids""",0.3522,6478.0,0.10746531540603688,-0.45555418114483415
+0,6114,"American Netflix availability, expiry, and scrolling",0.4652,5348.0,0.7049918857911155,-0.195557404762708
+0,6114,"Dates, numbers, names of people and places, medical terms, words related to real estate and construction",0.5408999999999999,4591.0,0.6562848794691779,0.023755065015874443
+0,3279,Locations or specific items relating to a description or recounting of a past event,0.7732000000000001,2268.0,0.002921437012990842,0.6753173720174528
+0,3279,"Fixes related to game updates including languages, mobs, worlds, and the in-game marketplace",0.8916,1084.0,1.991715271245203e-05,1.3235950230510276
+0,3279,"Questions about weather phenomena, health, or sports drinks, often involving specific numbers, or choice questions",0.8687,1313.0,5.9111713979973556e-05,1.152313868878742
+0,3279,"Affection, shared interests, critical choices, geographic locations, numbers, physical properties, chemical properties, time, motion",0.7836,2164.0,0.0020070267146132604,0.7061555781722592
+0,3279,"Information about the movie ""My Daddy is in Heaven"" on American Netflix, including details",0.8789,1211.0,3.668003356480264e-05,1.2228707984664258
+0,440,Sales tax rates and/or zip codes,0.008600000000000007,9914.0,8.645621026039616e-08,-3.369368889441539
+0,440,"Discussions about video chat details, stable internet connection requirements, responsibility for connection issues, and handwritten notes, or a person's background, communication style, beliefs, community involvement, conversation topics, and family life including motherhood and allergy precautions, and a pledge supper",0.03810000000000001,9619.0,4.861127562784514e-07,-2.039044591824287
+0,440,"Footwear, databases, or quantities",0.01210000000000001,9879.0,1.0667105008348766e-07,-3.132134560728955
+0,440,"Loyalty, dependence, love, or food items and packaging descriptions, or years and page numbers",0.01130000000000001,9887.0,1.0168183573247629e-07,-3.207103759067112
+0,440,Crossword clues found on a particular page,0.09600000000000002,9040.0,1.0779697439271577e-05,-1.3027998071688858
+0,4405,"Universal remotes, ringtones inaudible to adults, or full and unrestricted software versions and prices/bonuses related to credit cards",0.006200000000000006,9938.0,7.47945934689835e-08,-2.3440810935392844
+0,4405,"Information about the movie ""My Daddy is in Heaven"" on American Netflix, including details, USA availability, and social media sharing",0.007700000000000007,9923.0,8.189035105052961e-08,-2.2566706477216605
+0,4405,"Discussions about processes, instructions, or technical aspects",0.0033000000000000026,9967.0,6.272633918917213e-08,-2.566579420822815
+0,4405,University information,0.022700000000000012,9773.0,1.9983305283883337e-07,-1.9192121306479815
+0,4405,A place or establishment name,0.01170000000000001,9883.0,1.0414753049284881e-07,-2.2571690787996546
+0,5781,Publication timestamps and recycled materials,0.11850000000000002,8815.0,3.2417808364006766e-05,-0.8703740871430782
+0,5781,"Minecraft game bug fixes and changes including Enderman, potions, pickaxe, diamond achievement, torches, cauldron, template worlds, riding, marketplace adjustments, Android enter key, and leaving boat",0.0855,9145.0,6.322539862976152e-06,-1.0219680481144302
+0,5781,"Quantities, company leadership changes, or descriptions of flavors/textures",0.12400000000000001,8760.0,4.206035386049976e-05,-1.392308561659859
+0,5781,Occupations or roles of people,0.5413,4587.0,0.6531387055028248,-0.07231194906722735
+0,5781,"Microscope reticles, grids, and crosshairs",0.1573,8427.0,0.00018916227101253253,-0.7599853245052248
+0,3057,"Tiling services in Trinidad, CA",0.16799999999999998,8320.0,0.0002986205310312927,-0.9559203093437573
+0,3057,"Remote access, beverage company rebranding, real estate sales, construction updates, character creation in a game, or recreational facilities",0.4562,5438.0,0.6336164494268615,-0.16098007913069307
+0,3057,"Game items, features, or substances, sometimes related to updates or fixes, or types of sports",0.5723,4277.0,0.43119894611705645,0.2769340939499748
+0,3057,"American Netflix details, including country and ratings",0.4522,5478.0,0.602909098158056,-0.18167000042176712
+0,3057,"Recreational activities, including details about seasons, equipment, locations and types of activities",0.3613,6387.0,0.1309033062115377,-0.40144621257601903
+0,5085,"Israeli authorities issuing banning orders, or information about a movie on Netflix",0.2002,7998.0,0.0010919980689843125,-0.7713882342276683
+0,5085,Exhibiting symptoms,0.1266,8734.0,4.751326046943474e-05,-1.1525929414547045
+0,5085,"Car type or becoming profitable, or advisors, travel, and conversation",0.4576,5424.0,0.644518609542839,-0.1310726390558177
+0,5085,"Appliances, food, health, or web services",0.5136,4864.0,0.8826402184676669,-0.01903902600840486
+0,5085,"A location (Windham, ME) and its associated zip code and county (Cumberland)",0.1691,8309.0,0.000312742912854438,-0.9478407534956754
+0,4679,A paraplanner position at a wealth management firm or a discussion of open-source business intelligence software and market trends,0.9884999999999999,115.0,1.029075356074078e-07,4.361869577610269
+0,4679,"First-person, present tense descriptions of positive experiences or useful resources",0.9894999999999999,105.0,9.69188308524015e-08,4.9757946030725115
+0,4679,"Events, current or past",0.9678,322.0,3.4691754560935315e-07,2.65323563421434
+0,4679,Updated/latest audio training/testing/courses/guides/materials related to certifications like Lean Six Sigma Black Belt or similar professional/career development resources,0.9942,58.0,7.300532038886129e-08,5.731644973713145
+0,4679,"Ordinal numbers, like first, last, another, next",0.9733,267.0,2.523966747387902e-07,3.9487621843614984
+20,328,"Prepositions related to methods, ingredients, or purposes of home remedies or treatments",0.9927999999999999,72.0,7.945558028199424e-08,4.329242127505676
+20,328,Discussions of anxiety or open-source business intelligence,0.9904,96.0,9.181851755468456e-08,3.808634385426992
+20,328,"Meteorology, including tropical cyclones, droughts, and related concepts",0.9988,12.0,5.51884581828221e-08,5.178848399407108
+20,328,Locations or places,0.9847999999999999,152.0,1.28338380546819e-07,3.3837476019300348
+20,328,"Namecheap, discounts, dedicated servers, quality, subscribing",0.9922,78.0,8.238590129118299e-08,3.9748731827064687
+20,5789,Social media login/registration process,0.9967,33.0,6.272633918917213e-08,5.510477691092539
+20,5789,"Traveling, moving, or performing actions related to routes or paths",0.9964,36.0,6.388148636305179e-08,5.954587323547458
+20,5789,Mortgage or hair care advice and tips,0.9482,518.0,1.047719785988398e-06,2.277333308878243
+20,5789,Discussions of French people speaking or using English,0.9953,47.0,6.829596580492863e-08,6.026819272118403
+20,5789,"Start or begin, especially related to a company or venture",0.9971,29.0,6.121758199063496e-08,5.6385506349401675
+20,4268,"Tools or methods used for joining or fastening objects, potentially involving some sort of insertion or filling of spaces",0.3444,6556.0,0.0901380995549128,-0.5554385372803228
+20,4268,"Discussions of locations, events, or entities and their attributes, especially in reviews, summaries, or informational contexts",0.4322,5678.0,0.46044424548480645,-0.3836954909194649
+20,4268,"Second-person pronouns or possessive pronouns relating to the second person, often in the context of advice or instructions",0.7414000000000001,2586.0,0.008552701901930505,0.49125424750276275
+20,4268,Car brands meeting production targets or revealing new models and features,0.43600000000000005,5640.0,0.4859807346002072,-0.3737428486460547
+20,4268,Positive outcomes or characteristics,0.6144999999999999,3855.0,0.2124349908358073,0.14267196734523818
+20,2988,"Refugees in Thailand, vehicular assault clients, and internally displaced persons in Benue state",0.33440000000000003,6656.0,0.07129142766909985,-0.5175695055166746
+20,2988,"Information about entertainment, services, or events related to countries, locations, or nationalities",0.5173,4827.0,0.8509288008487157,-0.07898732332722928
+20,2988,"A male person being the recipient of an award or recognition, or a sports team's position or a part of a game",0.32489999999999997,6751.0,0.05650553901296703,-0.542141425108034
+20,2988,"Personal pronouns, articles, conjunctions, prepositions, punctuation, and common verbs related to descriptions of an entity, its characteristics, actions, or creative work, or to temporal or conditional relationships",0.2749,7251.0,0.014212352544685154,-0.6541890081854891
+20,2988,"A preference for cross country rides, often involving a lot of jumps, miles, and specific trail areas like the Gulch",0.1256,8744.0,4.534108746407895e-05,-1.0873596589077221
+20,4683,Health effects of prolonged sitting or real estate market trends and statistics,0.15039999999999998,8496.0,0.00013995919595488743,-1.1016474513452346
+20,4683,Software parameters or configuration information,0.3557,6443.0,0.11605271267353728,-0.4814639276048879
+20,4683,"Locations, family members, or sports events and players",0.5917000000000001,4083.0,0.318037582558201,0.1524971219928757
+20,4683,"A personal or professional introduction, sometimes about communication or community involvement",0.03250000000000001,9675.0,3.529538171365153e-07,-1.6681343023029116
+20,4683,"Types, varieties, or specifics of something",0.23309999999999997,7669.0,0.0036462265478124384,-0.8181503306421664
+20,6045,"Health, lifestyle, and workplace ergonomics",0.5444,4556.0,0.6289681560513896,-0.1302749115354874
+20,6045,"Discussions of nutrition, exercise, or recipes",0.5188,4812.0,0.8381382015594744,-0.18938539288045922
+20,6045,"Discussions of products, items, or features and their cost, or discussions of templates or pre-made designs",0.5767,4233.0,0.4036736172795584,-0.02943634750893735
+20,6045,"Software, recreational activities, birth announcements, crossword puzzle solutions, and children's play areas",0.4949,5051.0,0.9561239596441852,-0.23493827226927128
+20,6045,"Information about a movie/show on American Netflix, including episodes/seasons and ratings, prompting the user to scroll down for more information",0.4929,5071.0,0.9387766092829196,-0.24878601717500826
+20,5741,"Discussions about Minecraft servers, including cracked servers, premium servers, and recently updated servers, sometimes relating to Blockdrop and worldwide servers",0.07670000000000002,9233.0,4.003909434571332e-06,-0.9139038444467601
+20,5741,"Seeking, selecting, or offering services to customers",0.9767,233.0,2.069811181834571e-07,3.1708805832474596
+20,5741,"Government services, directions, conditionals, and ""to"" prepositions",0.9798,202.0,1.7253458170022376e-07,3.3367235170840717
+20,5741,"Requests, being glad to fulfill them, or being involved in something",0.9801,199.0,1.6951191257924447e-07,3.3314008050914508
+20,5741,"Discussions of risk, surprise, habitual actions, notable events, and attraction to concepts related to nature's power",0.5749,4251.0,0.4148045533974748,-0.08263727272376409
+20,5662,"Allowing, letting, or permitting something",0.9663999999999999,336.0,3.759661253058211e-07,2.694775833546138
+20,5662,"Discussions of historical research and medieval life, or the word ""the""",0.9837,163.0,1.3700553560075196e-07,3.8973020377227945
+20,5662,Presence of trails or the effects of hard water in swimming pools,0.9671,329.0,3.6116006216933554e-07,2.6437481044812836
+20,5662,"Food, quantity, ingredients, shape, price, parking difficulty, recommendation to visit and tell others",0.9944,56.0,7.212630106292318e-08,4.617368327554984
+20,5662,"A discussion of Namecheap hosting and promotions, especially discounts on shared hosting",0.9648,352.0,4.1204088720059997e-07,2.59426257528752
+20,2679,"Setting, scheduling, or arranging things, often with a temporal aspect",0.9568000000000001,432.0,6.486086211420512e-07,2.209689690782704
+20,2679,"Financial planning, budgeting, saving money",0.9971,29.0,6.121758199063496e-08,5.921525284454742
+20,2679,"Discussions of trails, including preferred trails, trails that return to a starting point, trails with a lot of jumps, and many spurs off the main trail",0.9485,515.0,1.0304862372139619e-06,1.9199031706432341
+20,2679,"Buildings, locations, and objects related to Venice and old age",0.9733999999999999,266.0,2.509331060684086e-07,3.119709141786901
+20,2679,"Personal pronouns, specifically first person possessive singular, followed by discussion of time management, organization, or uncertainty",0.9944999999999999,55.0,7.169064437859728e-08,5.123149767180178
+20,2869,"Christmas gifts, shopping, or holidays",0.9817,183.0,1.5423606750129356e-07,3.657583412729534
+20,2869,"Exposure to substances or experiences, movement or relocation, beginnings and endings, groups or gatherings, positive emotions, discovering or finding things",0.9987,13.0,5.552658549556701e-08,5.822344108524672
+20,2869,Skin or face care and food/recipe instructions,0.982,180.0,1.5152403215598068e-07,3.7189502841680637
+20,2869,"Discussions of cracked Minecraft servers, including methods for joining, server capacity, access to features like custom skins, server listings, and minigames",0.978,220.0,1.917949996771412e-07,3.34596189844864
+20,2869,"Discussions of requirements for start-ups, including funding, and subsequent acquisition of clients",0.9956,44.0,6.706354444790232e-08,4.75236969294283
+20,1424,"Locations or establishments and trails, ridges, or valleys",0.9624,376.0,4.724851984904011e-07,2.6188013656189684
+20,1424,"Tastebuds, unbleached and unbromated flour, illnesses, Blocks Pizza, way this dough, easily digestible, they support local farms, so ingredients are fresh, Blocks Pizza slices, which are divided, spices, Depending on the time or day parking, so go, Blocks Pizza Deli, GreatFoodList, Great food list, south Florida",0.9452,548.0,1.2360276435465028e-06,2.0066817482483863
+20,1424,"Locations, musical instruments, band names, album names, and record labels",0.9539,461.0,7.63172221021718e-07,2.5892553044226676
+20,1424,"Media, television, and technology",0.984,160.0,1.345871789755623e-07,3.4185301782405593
+20,1424,"SharePoint sites, products, or LCS",0.9878,122.0,1.0731111766166369e-07,3.7872705010441137
+20,5278,"Interpersonal relationships, romantic breakups, extreme weather events, and fictional groups with superhuman abilities",0.8197,1803.0,0.0004967756195040661,0.8390094461753855
+20,5278,Discussions of real estate sales and the United States,0.8447,1553.0,0.00017344091536674155,1.015612964473019
+20,5278,Airline perks and international travel for education,0.9258000000000001,742.0,3.5108946824380525e-06,1.633581342170349
+20,5278,"Experiences related to beauty, childhood, cost of living, substance use, or entrance instructions",0.8523000000000001,1477.0,0.0001242143050370317,1.0859352240457527
+20,5278,Online training or learning materials,0.8499,1501.0,0.00013812115384902852,0.9918880319490602
+20,2325,Automotive industry or car insurance,0.8074,1926.0,0.0008125489418430923,0.8181471970840792
+20,2325,"Family members, occupations, types of products, or hobbies",0.7657,2343.0,0.0038015559691573415,0.6400760635721798
+20,2325,Containers and their contents,0.8674999999999999,1325.0,6.247679486234347e-05,1.1875619604630712
+20,2325,Parts of the body and accessories related to winter sports or eyewear,0.9793000000000001,207.0,1.7768852307132305e-07,2.634425476279956
+20,2325,Availability of something,0.7799,2201.0,0.002296960775688998,0.6956137087256072
+20,2700,"Titles containing the current time or ""now""",0.9961,39.0,6.50572312903225e-08,4.995512017581898
+20,2700,Proper nouns at the beginning of the text excerpt,0.9934,66.0,7.66263063621759e-08,4.717504829722924
+20,2700,"Discussions of religion, current events, United Methodist Women, or the State of the Union address",0.995,50.0,6.955031368034283e-08,4.965490291687423
+20,2700,"Minecraft servers, years, IP addresses, server names, game modes",0.9722,278.0,2.6905000039792935e-07,2.9478490147904117
+20,2700,"A promotional code for web hosting or a question about the requirements for starting a company, followed by a description of a specific company",0.9932,68.0,7.755838035388528e-08,4.588493563267962
+20,3313,Quantities or inclusion followed by people affected by something,0.9487,513.0,1.0191491335129942e-06,2.02720773489143
+20,3313,Winning a voucher or prize,0.9949,51.0,6.997336708859392e-08,5.724243229202024
+20,3313,"Political divisions, child play sessions, opening academic peer review to the public, and art project layout",0.9152,848.0,6.098875122070918e-06,1.5233952366893835
+20,3313,"Cardinal numbers, especially the number three, related to Venetian and Parisian landmarks",0.8701,1299.0,5.540275528577376e-05,0.9866938446275063
+20,3313,Discussions of real estate development or UI/UX design for unusual devices,0.9643,357.0,4.2398353380224875e-07,2.3811071746476316
+20,1004,"Quantifiers, conjunctions, or temporal expressions related to the quality, taste, or popularity of food, ingredients, recipes, or restaurants",0.2909,7091.0,0.022754247798536437,-0.5817477728102352
+20,1004,"Concepts of time, duration, and specific months, or important actions/steps relating to food preparation or game updates",0.7329,2671.0,0.011186140402766527,0.720946997878386
+20,1004,"Age limits, time ranges, and conditional clauses",0.8599000000000001,1401.0,8.838167777727851e-05,1.3457091142126496
+20,1004,"Extended periods, significant effect, benefit, additional instance, timely hospital access contributing to positive result, agreement, conditional duration, and occurrence at a specific time of year",0.8300000000000001,1700.0,0.0003247601499986043,1.495876322492534
+20,1004,"Phrases related to selling, getting ready to move, researching used vehicles or increasing website traffic",0.7415999999999999,2584.0,0.008498050490294107,0.5343621760553704
+20,4447,Discussions of OpenCL and SPIR ABIs or the Western Sahara conflict,0.9367,633.0,1.963275382152734e-06,1.6155226696336065
+20,4447,"Conditional sentences and examples about history, alteration, or dog training using online tools",0.9928999999999999,71.0,7.897710293378093e-08,5.654813747818894
+20,4447,"Christmas shopping, courtesies, quantifiers like all/any/everything/whole, truth, outside, date (23rd), off, Walmart",0.9943000000000001,57.0,7.256451521970357e-08,5.75328027860466
+20,4447,"Fixes or changes related to all or non-specific entities or groups, or the whole of something",0.9973,27.0,6.047644354672595e-08,6.023854243560222
+20,4447,"Questions about quantities or totals related to diverse topics like communication, trails, and mathematical problems",0.9995,5.0,5.2876810476304814e-08,7.12200485382844
+20,1406,Growth in a specific sector or area of finance,0.9851999999999999,148.0,1.2532017275493844e-07,3.669783639252871
+20,1406,Discounts on services or products and unlimited service options,0.9501000000000001,499.0,9.430848496311086e-07,2.049341670770676
+20,1406,"A beverage company rebranding as a blockchain company, and lacking the claimed technological expertise",0.9659,341.0,3.868987387573217e-07,2.5569214840822885
+20,1406,"Discussions of pricing, sales, or real estate transactions, six sigma certifications, consequences of prolonged sitting, or joining Minecraft servers",0.9912,88.0,8.750382036173956e-08,4.268987864810222
+20,1406,"Creative ideas, rooms, hairstyles, and vertical depth",0.9691000000000001,309.0,3.2189236345252537e-07,2.8577872530864044
+20,3885,Expressions related to location or position,0.9311,689.0,2.6510058765591275e-06,1.507472643415443
+20,3885,"A person, place, or program's name in a placeholder or introductory context",0.9018999999999999,981.0,1.197552924372621e-05,1.178126736697627
+20,3885,Airline features and amenities,0.8986999999999999,1013.0,1.4044146996163166e-05,1.1759719811878924
+20,3885,"Real estate amenities, Off-Broadway theatre ticket information, H1N1 virus information, or information about something on Netflix",0.9177,823.0,5.360283636265281e-06,1.3576528953788942
+20,3885,"Descriptions of chess sets, including the word ""well"" preceded by ""polished""",0.9493,507.0,9.858535820797227e-07,2.043321336623359
+20,1790,"Locations, often related to the US, political events, and social issues",0.9801000000000001,199.0,1.6951191257924447e-07,2.58828243406867
+20,1790,"Medical information related to vaccines, including recommendations for specific demographics, risks, and prior infections",0.96,400.0,5.414380511985641e-07,2.2736656905817694
+20,1790,"Joining, playing on, or administering cracked Minecraft servers",0.9842,158.0,1.3299793770871095e-07,2.70705454449684
+20,1790,"Types of services, server specifications, or interesting locations in Venice",0.9801,199.0,1.6951191257924447e-07,2.4540470660091476
+20,1790,Sports teams or dog training programs,0.9562,438.0,6.708605389787679e-07,2.463148213872031
+40,4965,"Locations, roles in American football, months, and controversy",0.9847,153.0,1.2910385103187507e-07,2.7703599595891717
+40,4965,"Information about a movie/show on American Netflix including details such as addition date, expiry date, new episodes/seasons, ratings, cast, etc",0.9944,56.0,7.212630106292318e-08,4.564006681718289
+40,4965,"Discussions of creative works, scholarly articles, or electronic devices",0.9329,671.0,2.408002358067366e-06,1.7728145668378983
+40,4965,"Discussions of farm animals, produce, or equipment",0.3724,6276.0,0.16464483184086987,-0.34880326856036653
+40,4965,Types of vehicles,0.806,1940.0,0.0008584342294859993,0.8474169804697691
+40,3948,"Dogs, music, and AV equipment",0.14840000000000003,8516.0,0.00012812776706585004,-0.7254373608506763
+40,3948,"A hotel or location followed by ""is"" and the word ""wallpaper""",0.2495,7505.0,0.0063608398998262145,-0.605116191145529
+40,3948,"A brand of graphics card, resolution and percentage related to its performance",0.012200000000000011,9878.0,1.0731111766166369e-07,-1.027057702581178
+40,3948,Prices or costs related to specific products or services,0.0601,9399.0,1.651011785664401e-06,-1.038135011391472
+40,3948,Jamaican Patois or off-Broadway tickets or a pledge supper,0.4188,5812.0,0.3766398390727391,-0.33695487918842654
+40,4055,"Data storage, hosting services, children's play areas, or software updates",0.33309999999999995,6669.0,0.06909780599318144,-0.26400966346272586
+40,4055,Discussions of political issues in the context of redevelopment strategies,0.062200000000000005,9378.0,1.850026736567959e-06,-0.7751129547065235
+40,4055,Offers and inquiries about market research or information about a movie/show on a streaming platform,0.1077,8923.0,1.9247680995750155e-05,-0.8296694544513866
+40,4055,"Experiences related to biking trails or biking in general, or the amount sixteen-year-olds have to pay for car insurance",0.062000000000000006,9380.0,1.8301219986692543e-06,-0.9173805734228196
+40,4055,"The preposition ""to"" appearing before the words ""touch"" and ""these"", where ""touch"" describes a striking attribute of something, and ""these"" refers to a plural noun, typically shoes, in the context of fashion or product description, or appearing before the word ""be"" describing the nature of something",0.0016000000000000016,9984.0,5.655305677098586e-08,-1.0696827850394732
+40,824,"Formal meetings, pedagogical actions, current events, and high school alumni",0.0039000000000000033,9961.0,6.50572312903225e-08,-1.5546957808058257
+40,824,"Locations, trails, or paths",0.09050000000000001,9095.0,8.16418659441277e-06,-1.0158734241747696
+40,824,"Christmas, scandals, steps in a crafting process, Minecraft patch notes, or legal cases",0.2912,7088.0,0.022949912950294842,-0.5111786516075459
+40,824,"Bowling Green State University, BG News, and student newspaper",0.0026000000000000025,9974.0,6.010914989508201e-08,-1.6008659994022956
+40,824,modifying database table fields,0.01210000000000001,9879.0,1.0667105008348766e-07,-1.2924432258257992
+40,1823,Ranges or spans of something,0.8189,1811.0,0.0005131945231125362,0.9341565872451334
+40,1823,"Information about a movie/show title on Netflix including details like cast, ratings, and availability",0.2127,7873.0,0.0017510352842072885,-0.7339440766624244
+40,1823,Discussions of interpersonal relationships or automation,0.6601,3399.0,0.08121214657337056,0.24339169020218912
+40,1823,Medical outcomes or children playing,0.29960000000000003,7004.0,0.029054079293231654,-0.5321801431101779
+40,1823,"Preparing, planning, or discussing ideas or actions",0.12240000000000001,8776.0,3.900568305122209e-05,-0.9564169790263015
+40,5557,"Information about the movie ""My Daddy is in Heaven"" on American Netflix, including details like the date it was added, expiry date, new episodes/seasons, ratings, and cast",0.9027999999999999,972.0,1.1448294534942034e-05,1.2971267001623856
+40,5557,"The process of selling a home, including working with homeowners, determining pricing and marketing strategies, and facilitating a smooth transition for the seller",0.8262,1738.0,0.000380423816044688,0.6578629253345377
+40,5557,Post World War II business development and infrastructure projects in South Africa,0.6517,3483.0,0.09849778534893736,0.038639466402302654
+40,5557,"Software, programming languages, or video games",0.7916000000000001,2084.0,0.001491418730519169,0.550400674487455
+40,5557,"Discussions of antioxidants, free radicals, or electrolytes in recipes or reviews, or descriptions of running, celebrity sightings, or sports scores",0.7605999999999999,2394.0,0.004531013304570786,0.41495946593790495
+40,1516,"Crossword clues, their fit, and navigation back to other clues, or viewing an article in a browser",0.013400000000000013,9866.0,1.1528783211649897e-07,-1.5894227806248604
+40,1516,"Duration, time, and discussion of scheduling via email, and requirement of stable internet connection",0.006300000000000005,9937.0,7.524850538994518e-08,-1.8111851447256524
+40,1516,"Taxi, game updates, crafting projects, or real estate, with possessives or first person pronouns",0.0071000000000000065,9929.0,7.897710978009257e-08,-1.8605923428308269
+40,1516,"Tesla's Model 3 production, hotel amenities, current time and connected clients, and solar energy advancements",0.009400000000000009,9906.0,9.072092372140264e-08,-1.7035433418264754
+40,1516,Themes accompanied by details of their appearance,0.3429000000000001,6571.0,0.08707894814436679,-0.6319831445627351
+40,364,"Quantities, including numbers, percentages, and prices",0.7901,2099.0,0.001577658591856018,0.7879995307610531
+40,364,Measurements of size or quantity,0.8778,1222.0,3.8639001513027016e-05,1.0036904348069688
+40,364,"Information about media, credit card benefits, licensing agreements, or support for governmental programs",0.6519,3481.0,0.09805452749459416,0.05876753684681878
+40,364,Requests or offers of information about people or products,0.629,3710.0,0.16005969535278708,0.010013654731070278
+40,364,Unavailability of files or resources with a mention of a future update,0.5014000000000001,4986.0,0.9882652668628124,-0.19031530166972804
+40,4808,"Real estate, construction project updates, storage solutions, or business partners",0.055800000000000016,9442.0,1.3057387796064498e-06,-1.56776804646742
+40,4808,"Discussions of entertainment, sports teams, or children's play areas",0.42799999999999994,5720.0,0.43311448808525743,-0.028588885089976642
+40,4808,"Personal opinions or surprised reactions about health, lifestyle, or historical human behavior",0.003800000000000003,9962.0,6.466300591235927e-08,-2.029364637859094
+40,4808,twin primes,0.1669,8331.0,0.0002850971411767142,-0.8390728430140342
+40,4808,"Deletion in text about hotels or furniture/interior design, especially home interior wall colors, and photos of houses, or the word ""your"" in text about hairstyles",0.0396,9604.0,5.293082088920167e-07,-1.6668786194497003
+40,3612,"Discussions of fences, specifically relating to sheep escaping, and  a rare bird sighting, its attempted capture, and cautionary advice against supplemental feeding",0.3831,6169.0,0.20300206728609105,-0.5052260833478751
+40,3612,Clinical studies of children or membership at a playhouse,0.7128,2872.0,0.02045768154557653,0.24841159468559196
+40,3612,"User interface elements or website features, their properties, or actions related to them",0.6737,3263.0,0.05850915002154581,0.21675492124850854
+40,3612,"Discussions of duration, often numerically specified, relating to tasks, events, or activities",0.4172,5828.0,0.36730343044730585,-0.44082782738714765
+40,3612,"Benefits of avocado, information about movies on Netflix, historical research, and Christmas shopping advice",0.5677,4323.0,0.4611064996190908,-0.16027715599979095
+40,6364,"Bibliographic entries with the author ""Tower, Greg"" mentioning a journal focused on social responsibility",0.23709999999999998,7629.0,0.004187635404386781,-0.647968928125781
+40,6364,"Information about a movie/show where ""Daddy"" is in Heaven and there is information about seasons",0.006700000000000006,9933.0,7.709097913210274e-08,-3.138417064077589
+40,6364,"Attributes, features, or specifications of a product or item",0.037300000000000014,9627.0,4.6448632897998876e-07,-2.902695952081663
+40,6364,"Personal experiences, beliefs, or opinions, often related to health, lifestyle, or personal interests",0.008000000000000007,9920.0,8.338572793418424e-08,-3.060182298250603
+40,6364,"A fatal error related to a robot model construction, or a bug report and request for assistance",0.005200000000000005,9948.0,7.039891265086137e-08,-3.2741848096536113
+40,3515,"Discussions of furniture, plants, or footwear, sometimes including time or purpose descriptions",0.01070000000000001,9893.0,9.80889242107056e-08,-1.8946801897118375
+40,3515,"Advanced technology use to provide products with functionality since a year, original items, and dream house decoration",0.02170000000000001,9783.0,1.8844661366012334e-07,-1.6121630946796213
+40,3515,"Sports, marketing/promotions, and device repair",0.02460000000000001,9754.0,2.2332623019397122e-07,-1.515925583218682
+40,3515,Experiences related to everyone or travel,0.017300000000000017,9827.0,1.453740964963758e-07,-1.6510015263528035
+40,3515,Impact of terrorism on human lives,0.09509999999999999,9049.0,1.0302892085780864e-05,-0.8574561220554175
+40,556,"Information about a movie on American Netflix, including its possessive pronoun, expiration, additional details, allowing others to know what the user is currently viewing",0.1921,8079.0,0.000796720507464567,-0.6350872442800861
+40,556,"Events, organizations, or concepts related to joining or connecting",0.5987,4013.0,0.2824814837506341,0.22063729601745688
+40,556,"Experiences, feelings, or actions related to giving or choosing gifts, and descriptions of bike trails or parks including details of their features or usage",0.029300000000000014,9707.0,2.934780751037229e-07,-1.2184508967089056
+40,556,Placeholder pages for a person not on a website or ticket purchasing and cost information,0.007600000000000006,9924.0,8.139768773386253e-08,-1.5098344046802288
+40,556,"Education, learning, or teaching, sometimes with an emphasis on specific locations or universities",0.20230000000000004,7977.0,0.0011835888417647269,-0.6177367087582338
+40,183,"Discussions of importing, potentially from Google Reader, loyalty, or prettiness, or discussions of therapy or thanking someone, or discussions of installing or potentially supplying a wholesale system or warehouse",0.025500000000000002,9745.0,2.3536542416223603e-07,-1.2195201698033762
+40,183,"Locations, durations, quantities, or sources",0.01170000000000001,9883.0,1.0414753049284881e-07,-1.189096910462189
+40,183,"Experiences related to products, locations, and sensations",0.01110000000000001,9889.0,1.004702718233883e-07,-1.1533037286911811
+40,183,Median hospitalization,0.09870000000000001,9013.0,1.2339808124167244e-05,-0.9509555702416359
+40,183,Amenities or services,0.35150000000000003,6485.0,0.10580979472954848,-0.2554030031757516
+40,3254,"Discussions of relationships, including couples counseling, sales or manufacturing related to the Australian market, or real estate sales trends",0.01130000000000001,9887.0,1.0168183573247629e-07,-3.2547112791287285
+40,3254,Sweeteners or footwear,0.0020000000000000018,9980.0,5.795032743408495e-08,-3.89103460147482
+40,3254,"Novelty, or trying new things",0.02410000000000002,9759.0,2.1689720508209757e-07,-2.4796331541814376
+40,3254,Expressing opinions on current events or providing feedback during a review process,0.0050000000000000044,9950.0,6.955031368034283e-08,-3.726173348855997
+40,3254,"Information about the movie ""My Daddy is in Heaven"" on American Netflix",0.015700000000000013,9843.0,1.3221013995678284e-07,-2.973711484133525
+40,6067,"First person singular pronoun, sometimes contracted with 'm, sometimes followed by conjunctions like 'but' or verbs like 'seem', Robbie Williams, beaches, and men",0.9473,527.0,1.1011008699417342e-06,1.9081092396775197
+40,6067,Naming creative work after a song from 1945,0.9122,878.0,7.114022188791765e-06,1.4223079244052537
+40,6067,"Responding to inquiries, especially in the context of real estate or sales",0.4688,5312.0,0.7343312228508965,-0.25978681172009144
+40,6067,"Discussions of US presidents, art galleries and exhibits, or financial advisors and firms",0.9318,682.0,2.5538314889507143e-06,1.6586939861823768
+40,6067,"Shared hosting, unlimited features, private email hosting, volcanic eruption consequences, public choice theory, or student exam preparation advice",0.9682,318.0,3.390240073992266e-07,2.5119261182099173
+40,3636,Song lyrics by a specific artist,0.01930000000000002,9807.0,1.636194262544681e-07,-1.3956350767588703
+40,3636,"Business, product, or service features and benefits",0.1858,8142.0,0.0006203253681640683,-0.7981641210429286
+40,3636,Food or ingredients combined with other foods or ingredients,0.8145,1855.0,0.00061290899023492,1.1336528516069748
+40,3636,"Personal or professional aspects of health, research, or jobs",0.1033,8967.0,1.550560486037921e-05,-1.0979721249630645
+40,3636,Web hosting features and offers,0.20729999999999998,7927.0,0.0014309600530035614,-0.7054345435789084
+40,1555,"Instructions or recommendations involving food, exercise, or farm activities",0.019200000000000016,9808.0,1.6265679953946828e-07,-0.9997151092030929
+40,1555,Romance and questions,0.04710000000000003,9529.0,8.070193339019306e-07,-0.7119231289345306
+40,1555,"Discussions about services, programs, or features, often provided by ""we"" or ""us"", and sometimes with a location or goal/intention",0.0806,9194.0,4.9078200195175e-06,-1.2681886071938206
+40,1555,"Insurance, car seats, locations, or wallpaper",0.4639000000000001,5361.0,0.6945013847495323,-0.11627056451368747
+40,1555,"Discussions of projects, hairstyles, or UI/UX design and conversion rate optimization",0.012000000000000012,9880.0,1.0603467810907552e-07,-1.1673903478231034
+40,6106,"Questions about robotics, specifically replacing a robot arm component and troubleshooting robot model construction errors",0.008100000000000007,9919.0,8.389003725369118e-08,-1.3903746137755004
+40,6106,"Second person pronoun, optionally followed by ""also"", related to acquiring something from a source, or second person pronoun in the context of cross-country cycling",0.02370000000000001,9763.0,2.1188311026523568e-07,-1.2310379998622742
+40,6106,"Image stabilization, or shake reduction, in cameras and software/game crashes",0.8886000000000001,1114.0,2.304576735242061e-05,2.398463512297659
+40,6106,Discussions about services offered remotely/online,0.018100000000000005,9819.0,1.5242287894889437e-07,-1.2070231616165379
+40,6106,A phone model with an e-ink keypad and its price with contract and discount,0.3163,6837.0,0.045412805482726464,-0.2739010452473925
+40,4244,Questions about route definitions in web frameworks,0.378,6220.0,0.18397734473179006,-0.46200889843522164
+40,4244,Discussions of future possibilities,0.6966,3034.0,0.03224565075446079,0.14007764055139624
+40,4244,Benefits related to UI/UX design for business,0.4038,5962.0,0.29485757779783617,-0.4281915719703938
+40,4244,Work shifts and/or medical conditions,0.5085,4915.0,0.9266502368464095,-0.26931305811287026
+40,4244,"Company rebranding and shifts in business strategy, particularly in the beverage and gift/loyalty program sectors",0.4511,5489.0,0.5945834577709639,-0.35712628101875

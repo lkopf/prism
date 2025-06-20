@@ -1,0 +1,6 @@
+layer,unit,description,mean_activation,highlights
+10,1319,"Products or services with technical specifications, often including numerical values for size, capacity, speed, or other measurements",,[]
+10,1319,"Events, services, or establishments in a specific location",,[]
+10,1319,Dictionaries or encyclopedic entries and conjunctions,0.8498804867267609,"['Text #1:  entry (1.047169804573059)', 'Text #2:  as (0.6525911688804626)']"
+10,1319,"Timestamps, specifically times of day",0.825710654258728,"['Text #1: y (1.0274468660354614)', 'Text #2:  at (0.7538115978240967)', 'Text #3:  at (0.695873498916626)']"
+10,1319,"Ownership of creative digital content, specifically relating to Italian architecture or fashion accessories and their online availability",1.3819569150606792,"['Text #1:  content (1.7770596742630005)', 'Text #2: izz (1.6233729124069214)', 'Text #3:  Link (0.7454381585121155)']"

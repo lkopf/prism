@@ -1,0 +1,6 @@
+layer,unit,description,mean_activation,highlights
+10,27166,Medical conditions or events,1.0252363979816437,"['Text #1:  Attack (1.2366023063659668)', 'Text #2:  Kick (0.8138704895973206)']"
+10,27166,"Competition, playoff, or tournament sporting events",1.0284336109956105,"['Text #1: - (1.4411425590515137)', 'Text #2:  fight (1.3410214185714722)', 'Text #3: ront (0.9805129170417786)', 'Text #4:  the (0.9087807536125183)', 'Text #5: - (0.7559225559234619)', 'Text #6: le (0.7432214617729187)']"
+10,27166,"Financial/business topics, digital skills training, or software platforms and their features/benefits",,[]
+10,27166,Relating to an edition or version of a book or relating to a card game,1.2425342202186584,"['Text #1: IS (1.4569216966629028)', 'Text #2: ap (1.028146743774414)']"
+10,27166,"Conflict, competition, or combat",1.5229604095220566,"['Text #1:  Fight (2.4516701698303223)', 'Text #2:  Strikes (1.6955609321594238)', 'Text #3: rc (1.2233530282974243)', 'Text #4: point (0.7212575078010559)']"

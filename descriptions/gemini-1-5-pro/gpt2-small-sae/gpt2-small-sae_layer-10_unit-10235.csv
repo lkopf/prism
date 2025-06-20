@@ -1,0 +1,6 @@
+layer,unit,description,mean_activation,highlights
+10,10235,"Financial services, including banking, loans, investments, insurance, and financial advice",,[]
+10,10235,Expressing condolences or sympathy,0.9165515899658203,['Text #1: ll (0.9165515899658203)']
+10,10235,First person plural possessive pronoun,0.8416237831115723,"['Text #1:  our (0.9799261093139648)', 'Text #2: att (0.8509544134140015)', 'Text #3: att (0.6939908266067505)']"
+10,10235,Common stock and a date related to stocks outstanding,0.9838412404060364,"['Text #1:  Stock (1.1834474802017212)', 'Text #1:  31 (0.7842350006103516)', 'Text #2:  Stock (1.1834474802017212)', 'Text #2:  31 (0.7842350006103516)']"
+10,10235,"Availability, belonging, or association with visuals, fashion, or location",0.8597469925880432,"['Text #1:  is (0.9841236472129822)', 'Text #2:  images (0.9212512969970703)', 'Text #3:  go (0.8004209399223328)', 'Text #4:  Kem (0.7331920862197876)']"

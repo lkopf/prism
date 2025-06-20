@@ -1,0 +1,6 @@
+layer,unit,description,mean_activation,highlights
+5,28636,"Locations, often with specific details like addresses, coordinates, or names of establishments",10.20764446258545,['Text #1: v (10.20764446258545)']
+5,28636,Online forum discussions,1.4846572478612263,"['Text #1: thread (1.206449270248413)', 'Text #1: php (1.0646611452102661)', 'Text #1: t (2.182861328125)']"
+5,28636,"Tax obligations related to real estate transactions involving non-resident sellers, specifically the buyer's responsibility to withhold and remit a percentage of the sale price to tax authorities",,[]
+5,28636,"Discussions of financial or social disparities, sometimes involving specific groups or individuals",,[]
+5,28636,"Discussions of computer hardware and software, website creation and management, recipes, personal anecdotes and hobbies, product reviews, and summaries of events",,[]

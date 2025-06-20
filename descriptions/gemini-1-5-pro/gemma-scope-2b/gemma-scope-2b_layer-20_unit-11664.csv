@@ -1,0 +1,6 @@
+layer,unit,description,mean_activation,highlights
+20,11664,"Products or items with specifications or descriptions including materials, dimensions, and sometimes usage instructions",,[]
+20,11664,"Software documentation, parameters, return values, comments, and descriptions",23.80472772771662,"['Text #1: + (16.250581741333008)', 'Text #1: + (23.490741729736328)', 'Text #1: + (24.621124267578125)', 'Text #1: \n (7.4265899658203125)', 'Text #1: + (20.59381866455078)', 'Text #1: + (31.394023895263672)', 'Text #1: + (34.11402893066406)', 'Text #1: + (33.49789810180664)', 'Text #1: + (31.699905395507812)', 'Text #1: + (32.43485641479492)', 'Text #1: + (29.913162231445312)', 'Text #1: + (27.227657318115234)', 'Text #1: + (17.62615966796875)', 'Text #1: + (22.479949951171875)', 'Text #1: + (24.491451263427734)', 'Text #1: + (21.86376190185547)', 'Text #1: + (26.15960693359375)', 'Text #1: + (29.492168426513672)', 'Text #1: + (23.568012237548828)', 'Text #1: + (30.46076202392578)', 'Text #2: 1 (7.011909484863281)', 'Text #2: 1 (7.885839462280273)']"
+20,11664,Locations and events,,[]
+20,11664,Descriptions of food preparation or recipes,,[]
+20,11664,"Discussions of wealth, economic disparities, faith, and scientific theories, frequently referencing titles of books, movies, or teachings",,[]

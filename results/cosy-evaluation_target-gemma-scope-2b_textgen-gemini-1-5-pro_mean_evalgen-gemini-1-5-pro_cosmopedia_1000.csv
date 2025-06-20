@@ -1,0 +1,301 @@
+layer,unit,explanation,AUC,U1,p,MAD
+0,10698,"Products or works related to lighting fixtures, musical instruments, fashion apparel, book descriptions, food, furniture, industrial equipment, or cosmetics",1.0,0.0,5.128334270816195e-08,86.7012329208151
+0,10698,"Beginning of text, names of people, places, organizations, brands, products, companies, events, and acronyms",1.0,0.0,5.128334270816195e-08,55.441567756006656
+0,10698,"Medical, chemical or technical terminology related to specific entities or processes",1.0,0.0,5.128334270816195e-08,97.48394830675255
+0,10698,"Locations, people, events, and organizations often related to history, geography, or entertainment",1.0,0.0,5.128334270816195e-08,87.7615731783269
+0,10698,"Korean food, names, locations, music, and entertainment",1.0,0.0,5.128334270816195e-08,98.70158749260685
+0,2725,End of sequence activations,0.4543,5457.0,0.5949464431095741,-0.35454966067119165
+0,2725,End of a text excerpt,0.4364,5636.0,0.4588189710188335,-0.34840882179868604
+0,2725,"Experiences, events, or entities related to travel, leisure, or tourism",0.5859,4141.0,0.3177735491736875,-0.3204917528816046
+0,2725,End-of-sentence punctuation,0.5006,4994.0,0.9948889427976926,-0.33814582574092156
+0,2725,End of sequence token activations,0.33670000000000005,6633.0,0.05682944416188641,-0.3633986706696155
+0,2696,A person's interaction with machinery/tools/devices/instruments,0.29100000000000004,7090.0,0.010855057660985708,-0.48637473607463094
+0,2696,"Male individuals, vehicles, and acts of observation",0.29100000000000004,7090.0,0.010855057660985708,-0.48637473607463094
+0,2696,"Body parts, vehicles, and the pronoun ""he""",0.29100000000000004,7090.0,0.010855057660985708,-0.48637473607463094
+0,2696,"Transport, animals, or giving",0.29100000000000004,7090.0,0.010855057660985708,-0.48637473607463094
+0,2696,"Tools, food, or devices and their usage",0.29100000000000004,7090.0,0.010855057660985708,-0.48637473607463094
+0,2536,"Performance/capability, often related to delivery, stages or human biology",0.19305,8069.5,0.0006368827513465394,-0.6626503787012465
+0,2536,"Concepts of humaneness, political processes, events happening on a stage, and small-scale events/items",0.29005,7099.5,0.019585314472567856,-0.5422016467498783
+0,2536,"A multi-faceted concept related to performance spaces and the activities occurring within them, including scheduled events and specific locations within the venues",0.17049999999999998,8295.0,0.00024537695455649196,-0.6943505155430157
+0,2536,"Phases or progression related to processes or development, sometimes related to human activity or potential",0.2823,7177.0,0.015522865014856075,-0.5997193773383577
+0,2536,"Locations, small items or things, and motion/movement",0.25925,7407.5,0.007413193253824095,-0.5875034526369853
+0,12182,Products or items and their specifications or descriptions,0.8427999999999999,1572.0,2.179932009174991e-21,22.74489336754297
+0,12182,"Home improvements, dental procedures, taxes, and savings accounts",1.0,0.0,1.3877072741394167e-41,31.976186891656102
+0,12182,Brexit negotiations/deals,0.6855999999999999,3144.0,1.2990505019172153e-07,16.079663751473966
+0,12182,"Themes of socioeconomic status, philosophy, religion, academic research, entertainment, politics, magic/occultism, surveys, physics, circumvention of geoblocking, software platforms, concepts of grace and blessings, biographies, virtual reality, and education",0.8427999999999999,1572.0,2.179932009174991e-21,18.97712274109529
+0,12182,"Culinary creations, artistic endeavors, leisure activities, or product reviews",0.8427999999999999,1572.0,2.179932009174991e-21,18.74032506741215
+0,6600,"Liquids, plants, or plant-based products",0.8557,1443.0,7.961470536467905e-06,0.3720114784755386
+0,6600,"Flora, water, or animals, often in a habitat or natural environment",0.8554,1446.0,8.10278052054756e-06,0.37301695970900733
+0,6600,"Industrial accidents, uncontrolled plant growth, or troublesome animals near bodies of water",0.8551,1449.0,8.246488869118647e-06,0.37071132917252364
+0,6600,"Flora, ecosystems, natural resources, and fixed assets",0.8551,1449.0,8.246487542080872e-06,0.37189543312019313
+0,6600,"Plants, specifically flowers, and also including food and their preparation",0.8574,1426.0,7.204155190919017e-06,0.37525446805737017
+0,3740,"Themes of self-improvement, sales, and coaching, especially in relation to sports, business, or personal development",0.3285,6715.0,0.026850157464546477,-0.4352854357350677
+0,3740,Locations or things encompassing the whole or the majority,0.3285,6715.0,0.026850157464546477,-0.4352854357350677
+0,3740,"Inner thoughts, feelings, and experiences",0.3285,6715.0,0.026850157464546477,-0.4352854357350677
+0,3740,"Professions, often legal or medical, and reflexive pronouns",0.3942,6058.0,0.17290494073790386,-0.37564457159766756
+0,3740,"Legal professionals, pastors, coaches, hotels, everything, whole, and departures",0.3285,6715.0,0.026850157464546477,-0.4352854357350677
+0,2818,"Equipment Coordination Professionals network actions, including changes to terms and conditions, service availability, and user registration requirements",0.34839999999999993,6516.0,0.0690863863470922,-0.3404526697547511
+0,2818,"Actions related to food preparation, cosmetics or crafts, and activities involving exertion",0.27849999999999997,7215.0,0.00782987277607362,-0.4133122527462879
+0,2818,"Actions, often religious ones, or written communication",0.27849999999999997,7215.0,0.00782987277607362,-0.4133122527462879
+0,2818,"Types of lubricant, correspondence, action to take, reticles in microscopes, government and public announcements, types of train, bone and joint supplements, criminology and academic discourse, heart ventricles, parameters, chemical compounds, ophthalmologists, well drilling bits, aseptic processing, specialized commissioning, likelihood estimates, a type of grant, favela dwellers, accountancy, and hallucinations",0.4431999999999999,5568.0,0.4965311835428392,-0.2401166195050201
+0,2818,"Actions, proper names, and publicized items",0.27849999999999997,7215.0,0.00782987277607362,-0.4133122527462879
+0,13502,"Locations, people, events, products, and organizations",0.01150000000000001,9885.0,1.028550858604587e-07,-1.3023377352894454
+0,13502,Proper nouns in different contexts,0.029849999999999995,9701.5,3.0285313052829145e-07,-1.2310158645853984
+0,13502,"The concept of proper names of people, organizations, or locations appearing multiple times in the same text, especially in close proximity",0.13485,8651.5,6.958649796799312e-05,-0.9988580851313777
+0,13502,"Luxury accommodations, food, or transportation, often with specific brands or names",0.0435,9565.0,6.594440777318759e-07,-1.19161923478773
+0,13502,"Medical conditions, treatments, and professionals",0.06385,9361.5,2.0217466380482386e-06,-1.162744036344019
+0,13988,End of text,0.5755,4245.0,0.3977936648502606,-0.32491555183859183
+0,13988,End of text,0.5755,4245.0,0.3977936648502606,-0.32491555183859183
+0,13988,End of text/document,0.5754,4246.0,0.3984193819374089,-0.32491534880682876
+0,13988,End of text/input,0.5762,4238.0,0.39343025081087546,-0.3245273804865128
+0,13988,End of text/short descriptions of items/products/services,0.5754,4246.0,0.3984193819374089,-0.3249246193821546
+0,3681,Experiences or qualifications described as previous or earlier,0.02100000000000002,9790.0,1.8050483932221992e-07,-0.5117859774309336
+0,3681,End of sequence tokens at the end of online advertisements or product descriptions,0.03240000000000002,9676.0,3.503925210205849e-07,-0.5016199521253701
+0,3681,"End-of-sentence occurring after introductory contextual information, such as titles, descriptions, or lead-in phrases",0.026300000000000014,9737.0,2.46154356156583e-07,-0.5068560464257357
+0,3681,End of sequence or a specific word following a very long sequence of empty lists,0.02100000000000002,9790.0,1.8050483932221992e-07,-0.5117859774309336
+0,3681,End of sequence token activations,0.037700000000000025,9623.0,4.7442373329079835e-07,-0.50231471333388
+0,13183,"Locations, proper nouns, and establishments related to hospitality, travel, and entertainment",0.7168,2832.0,0.018204826946387087,1.0300279230295943
+0,13183,"Dishwashers, often the Whirlpool brand, or their components, sometimes clogged",0.4181,5819.0,0.3725371657912052,-0.3874328776925645
+0,13183,"Fax services, kidney and bladder function, adjudication and legal jurisdictions, functional fitness, phone and computer interaction, software functionality, website functions, magic spells, medical leadership competency, comic and camera framing, construction diplomas, Skype functionality, VoIP functionalities, artisanal mining, and daycare competence",0.4416,5584.0,0.5249683487161609,-0.33820202411088673
+0,13183,"Proper nouns in contexts of fantasy, media, politics, and academic disciplines",0.6936,3064.0,0.03497319864603088,0.5725724629002825
+0,13183,"Fantasy elements, functions/routines, and kitchen/household appliances",0.4314,5686.0,0.4551652948575824,-0.3592279418919546
+0,4554,"Duration of service/contract/agreement, or time period of a ban/study/investment, especially in relation to business, finance, legal or technical contexts",0.4447,5553.0,0.5369531435200985,-0.26581238277787606
+0,4554,"Exclusivity, short durations, or small quantities, sometimes referring to locations with ""Spa"" in their name",0.30839999999999995,6916.0,0.0322331091675341,-0.4343457133531557
+0,4554,"Exclusivity, limitations, or allowances",0.28955000000000003,7104.5,0.018685404030034977,-0.46067428950871236
+0,4554,"Intelligence gathering, growing plants, placing objects, time periods, marijuana use, higher goals, something only happening once, running and the greeting ""hi"", being originally from somewhere",0.32370000000000004,6763.0,0.04888194433166821,-0.4313516949983084
+0,4554,"Exclusivity, allowance, placement, increased quantity/quality, and artistic activities",0.6361000000000001,3639.0,0.12873427951302693,0.04873151610133926
+0,14477,"Religious belief systems, dairy products, and feelings of excitement",0.2835,7165.0,0.008937096322677654,-0.48646951464007043
+0,14477,"Food, specifically ingredients like dairy products, spices, and vegetables",0.5245,4755.0,0.7687979536587841,-0.30538099066473706
+0,14477,France or French or religion or leverage or operating,0.31195,6880.5,0.02324033665307094,-0.4691626662529247
+0,14477,"Nationalities, positive properties, and actions/states involving successful outcomes",0.2835,7165.0,0.008937096322677654,-0.48646951464007043
+0,14477,"Proper nouns related to people, places, or organizations, and words semantically connected to feelings of excitement, liveliness, or having successfully completed a task",0.34779999999999994,6522.0,0.06641574929698105,-0.4245296361759297
+0,16268,Discussions of religion or deities,0.267,7330.0,0.005728268040954558,-0.3712734805057247
+0,16268,"End of sequence tokens, most frequently occurring at the end of short texts about products or reviews",0.267,7330.0,0.005728268040954558,-0.3712734805057247
+0,16268,End of sequence tokens,0.267,7330.0,0.005728268040954558,-0.3712734805057247
+0,16268,"Expression of personal experiences, facts, or opinions",0.267,7330.0,0.005728268040954558,-0.3712734805057247
+0,16268,End of a text excerpt,0.267,7330.0,0.005728268040954558,-0.3712734805057247
+0,10531,"Indefinite articles preceding nouns related to digital content, software components, business entities, financial instruments, and technical concepts",0.5839,4161.0,0.35274500639648776,-0.08015708201349668
+0,10531,"Indefinite articles preceding nouns relating to formal official processes, communications, or legal and financial matters",0.42750000000000005,5725.0,0.4220116491531758,-0.3954328356859555
+0,10531,"The indefinite article preceding a noun, often related to a role, title, profession, or singular item",0.7059,2941.0,0.022527257975028216,1.2656204912818578
+0,10531,"Indefinite articles preceding nouns describing amenities, facilities, or features, often within the context of accommodations, locations, or events",0.42610000000000003,5739.0,0.41309924747006976,-0.4015771864920719
+0,10531,"Indefinite articles preceding nouns related to clothing items, body parts, or accessories, often within the context of fashion or product descriptions",0.9011,989.0,8.802012462785447e-06,1.642778052216183
+0,10338,"Appliance malfunction or repair, software drivers, pest control, computer hardware, skin/hair care products, video game cheats, industrial processes, fish food, moving company services, telemetry, biological research, medical conditions, reptilian blood parasite identification, Italian infrastructure development, holster clips, sports eyewear",0.5053,4947.0,0.954388147524794,0.7717342443916122
+0,10338,"Locations, including rooms, buildings, and outdoor spaces, often with proper nouns",0.035300000000000005,9647.0,4.1440023256721625e-07,-1.485619643142815
+0,10338,"Brand names, technology, financial concepts, and general concepts related to digital media or communications, often appearing multiple times in a given text",0.43739999999999996,5626.0,0.49557844797556594,0.731962228885488
+0,10338,"Partnerships, especially those threatened by external forces",0.9694,306.0,3.163689811897454e-07,3.2374235934751936
+0,10338,"Beginning of text, proper nouns related to organizations, places, and people",0.7571,2429.0,0.005102644274594997,1.4275142159196104
+0,12482,"Real estate, locations, and proper nouns",0.0030000000000000027,9970.0,6.158775163971522e-08,-1.4257480583617845
+0,12482,"Pregnancy, babies, and gestational diabetes, or small size/amount",0.0030000000000000027,9970.0,6.158775163971522e-08,-1.4257480583617845
+0,12482,Small devices or tools,0.0030000000000000027,9970.0,6.158775163971522e-08,-1.4257480583617845
+0,12482,"Small, cute items or characters, often described as little",0.0030000000000000027,9970.0,6.158775163971522e-08,-1.4257480583617845
+0,12482,"Themes of finance, politics, conflict, and negative events",0.0030000000000000027,9970.0,6.158775163971522e-08,-1.4257480583617845
+0,6213,Time of year or time period and user or customer friendliness,0.817,1830.0,0.00036180906090731797,0.32773907736306485
+0,6213,"Times of year, customer service qualities, and community involvement",0.817,1830.0,0.00036180904561966185,0.3277936754585105
+0,6213,"Professional or community settings, often related to careers, yearly events, and helpful personnel",0.817,1830.0,0.00036180906090731797,0.3275806542889573
+0,6213,"Time periods including seasons like summer, winter, and the holiday season, sometimes in relation to activities like planning",0.817,1830.0,0.00036180907619497464,0.32825399388390586
+0,6213,"Times of year/sports seasons including preseason, regular season, offseason, and specific seasons like summer and winter",0.817,1830.0,0.00036180907619497464,0.3288661459580963
+0,31,"Names of people, locations, and products/brands, often associated with entertainment, politics, or current events",0.17049999999999998,8295.0,0.0002453769224833584,-0.7180085949378758
+0,31,"Discussions of software development tools, marketing campaigns, or online discussions, often including a list of commands or actions",0.32894999999999996,6710.5,0.05713125239732715,-0.3682565648875929
+0,31,"Locations, typically related to businesses or events, often with an ""outdoor"" or ""vintage"" theme, sometimes related to designers or design",0.17049999999999998,8295.0,0.0002453769224833584,-0.7180085949378758
+0,31,"Locations, objects, or events related to structured marketing or research efforts, especially those involving physical spaces or data gathering",0.17049999999999998,8295.0,0.0002453769224833584,-0.7180085949378758
+0,31,Locations (indoor/outdoor) or descriptive words relating to age or style (vintage),0.17049999999999998,8295.0,0.0002453769224833584,-0.7180085949378758
+10,10818,Numbers or ranges of numbers,0.1254,8746.0,5.7467797771258445e-08,-0.5207316575195662
+10,10818,Locations or events connected to a specific proper noun,0.13765,8623.5,1.5290433524980005e-07,-0.5190946982917614
+10,10818,"Discussions of controversial replacements or alternatives, often focusing on efficacy and public perception, commonly framed within specific geographic locations or organizations",0.15220000000000003,8478.0,4.698663318078664e-07,-0.5168080647130552
+10,10818,"Beginning of or ending of a sentence, paragraph, or list item",0.12995,8700.5,8.295264065327831e-08,-0.5201581816401702
+10,10818,Financial or economic aspects of services or products,0.1414,8586.0,2.0505346926382563e-07,-0.5185768340476105
+10,10787,"The status of software development or implementation tasks, frequently related to wiki or database updates",0.471,5290.0,0.43407498064204497,-0.19543218607492838
+10,10787,"Discussions of wealth, poverty, or economic disparity, often related to mindset or behavior",0.471,5290.0,0.43407498064204497,-0.19543218607492838
+10,10787,"Complete or full versions of games, software, or other products/items",0.471,5290.0,0.43407498064204497,-0.19543218607492838
+10,10787,Total certainty or assurance,0.471,5290.0,0.43407498064204497,-0.19543218607492838
+10,10787,"Duration, extent, or frequency of events or states",0.471,5290.0,0.43407498064204497,-0.19543218607492838
+10,3863,"Scientific study results and conclusions, or a backlink to previous content",0.4985,5015.0,0.8668999038035439,-0.054180141386535076
+10,3863,Discussions of the status or progress of some formal process or agreement,0.4985,5015.0,0.8668999038035439,-0.054180141386535076
+10,3863,Online communities or resources,0.4985,5015.0,0.8668999038035439,-0.054180141386535076
+10,3863,Email or website feed subscriptions,0.4985,5015.0,0.8668999038035439,-0.054180141386535076
+10,3863,"Years, often related to birth dates or anniversaries",0.4985,5015.0,0.8668999038035439,-0.054180141386535076
+10,10341,"Colors, subscriptions, and time units, often appearing in descriptions of protests, scientific observations, or online content",0.7735000000000001,2265.0,6.5989537408270346e-09,5.405109014601777
+10,10341,"Hex color codes and RGB values, often within the context of web design or color selection tools",0.9993,7.0,2.4191405211883613e-25,41.88421007032317
+10,10341,"Colors, numbers, and body parts related to hands, as well as emotions",0.8741000000000001,1259.0,3.744864663370871e-15,4.478906634092972
+10,10341,Colors,0.997,30.0,3.9960541310835524e-25,18.035539919207654
+10,10341,"Sports, especially references to teams and leagues",0.6028,3972.0,0.027074397647668995,0.2871431042106523
+10,4006,"File extensions, URLs, or numerical webpage elements in text excerpts, sometimes related to donations or mission trips",1.0,0.0,5.749023523918321e-132,74.68604152834189
+10,4006,"File path separators and punctuation marks, often found at the end of URLs",1.0,0.0,5.749023523918321e-132,84.63612370028237
+10,4006,"PHP file extensions, or numbers, often followed by the word 'for'",0.4965,5035.0,0.7936511989943162,-0.07505256675918202
+10,4006,"A forward slash or greater than symbol, followed by a period, at the beginning of a line, often preceding a URL or a web address",0.4965,5035.0,0.7936511989943162,-0.07505256675918202
+10,4006,"A question or statement about a specific product or service followed by further information, sometimes including a URL or other link contained within brackets",0.54635,4536.5,0.0010187882797166518,0.40141534844997306
+10,13527,Beginning of text/document,0.14170000000000002,8583.0,3.524795043345931e-08,-1.5116877490528613
+10,13527,Beginning of text in relation to diverse scientific fields,0.18625000000000003,8137.5,1.3821624995627391e-06,-1.3446516039603391
+10,13527,Beginning of text related to reviews of products or services,0.18570000000000003,8143.0,1.3246214085145273e-06,-1.3462192233391022
+10,13527,The beginning of a text excerpt,0.18025000000000002,8197.5,8.659098772188919e-07,-1.3658720488265337
+10,13527,The beginning of a text,0.18085,8191.5,9.076999408729179e-07,-1.36810627903879
+10,1198,A brand/company name,0.498,5020.0,0.8451658793934881,-0.054216432770172907
+10,1198,"Methods for establishing or enhancing online presence, including website creation, backlink strategies, and online marketing",0.498,5020.0,0.8451658793934881,-0.054216432770172907
+10,1198,"Discussions of accounts, subjects, descriptions, and learning, often within the context of a crisis or automation and online platforms or systems",0.498,5020.0,0.8451658793934881,-0.054216432770172907
+10,1198,"Dates and times of events, often related to entertainment, education, or business",0.498,5020.0,0.8451658793934881,-0.054216432770172907
+10,1198,"Recipes and food, often including specific ingredients or cooking methods",0.498,5020.0,0.8451658793934881,-0.054216432770172907
+10,15418,Beginnings of texts about fictional narratives,0.1295,8705.0,3.136019801360052e-05,-0.47501200601152277
+10,15418,First-person plural references to the speaker/author and their services/goals/activities,0.8273,1727.0,0.0002352103068426974,0.5228292528500393
+10,15418,First person plural pronoun related to services or products,0.4709,5291.0,0.7440591468744101,-0.029468295811787178
+10,15418,"First-person plural references to providing a service or product, often expressing enthusiasm, welcoming customers, or offering assistance",0.9661,339.0,1.6252655171280625e-07,4.701743080617541
+10,15418,"Expressions of gratitude, excitement, anticipation, and hope, especially in contexts related to personal interactions, assistance, or future events",0.9037000000000001,963.0,5.720078486332421e-06,1.457116598817718
+10,8945,A stadium name in the context of accessibility improvements for disabled people,0.4995,5005.0,0.9282872148296558,-0.0316227780101397
+10,8945,"Financial incentives or support related to business, government, or organizational activities",0.4995,5005.0,0.9282872148296558,-0.0316227780101397
+10,8945,"Methods to increase website traffic, including seeking backlinks, using SEO, and advertising services",0.4995,5005.0,0.9282872148296558,-0.0316227780101397
+10,8945,Positive customer feedback/reviews,0.4995,5005.0,0.9282872148296558,-0.0316227780101397
+10,8945,"Products or items with features, properties, or specifications",0.4995,5005.0,0.9282872148296558,-0.0316227780101397
+10,11970,"Technical issues, risks, legal services, or business operations and development",0.536,4640.0,0.6953021228738272,-0.05574271923892682
+10,11970,"Positive descriptions of amenities, products, or locations including size, quality, or monetary value",0.0818,9182.0,5.2212461934088e-06,-1.1240036496129937
+10,11970,Political discourse and policy related to government officials or political parties,0.7964000000000001,2036.0,0.0012435894065901565,0.9788353154524079
+10,11970,"Actions and concepts related to careful consideration, thoughtful observation, and attentive listening, often within structured settings like museums, tours, or educational activities, with a focus on processing and interacting with information or experiences",0.3389,6611.0,0.07932503946462927,-0.5597976143549407
+10,11970,"Qualities, characteristics, or features of products or designs that are suitable, beneficial, improve an aspect, or add to positive user experience",0.39030000000000004,6097.0,0.23223534629322728,-0.4341054347681342
+10,9562,Referencing or alluding to earlier parts of the text,0.28049999999999997,7195.0,0.008257404780586255,-0.4637679349108737
+10,9562,"Statements about something said, mentioned, called, or known",0.28049999999999997,7195.0,0.008257404780586255,-0.4637679349108737
+10,9562,"Communication, discussions, or statements, especially in formal contexts",0.31105,6889.5,0.023066126561006393,-0.4524653268142894
+10,9562,"Prior or previous events, actions, or information, sometimes specifically related to writing or speaking about something",0.5182,4818.0,0.8276545203689575,-0.26478968232465094
+10,9562,"Information previously provided, communicated, or displayed",0.9433999999999999,566.0,1.1195927085664009e-07,2.257838983854634
+10,3209,"Commercial or promotional content, often related to real estate or online platforms, including websites and social media",0.055800000000000016,9442.0,1.305649097369258e-06,-1.3289516702907112
+10,3209,"Names of companies or organizations, types of vehicles, months of the year, and words related to mechanical or automated processes/machinery",0.226,7740.0,0.002839425118809519,-0.7899520833893328
+10,3209,"Temperatures, dates (months), places (cities, states), relationships, communications, media (television, photography), restaurants, entertainment, opportunities",0.7287,2713.0,0.012735660020725115,0.6970892109108966
+10,3209,"Positive adjectives or descriptions related to aesthetics, events, holidays, locations, photography, or websites",0.17969999999999997,8203.0,0.00048477178720165466,-0.9205079415380567
+10,3209,"Culinary experiences, often with a focus on specific ingredients or dishes, in restaurant settings or home cooking",0.05100000000000001,9490.0,1.0022980037511655e-06,-1.3785691119652883
+10,2286,"Locations, often including cities and states/regions",0.01125000000000001,9887.5,8.695907521704718e-12,-0.865032246914234
+10,2286,"Locations/areas related to business, employment, or finance",0.00965000000000001,9903.5,7.440108651771e-12,-0.8652164400695413
+10,2286,"Displaying, viewing, presenting, or demonstrating something, sometimes within the context of an organization or event",0.007900000000000008,9921.0,6.269744447329285e-12,-0.8652638932214172
+10,2286,Retail locations of Easter treats or the concept of family relationships,0.01160000000000001,9884.0,8.997126239863633e-12,-0.8651380174922308
+10,2286,"The beginning of texts describing card games, color pickers, car parts, kitchen/bathroom installations, scientific experiments, road constructions, baking tools, minerals, teeth whitening, food recipes, restaurants, optic fiber products, batteries and chargers, computer parts, pickup trucks, medical equipment, fish feeding, online communities, mattresses, and smartwatches",0.008100000000000007,9919.0,6.3937791455521826e-12,-0.8652702619339058
+10,8648,"Locations, times, or numbers in lists of properties, births, sporting events, or hotels",0.02255000000000001,9774.5,4.384502673405284e-10,-0.859471486931861
+10,8648,"Dates and numbers related to financial, legal, or technical documents",0.33340000000000003,6666.0,0.02949308988388747,-0.26703496651444447
+10,8648,"The beginning of texts, sometimes including pronouns or numbers",0.017200000000000007,9828.0,2.7973734473424953e-10,-0.863076675582644
+10,8648,Gene expression profiles from datasets related to brain tissue or cell lines,0.0002000000000000002,9998.0,6.498233386131788e-11,-0.8999886500541614
+10,8648,"Titles, names, and numbers relating to publications, news articles, or media",0.02480000000000001,9752.0,5.289091370568062e-10,-0.8525987142515558
+10,8516,"New, fresh, or refreshing items, sometimes related to food or drinks, and occasionally concerning new students or recent graduates",0.9769000000000001,231.0,3.82008903288156e-09,5.95246677582225
+10,8516,"Freshness, including freshness of ingredients, scents, and new or refreshed states",0.9991,9.0,6.999618765563175e-10,10.54222907823606
+10,8516,"New, original, or truthful things",0.08250000000000002,9175.0,2.4606946726750307e-07,-0.7075484386549481
+10,8516,"Newness, freshness, or starting from scratch",0.8862500000000001,1137.5,1.824015479461437e-06,3.1300707922407103
+10,8516,Water-related concepts,0.18180000000000002,8182.0,8.40181799909982e-05,-0.18694372109585744
+10,1928,"Strong positive outcomes/results of products or services, often in a competitive context",0.7649999999999999,2350.0,0.0034299292284989463,0.5189245050053642
+10,1928,"Political success, popularity, and societal impact",0.8822,1178.0,2.4346145882824762e-05,0.7115624692845999
+10,1928,"Business growth, success, and effective marketing strategies",0.9448,552.0,9.006800977358521e-07,1.8899157578544887
+10,1928,"Popularity, success, and high performance in various domains, such as entertainment, products, or personal achievements",0.8085,1915.0,0.0006573550309449452,1.2886438291043982
+10,1928,"Popularity, success, or positive reception of brands, products, or ventures",0.9391999999999999,608.0,1.2325509045469369e-06,2.1801504153292397
+10,12045,"Totality, entirety, or all aspects of a situation, including points in time, circumstances, or manners of action",0.46449999999999997,5355.0,0.6227104048690408,-0.18123555756068577
+10,12045,"Totality, entirety, beginnings, or minimal amounts",0.363,6370.0,0.0567010752303637,-0.4178480582025719
+10,12045,"Relating to general or complete things, often in relation to initiation, repetition, or totality",0.4584,5416.0,0.5641590881009477,-0.23060468659448197
+10,12045,"Totalities, majorities, or any amount of something, especially in the context of time or an activity",0.363,6370.0,0.0567010752303637,-0.4178480582025719
+10,12045,"Totality, completeness, or absoluteness",0.40430000000000005,5957.0,0.18377295102458113,-0.3570608971184812
+10,15015,"The concept of being behind on current trends, or not up-to-date on information, especially relating to subscription services or new product features",0.9707,293.0,2.559384142424531e-09,3.120042552369278
+10,15015,Locations or positions after or below something,0.8447,1553.0,1.2848098529780127e-05,0.7953410641876622
+10,15015,"Trailing or succeeding concepts, typically related to religion, actions, or objects",0.4828,5172.0,0.8271543736234339,-0.09087309544759528
+10,15015,"The concept of support, backing, or responsibility, often in a spatial or causal sense",0.44820000000000004,5518.0,0.5099744619614668,-0.3889044176515445
+10,15015,Locations relative to other objects/people,0.7971999999999999,2028.0,0.00016689437166505155,0.9558423059491724
+10,603,"Times of day, days of the week/year, or longer durations of time",0.9842,158.0,1.255887428928617e-08,6.102784255218829
+10,603,"Units of time (days, weeks, months, years, hours, minutes, evenings, nights, weekends, centuries, lifetimes)",0.9575,425.0,7.529299728776228e-08,3.323076845098874
+10,603,"Units of time like days, months, and years",0.9735,265.0,2.604066104181892e-08,4.440269462106258
+10,603,"Units of time, often in the context of duration, repetition, or scheduling",0.9003,997.0,2.5314335077913525e-06,2.4114538276440483
+10,603,Units of time,0.8833,1167.0,6.614851489041135e-06,2.4023076082718444
+10,4250,Locations below something,0.4975,5025.0,0.8262064843112343,-0.06633075858153192
+10,4250,"Concepts of sequencing, ordering, or specifying a location within a sequence",0.4975,5025.0,0.8262064843112343,-0.06633075858153192
+10,4250,"Events, services, or establishments in a specific location",0.4975,5025.0,0.8262064843112343,-0.06633075858153192
+10,4250,Technical specifications of various products,0.4975,5025.0,0.8262064843112343,-0.06633075858153192
+10,4250,Culinary recipes or food descriptions,0.4975,5025.0,0.8262064843112343,-0.06633075858153192
+20,1654,Versions of programming languages/software,0.5791999999999999,4208.0,0.008060434159110225,0.010852768831292336
+20,1654,"Numbers, often relating to sizes or dates",0.5803999999999999,4196.0,0.0071516810925262774,0.04757816826876591
+20,1654,"Dates, often including day, month, and year, and software version numbers",0.6766,3234.0,8.301867049353855e-09,0.06266616025123398
+20,1654,Years in dates,0.6757,3243.0,9.876404413669183e-09,0.06362380911954009
+20,1654,Years related to events or publications,0.6788,3212.0,5.410919702194899e-09,0.21499066746028278
+20,13722,"Healthy food, environmentalism, or minimalist lifestyles",0.1365,8635.0,6.229042694213682e-05,-0.32367955828747796
+20,13722,"Investing in sustainable development, including environmental, social, and governance (ESG) factors, community development, and education, especially for women and girls",0.1365,8635.0,6.229042694213682e-05,-0.32367955828747796
+20,13722,"Innovations in energy efficiency, particularly in green building materials and alternative energy solutions, such as solar panels and tidal/ocean currents, are described, alongside their certifications, applications, and benefits",0.1911,8089.0,0.0006717421639304084,-0.3214212309338985
+20,13722,"Environmental topics, food, or product specifications with an emphasis on composition, origin, or usage instructions",0.2952,7048.0,0.024159896051751457,-0.23376296354398485
+20,13722,"Transportation, travel, products, and services related to methods, types, ease, and choices",0.1638,8362.0,0.00021362533599861524,-0.32275248453494326
+20,1817,Three-letter words or abbreviations,0.20439999999999994,7956.0,0.00014336572431075353,-0.5524586389380827
+20,1817,"Names, especially first names",0.8462000000000003,1538.0,8.457488264281622e-06,1.277495160097905
+20,1817,"Names, mostly of people",0.6424,3576.0,0.06704821149061414,0.143841028795068
+20,1817,"Names, especially first names",0.8462000000000003,1538.0,8.457488264281622e-06,1.277495160097905
+20,1817,Names of people and places,0.1027,8973.0,3.2101397345249066e-07,-0.9019130470081365
+20,3307,Days of the week,0.4165,5835.0,0.15992933386420927,-0.18178394668049228
+20,3307,"Days of the week, parts of the day, or time-related words like ""week"" or ""weekend""",0.4165,5835.0,0.15992933386420927,-0.18178394668049228
+20,3307,"Days of the week, sometimes including parts of the day/date",0.4165,5835.0,0.15992933386420927,-0.18178394668049228
+20,3307,"Times of day, days of the week, or other recurring time periods",0.45815,5418.5,0.48256314245923015,-0.17064030658238544
+20,3307,Days of the week and weekend,0.4165,5835.0,0.15992933386420927,-0.18178394668049228
+20,4671,Locations and places,0.0,10000.0,5.094949365380106e-08,-2.0944182261379716
+20,4671,"Definite article ""the"" preceding concepts of website content management, conscious skill, present moment, and months",0.0,10000.0,5.09491255234459e-08,-2.132396211702088
+20,4671,"Themes of framework, operational program, EU funding, and project implementation, especially in the context of health promotion, social programs, and education",0.0,10000.0,5.0949330040023704e-08,-2.121395142603229
+20,4671,"Travel, locations, and events, especially with details about time periods and geographical locations",0.0,10000.0,5.09491255234459e-08,-2.132396211702088
+20,4671,"Contexts relating to specific items or products, often in the form of descriptions, specifications, or sales information",0.0512,9488.0,1.008166415792274e-06,-1.9434631057262917
+20,3429,"Temporal words, often related to simultaneity, frequently in the context of personal activities or processes",0.144,8560.0,9.345141268498875e-05,-0.7898957209631683
+20,3429,Situations involving waiting or occurring during other activities,0.15059999999999998,8494.0,0.00012579389920998213,-0.7732162038940307
+20,3429,"Durations or points in time, especially associated with conditional actions or states",0.12,8800.0,3.030151449800234e-05,-0.8040863679660945
+20,3429,"Temporal expressions relating to duration or simultaneity, often concerning health, technology, or sports.",0.1409,8591.0,8.10140948165871e-05,-0.779102859085698
+20,3429,"Time-related words and phrases, often within the context of simultaneous actions or events",0.2097,7903.0,0.0014432695989284189,-0.5995283939924537
+20,6348,"Fighting competitions, combat sports, or related events",0.663,3370.0,0.001644950079215395,-0.07560371339661905
+20,6348,"Days of the week, rounds in competitions, locations related to sports, and the word ""to""",0.7514,2486.0,1.4296663711221734e-06,-0.06056353174296808
+20,6348,"Commercial or promotional codes, especially in the domains of mixed martial arts, software, and business",0.9745,255.0,2.1616673687284576e-19,1.1130492548801028
+20,6348,"Attributes of apparel and accessories, often in combination with a specific activity or event",0.7628,2372.0,4.668164563107523e-07,-0.010420781535281922
+20,6348,"Sports, competition, and entertainment",0.5304,4696.0,0.5533269691456397,-0.10159824243105012
+20,1478,"Combinations, distinctions, or comparisons between two entities or concepts, often related to types, states, or characteristics",0.017500000000000016,9825.0,1.4692050881681196e-07,-1.0876256010654635
+20,1478,"Options, choices, or alternatives between categories, groups, types, or sets of elements, sometimes involving a selection process",0.017500000000000016,9825.0,1.4692050881681196e-07,-1.0876256010654635
+20,1478,"Categories, types, or variations of something, often involving location, and sometimes involving a combination or interaction of elements",0.017500000000000016,9825.0,1.4692050881681196e-07,-1.0876256010654635
+20,1478,"Discernment between two contrasting abstract or concrete entities/qualities, sometimes involving choice or a mixture of both",0.017500000000000016,9825.0,1.4692050881681196e-07,-1.0876256010654635
+20,1478,"Conditional relationships, often contrasting two groups or characteristics, sometimes involving locations or events",0.017500000000000016,9825.0,1.4692050881681196e-07,-1.0876256010654635
+20,759,Medical terms and biological processes,0.0,10000.0,2.7022553124304897e-08,-2.398354664216737
+20,759,"Words related to accommodation, food, devices, and activities",0.0,10000.0,2.7022594906528035e-08,-2.3509059525801246
+20,759,"Beginning of text, words related to fitness, strength, movement, design, pregnancy, legal terms, work, data, technology, and fortune",0.0,10000.0,2.7022594906528035e-08,-2.3558142205435377
+20,759,"Themes of licensing, legality, finance, and strategy",0.0,10000.0,2.70226027407009e-08,-2.2725090625095428
+20,759,"Skin, beauty, and personal care",0.0,10000.0,2.7022579238187658e-08,-2.3247977991063613
+20,1615,"Beginning of text related to various topics such as cooking, minerals, teeth whitening, cars, fiber optics, electronics, computer drivers, car modifications, vehicles, beauty treatments, fish feeding, dumpsters, mattresses, smart watches, air purifiers, sports eyewear, roofing, SUVs, splashbacks and karaoke equipment",0.0,10000.0,1.2762823702713661e-14,-11.935904291148681
+20,1615,"The beginning of various texts, as indicated by the <bos> token",0.0,10000.0,1.2762805725926163e-14,-12.19376523980221
+20,1615,"Beginning of text in a prompt-based interaction related to volunteering, business, finance, technology, education, or current events",0.0,10000.0,1.2762446195143687e-14,-13.101826067995617
+20,1615,Locations of events or businesses,0.0,10000.0,1.2762284409378814e-14,-13.153841344486773
+20,1615,"The beginning of various texts, often involving names of religious groups, people, or general concepts, sometimes related to Christianity or current events",0.0,10000.0,1.276281920851455e-14,-10.208790810957705
+20,15565,Process or function related to a type or class,1.0,0.0,1.2165618684330218e-201,46.93735965599272
+20,15565,"Discussions of financial matters and wealth disparity, along with sports news, religious faith, and personal reflections",1.0,0.0,1.2167633355998793e-201,46.975812091564364
+20,15565,"Medical, scientific, or academic publications/research/studies",1.0,0.0,1.2167633355998793e-201,46.874952204917086
+20,15565,Negation or absence of requirement,1.0,0.0,1.2167633355998793e-201,46.897742355294014
+20,15565,Second person pronoun related to consumption or usage of something,1.0,0.0,1.2166625978654653e-201,46.92212528043651
+20,10433,"Animals, insects, and people, often related to work or homes",0.2515,7485.0,0.003687725474816787,-0.4489455274535908
+20,10433,"Female personal attributes, interests, or roles (often related to dogs or other animals)",0.2515,7485.0,0.003687725474816787,-0.4489455274535908
+20,10433,"Personal attributes, group affiliation, and relative clauses describing people",0.2515,7485.0,0.003687725474816787,-0.4489455274535908
+20,10433,"Body parts, people, and food/plants",0.2515,7485.0,0.003687725474816787,-0.4489455274535908
+20,10433,"Descriptions of people, often famous, and their actions or characteristics",0.2515,7485.0,0.003687725474816787,-0.4489455274535908
+20,1374,"Percentages, often related to financial or statistical contexts, such as royalty payments, unemployment and poverty rates, company stock changes, or sales and discounts",0.0,10000.0,1.0811612970211333e-10,-0.7887584387913973
+20,1374,"Numbers relating to percentages or shares of a total, often in financial or statistical contexts",0.0,10000.0,1.081164878014615e-10,-0.709917574639535
+20,1374,"Numerical discounts, percentages, and related terms like ""off"", ""deal"", or ""save"", often appearing near monetary amounts",0.0,10000.0,1.0811584699286202e-10,-0.7885912408366605
+20,1374,"Numerical percentages related to finances, health, and other statistics",0.0,10000.0,1.0811584699286202e-10,-0.7810777871679709
+20,1374,"Numerical percentages related to finances, health, or statistics, often appearing in news articles or personal anecdotes",0.0,10000.0,1.0811584699286202e-10,-0.7756718172552063
+20,11664,"Products or items with specifications or descriptions including materials, dimensions, and sometimes usage instructions",0.4955,5045.0,0.7658208103784006,-0.06713779873971942
+20,11664,"Software documentation, parameters, return values, comments, and descriptions",0.4955,5045.0,0.7658208103784006,-0.06713779873971942
+20,11664,Locations and events,0.4955,5045.0,0.7658208103784006,-0.06713779873971942
+20,11664,Descriptions of food preparation or recipes,0.4955,5045.0,0.7658208103784006,-0.06713779873971942
+20,11664,"Discussions of wealth, economic disparities, faith, and scientific theories, frequently referencing titles of books, movies, or teachings",0.4955,5045.0,0.7658208103784006,-0.06713779873971942
+20,8980,"Numbers, especially 1 and 2, in the context of quantities of items or time durations",0.441,5590.0,0.40776812440456733,-0.33298654272956313
+20,8980,"Numbers, often single digits, in date-time stamps",0.40425,5957.5,0.17839800993431976,-0.3622638505844511
+20,8980,"Numbers, often single digits, within descriptive product texts, especially size or count information",0.3675,6325.0,0.062184212917824104,-0.38812915338250054
+20,8980,"Dates, times, and enumerations related to events, people, or locations",0.3675,6325.0,0.062184212917824104,-0.38812915338250054
+20,8980,"Numbers, particularly years or ranks, appearing within content related to sports, politics, business, or personal narratives",0.40425,5957.5,0.17839800993431976,-0.3579856033406953
+20,15809,Questions and answers,0.39849999999999997,6015.0,0.11430960169174229,-0.23180431464218623
+20,15809,"Numbers, especially in the context of measurements and sizes",0.39849999999999997,6015.0,0.11430960169174229,-0.23180431464218623
+20,15809,"Tokens related to locations, times, and separators/conjunctions within text excerpts",0.39849999999999997,6015.0,0.11430960169174229,-0.23180431464218623
+20,15809,"Logical conjunctions and separators such as ""and"", ""or"", commas, periods, forward slashes, plus and equal signs",0.39849999999999997,6015.0,0.11430960169174229,-0.23180431464218623
+20,15809,"List separators, conjunctions, and/or prepositions",0.39849999999999997,6015.0,0.11430960169174229,-0.23180431464218623
+20,7626,Product recalls and safety warnings,0.8132,1868.0,1.8492730275822617e-05,-0.08996601877307059
+20,7626,Events disrupted or canceled due to unforeseen circumstances,0.8089999999999999,1910.0,2.3902820252046182e-05,-0.09840995321835846
+20,7626,"Changes in business operations, including company name changes, software updates/discontinuation, and supply chain disruptions",0.8089999999999999,1910.0,2.3902820252046182e-05,-0.0984163824080389
+20,7626,"Locations, negative events, and consequences",0.8089999999999999,1910.0,2.3902818194815166e-05,-0.09840115645406554
+20,7626,"Travel, transportation, events, schedules, and road conditions",0.8089999999999999,1910.0,2.3902818194815166e-05,-0.09846739751790008
+20,15942,"Liquid damage, unwanted substances, or security breaches in buildings or systems",0.71305,2869.5,0.011610848676518001,0.03262475256081795
+20,15942,"Medical devices, automotive parts, or industrial tools inserted into a body cavity or other object",0.42849999999999994,5715.0,0.3960185966684291,-0.2952665898204231
+20,15942,"Vehicular accidents, disasters, and dangerous situations",0.48589999999999994,5141.0,0.8674489702663098,-0.1394580808131633
+20,15942,"Animals escaping enclosures, specifically by jumping or walking through a damaged section",0.3368999999999999,6631.0,0.05251538460884581,-0.3530304931609408
+20,15942,"Food preparation, consumption, ingredients, or tools",0.42749999999999994,5725.0,0.3894406158438197,-0.25938636377762675
+20,9859,"Events, shows, and exhibitions",0.3196,6804.0,0.021331895187338898,-0.427160660326012
+20,9859,"Formal gatherings including meals, meetings, forums, workshops, exhibitions, showcases, congresses, awards, and specific events like lectures or symposiums",0.17520000000000002,8248.0,3.3946341502032405e-05,-0.7924491884291882
+20,9859,"Events, festivals, tournaments, ceremonies, and other planned occasions",0.22169999999999998,7783.0,0.0003827624784746338,-0.6928031190381214
+20,9859,"Events like showers, receptions, weddings, courses, discussions involving assessments of stances, parties, exhibitions, games, and festivals",0.35649999999999993,6435.0,0.06709277529221196,-0.14879815533976332
+20,9859,"Events, often including specific types like banquets, conventions, tournaments, summits, seminars, services, or festivals, sometimes with specific names and dates",0.206,7940.0,0.0001753643454308104,-0.6558346006031226
+20,4356,"Requests, resolutions, websites, opinions, things, world, life, high definition, charts, lanes, and washers",0.4385,5615.0,0.2385598551518181,-0.13777446535969415
+20,4356,"Software, updates, latest versions, errors, or online articles",0.4385,5615.0,0.2385598551518181,-0.13777446535969415
+20,4356,"Connections, beginnings, and new ventures",0.4385,5615.0,0.2385598551518181,-0.13777446535969415
+20,4356,"Items or products with descriptions, sometimes related to weapons, furniture, cars, electronics, recipes, themes, artwork, jewelry, makeup, or miscellaneous items, often containing bracketed names, locations, or specifications",0.4385,5615.0,0.2385598551518181,-0.13777446535969415
+20,4356,"Concepts of personal accounts, location, editing, interruption or suspension, and numbers",0.48235000000000006,5176.5,0.7365900005088271,-0.1337993636253104

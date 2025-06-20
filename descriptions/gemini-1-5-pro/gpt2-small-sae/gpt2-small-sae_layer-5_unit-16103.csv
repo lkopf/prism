@@ -1,0 +1,6 @@
+layer,unit,description,mean_activation,highlights
+5,16103,Commercial services or products offered and advertised,0.506562814116478,"['Text #1: \n (0.5875300168991089)', 'Text #2: \n (0.42559561133384705)']"
+5,16103,"Discussions of religion, spirituality, or philosophy, often with mentions of specific religious figures, concepts, or texts",,[]
+5,16103,Products or services and their associated companies or brands,0.7974245175719261,"['Text #1: \n (0.8914999961853027)', 'Text #1: \n (1.68612539768219)', 'Text #2: \n (0.7961458563804626)', 'Text #3: \n (0.7358007431030273)', 'Text #4: \n (0.7104317545890808)', 'Text #5: \n (0.7009393572807312)', 'Text #6: \n (0.42922651767730713)', 'Text #7: \n (0.42922651767730713)']"
+5,16103,"Discussions of beauty products, food and recipes, or events",0.6593075096607208,"['Text #1: \n (0.78850919008255)', 'Text #2: \n (0.6707766652107239)', 'Text #3: \n (0.5895475149154663)', 'Text #4: \n (0.5883966684341431)']"
+5,16103,Locations offering services or events,0.5765666961669922,['Text #1: \n (0.5765666961669922)']

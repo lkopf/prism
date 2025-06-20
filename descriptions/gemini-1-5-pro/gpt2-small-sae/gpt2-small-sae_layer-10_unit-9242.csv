@@ -1,0 +1,6 @@
+layer,unit,description,mean_activation,highlights
+10,9242,Product features or qualities,0.8134394926684243,"['Text #1: � (0.8853402733802795)', 'Text #1: � (0.8073325157165527)', 'Text #1: � (0.863807201385498)', 'Text #1: � (0.9078758955001831)', 'Text #1: � (1.0048608779907227)', 'Text #1: � (0.7869007587432861)', 'Text #1: � (0.4379589259624481)', 'Text #2: � (0.8853402733802795)', 'Text #2: � (0.8073325157165527)', 'Text #2: � (0.863807201385498)', 'Text #2: � (0.9078758955001831)', 'Text #2: � (1.0048608779907227)', 'Text #2: � (0.7869007587432861)', 'Text #2: � (0.4379589259624481)']"
+10,9242,"Locations, typically cities, related to businesses or organizations",1.1041103601455688,['Text #1: mand (1.1041103601455688)']
+10,9242,Possessive form of a name or noun,0.842094898223877,"[""Text #1: 's (0.842094898223877)""]"
+10,9242,Possessive pronoun related to a person,0.834535539150238,['Text #1:  his (0.834535539150238)']
+10,9242,"Numbers, often related to quantities or counts",1.1382170518239338,"['Text #1: ij (1.1566855907440186)', 'Text #2: 0 (1.143250584602356)', 'Text #3:  of (1.1147149801254272)']"

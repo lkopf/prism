@@ -1,0 +1,6 @@
+layer,unit,description,mean_activation,highlights
+10,4250,Locations below something,2.874709129333496,"['Text #1: \n (2.983211040496826)', 'Text #2:  below (2.766207218170166)']"
+10,4250,"Concepts of sequencing, ordering, or specifying a location within a sequence",2.9808279991149904,"['Text #1:  order (3.5118203163146973)', 'Text #1:  order (2.828784465789795)', 'Text #2: : (2.9946370124816895)', 'Text #3: \n (2.7844491004943848)', 'Text #4: \n (2.7844491004943848)']"
+10,4250,"Events, services, or establishments in a specific location",,[]
+10,4250,Technical specifications of various products,2.9652371406555176,['Text #1: \n (2.9652371406555176)']
+10,4250,Culinary recipes or food descriptions,3.2187142372131348,['Text #1: \n (3.2187142372131348)']

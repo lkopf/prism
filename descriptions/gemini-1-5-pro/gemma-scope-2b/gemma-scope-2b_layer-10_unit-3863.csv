@@ -1,0 +1,6 @@
+layer,unit,description,mean_activation,highlights
+10,3863,"Scientific study results and conclusions, or a backlink to previous content",4.524423082669576,"['Text #1:  RESULTS (7.016597747802734)', 'Text #1:  CONCLUSION (5.088486671447754)', 'Text #2: ← (5.592599868774414)', 'Text #3: : (3.18310284614563)', 'Text #4: : (3.18310284614563)', 'Text #5:  time (3.082648515701294)']"
+10,3863,Discussions of the status or progress of some formal process or agreement,4.340578595797221,"['Text #1: \n (8.289776802062988)', 'Text #1: \n (3.601674795150757)', 'Text #2:  STORY (3.273695707321167)', 'Text #3: \n (3.7192227840423584)', 'Text #4:  — (3.65097975730896)', 'Text #5:  – (3.5081217288970947)']"
+10,3863,Online communities or resources,3.5769989490509033,['Text #1: community (3.5769989490509033)']
+10,3863,Email or website feed subscriptions,3.281294345855713,"['Text #1: : (3.2828853130340576)', 'Text #2:  RSS (3.279703378677368)']"
+10,3863,"Years, often related to birth dates or anniversaries",9.884512758255005,"['Text #1: \n (8.380596160888672)', 'Text #1: \n (10.38180160522461)', 'Text #1: \n (13.993828773498535)', 'Text #1: \n (12.12431526184082)', 'Text #1: 1 (3.566110849380493)', 'Text #1: \n (12.508030891418457)', ""Text #1: ' (2.975334405899048)"", 'Text #1: \n (14.19996166229248)', ""Text #1: ' (6.545129776000977)"", 'Text #1: \n (14.170018196105957)']"

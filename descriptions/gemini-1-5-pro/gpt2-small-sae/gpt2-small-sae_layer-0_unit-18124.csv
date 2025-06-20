@@ -1,0 +1,6 @@
+layer,unit,description,mean_activation,highlights
+0,18124,Locations or establishments and their descriptions or attributes,,[]
+0,18124,"Website/software development, marketing, and financial services/products",,[]
+0,18124,"Attributes of products related to materials, sizes/dimensions, and/or color",,[]
+0,18124,"Culinary experiences, including cooking, eating, and describing food and meals",,[]
+0,18124,"Religious texts, specifically the Gospels, and their historical and societal context",8.38342833518982,"['Text #1: ospels (8.14670181274414)', 'Text #1: ospels (9.015271186828613)', 'Text #1: ospels (8.889509201049805)', 'Text #1: ospels (8.165196418762207)', 'Text #1: ospels (7.92554235458374)', 'Text #1: ospels (8.15834903717041)', 'Text #2: ospels (8.14670181274414)', 'Text #2: ospels (9.015271186828613)', 'Text #2: ospels (8.889509201049805)', 'Text #2: ospels (8.165196418762207)', 'Text #2: ospels (7.92554235458374)', 'Text #2: ospels (8.15834903717041)']"

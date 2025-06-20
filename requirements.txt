@@ -1,0 +1,813 @@
+accelerate==1.4.0
+    # via transformer-lens
+aiohappyeyeballs==2.4.6
+    # via aiohttp
+aiohttp==3.11.16
+    # via
+    #   boostedblob
+    #   datasets
+    #   fsspec
+aiosignal==1.3.2
+    # via aiohttp
+annotated-types==0.7.0
+    # via pydantic
+antlr4-python3-runtime==4.9.3
+    # via
+    #   hydra-core
+    #   omegaconf
+anyio==4.8.0
+    # via
+    #   httpx
+    #   jupyter-server
+    #   openai
+argon2-cffi==23.1.0
+    # via jupyter-server
+argon2-cffi-bindings==21.2.0
+    # via argon2-cffi
+arrow==1.3.0
+    # via isoduration
+asttokens==3.0.0
+    # via stack-data
+async-lru==2.0.4
+    # via jupyterlab
+attrs==25.1.0
+    # via
+    #   aiohttp
+    #   jsonschema
+    #   referencing
+automated-interpretability==0.0.8
+    # via sae-lens
+babe==0.0.7
+    # via sae-lens
+babel==2.17.0
+    # via jupyterlab-server
+beartype==0.14.1
+    # via transformer-lens
+beautifulsoup4==4.13.3
+    # via nbconvert
+better-abc==0.0.3
+    # via transformer-lens
+bleach==6.2.0
+    # via nbconvert
+blobfile==2.1.1
+    # via
+    #   automated-interpretability
+boostedblob==0.15.6
+    # via automated-interpretability
+cachetools==5.5.2
+    # via google-auth
+certifi==2025.1.31
+    # via
+    #   httpcore
+    #   httpx
+    #   requests
+    #   sentry-sdk
+cffi==1.17.1
+    # via argon2-cffi-bindings
+charset-normalizer==3.4.1
+    # via requests
+click==8.1.8
+    # via
+    #   nltk
+    #   typer
+    #   wandb
+cloudpickle==3.1.1
+    # via submitit
+comm==0.2.2
+    # via
+    #   ipykernel
+    #   ipywidgets
+config2py==0.1.36
+    # via py2store
+contourpy==1.3.1
+    # via matplotlib
+cycler==0.12.1
+    # via matplotlib
+datasets==2.17.1
+    # via
+    #   sae-lens
+    #   transformer-lens
+debugpy==1.8.12
+    # via ipykernel
+decorator==5.2.1
+    # via ipython
+defusedxml==0.7.1
+    # via nbconvert
+dill==0.3.8
+    # via
+    #   datasets
+    #   multiprocess
+distro==1.9.0
+    # via openai
+docker-pycreds==0.4.0
+    # via wandb
+dol==0.3.12
+    # via
+    #   config2py
+    #   graze
+    #   py2store
+einops==0.8.1
+    # via transformer-lens
+executing==2.2.0
+    # via stack-data
+fancy-einsum==0.0.3
+    # via transformer-lens
+fastjsonschema==2.21.1
+    # via nbformat
+filelock==3.17.0
+    # via
+    #   blobfile
+    #   datasets
+    #   huggingface-hub
+    #   torch
+    #   transformers
+fonttools==4.56.0
+    # via matplotlib
+fqdn==1.5.1
+    # via jsonschema
+frozenlist==1.5.0
+    # via
+    #   aiohttp
+    #   aiosignal
+fsspec==2023.10.0
+    # via
+    #   datasets
+    #   huggingface-hub
+    #   torch
+gitdb==4.0.12
+    # via gitpython
+gitpython==3.1.44
+    # via wandb
+google-ai-generativelanguage==0.6.15
+    # via google-generativeai
+google-api-core==2.24.2
+    # via
+    #   google-ai-generativelanguage
+    #   google-api-python-client
+    #   google-generativeai
+google-api-python-client==2.166.0
+    # via google-generativeai
+google-auth==2.38.0
+    # via
+    #   google-ai-generativelanguage
+    #   google-api-core
+    #   google-api-python-client
+    #   google-auth-httplib2
+    #   google-generativeai
+google-auth-httplib2==0.2.0
+    # via google-api-python-client
+google-generativeai==0.8.4
+    # via autointerp-llm (pyproject.toml)
+googleapis-common-protos==1.69.2
+    # via
+    #   google-api-core
+    #   grpcio-status
+gprof2dot==2024.6.6
+    # via pytest-profiling
+graze==0.1.29
+    # via babe
+grpcio==1.71.0
+    # via
+    #   google-api-core
+    #   grpcio-status
+grpcio-status==1.71.0
+    # via google-api-core
+h11==0.14.0
+    # via httpcore
+httpcore==1.0.7
+    # via httpx
+httplib2==0.22.0
+    # via
+    #   google-api-python-client
+    #   google-auth-httplib2
+httpx==0.27.2
+    # via
+    #   automated-interpretability
+    #   jupyterlab
+    #   openai
+huggingface-hub==0.24.0
+    # via
+    #   accelerate
+    #   datasets
+    #   sentence-transformers
+    #   tokenizers
+    #   transformers
+hydra-core==1.3.2
+    # via hydra-zen
+hydra-zen==0.13.0
+    # via autointerp-llm (pyproject.toml)
+i2==0.1.46
+    # via config2py
+idna==3.10
+    # via
+    #   anyio
+    #   httpx
+    #   jsonschema
+    #   requests
+    #   yarl
+importlib-resources==6.5.2
+    # via py2store
+iniconfig==2.0.0
+    # via pytest
+ipykernel==6.29.5
+    # via
+    #   jupyter
+    #   jupyter-console
+    #   jupyterlab
+ipython==9.0.1
+    # via
+    #   ipykernel
+    #   ipywidgets
+    #   jupyter-console
+ipython-pygments-lexers==1.1.1
+    # via ipython
+ipywidgets==8.1.5
+    # via jupyter
+isoduration==20.11.0
+    # via jsonschema
+jaxtyping==0.2.38
+    # via transformer-lens
+jedi==0.19.2
+    # via ipython
+jinja2==3.1.5
+    # via
+    #   jupyter-server
+    #   jupyterlab
+    #   jupyterlab-server
+    #   nbconvert
+    #   torch
+jiter==0.9.0
+    # via openai
+joblib==1.4.2
+    # via
+    #   nltk
+    #   pynndescent
+    #   scikit-learn
+json5==0.10.0
+    # via jupyterlab-server
+jsonpointer==3.0.0
+    # via jsonschema
+jsonschema==4.23.0
+    # via
+    #   jupyter-events
+    #   jupyterlab-server
+    #   nbformat
+jsonschema-specifications==2024.10.1
+    # via jsonschema
+jupyter==1.1.1
+    # via autointerp-llm (pyproject.toml)
+jupyter-client==8.6.3
+    # via
+    #   ipykernel
+    #   jupyter-console
+    #   jupyter-server
+    #   nbclient
+jupyter-console==6.6.3
+    # via jupyter
+jupyter-core==5.7.2
+    # via
+    #   ipykernel
+    #   jupyter-client
+    #   jupyter-console
+    #   jupyter-server
+    #   jupyterlab
+    #   nbclient
+    #   nbconvert
+    #   nbformat
+jupyter-events==0.12.0
+    # via jupyter-server
+jupyter-lsp==2.2.5
+    # via jupyterlab
+jupyter-server==2.15.0
+    # via
+    #   jupyter-lsp
+    #   jupyterlab
+    #   jupyterlab-server
+    #   notebook
+    #   notebook-shim
+jupyter-server-terminals==0.5.3
+    # via jupyter-server
+jupyterlab==4.3.5
+    # via
+    #   jupyter
+    #   notebook
+jupyterlab-pygments==0.3.0
+    # via nbconvert
+jupyterlab-server==2.27.3
+    # via
+    #   jupyterlab
+    #   notebook
+jupyterlab-widgets==3.0.13
+    # via ipywidgets
+kiwisolver==1.4.8
+    # via matplotlib
+kmeans-pytorch==0.3
+    # via autointerp-llm (pyproject.toml)
+llvmlite==0.44.0
+    # via
+    #   numba
+    #   pynndescent
+lxml==4.9.4
+    # via
+    #   blobfile
+    #   boostedblob
+markdown-it-py==3.0.0
+    # via rich
+markupsafe==3.0.2
+    # via
+    #   jinja2
+    #   nbconvert
+matplotlib==3.10.1
+    # via
+    #   sae-lens
+    #   seaborn
+matplotlib-inline==0.1.7
+    # via
+    #   ipykernel
+    #   ipython
+    #   sae-lens
+mdurl==0.1.2
+    # via markdown-it-py
+mistune==3.1.2
+    # via nbconvert
+mpmath==1.3.0
+    # via sympy
+multidict==6.1.0
+    # via
+    #   aiohttp
+    #   yarl
+multiprocess==0.70.16
+    # via datasets
+nbclient==0.10.2
+    # via nbconvert
+nbconvert==7.16.6
+    # via
+    #   jupyter
+    #   jupyter-server
+nbformat==5.10.4
+    # via
+    #   jupyter-server
+    #   nbclient
+    #   nbconvert
+nest-asyncio==1.6.0
+    # via ipykernel
+networkx==3.4.2
+    # via torch
+nltk==3.9.1
+    # via sae-lens
+notebook==7.3.2
+    # via jupyter
+notebook-shim==0.2.4
+    # via
+    #   jupyterlab
+    #   notebook
+numba==0.61.2
+    # via
+    #   pynndescent
+    #   umap-learn
+numpy==1.26.4
+    # via
+    #   accelerate
+    #   automated-interpretability
+    #   contourpy
+    #   datasets
+    #   matplotlib
+    #   numba
+    #   pandas
+    #   patsy
+    #   plotly-express
+    #   scikit-learn
+    #   scipy
+    #   seaborn
+    #   statsmodels
+    #   transformer-lens
+    #   transformers
+    #   umap-learn
+nvidia-cublas-cu12==12.4.5.8
+    # via
+    #   nvidia-cudnn-cu12
+    #   nvidia-cusolver-cu12
+    #   torch
+nvidia-cuda-cupti-cu12==12.4.127
+    # via torch
+nvidia-cuda-nvrtc-cu12==12.4.127
+    # via torch
+nvidia-cuda-runtime-cu12==12.4.127
+    # via torch
+nvidia-cudnn-cu12==9.1.0.70
+    # via torch
+nvidia-cufft-cu12==11.2.1.3
+    # via torch
+nvidia-curand-cu12==10.3.5.147
+    # via torch
+nvidia-cusolver-cu12==11.6.1.9
+    # via torch
+nvidia-cusparse-cu12==12.3.1.170
+    # via
+    #   nvidia-cusolver-cu12
+    #   torch
+nvidia-cusparselt-cu12==0.6.2
+    # via torch
+nvidia-nccl-cu12==2.21.5
+    # via torch
+nvidia-nvjitlink-cu12==12.4.127
+    # via
+    #   nvidia-cusolver-cu12
+    #   nvidia-cusparse-cu12
+    #   torch
+nvidia-nvtx-cu12==12.4.127
+    # via torch
+omegaconf==2.3.0
+    # via
+    #   hydra-core
+    #   hydra-zen
+openai==1.77.0
+    # via autointerp-llm (pyproject.toml)
+orjson==3.10.15
+    # via automated-interpretability
+overrides==7.7.0
+    # via jupyter-server
+packaging==24.2
+    # via
+    #   accelerate
+    #   datasets
+    #   huggingface-hub
+    #   hydra-core
+    #   ipykernel
+    #   jupyter-events
+    #   jupyter-server
+    #   jupyterlab
+    #   jupyterlab-server
+    #   matplotlib
+    #   nbconvert
+    #   plotly
+    #   pytest
+    #   statsmodels
+    #   transformers
+pandas==2.2.3
+    # via
+    #   babe
+    #   datasets
+    #   plotly-express
+    #   seaborn
+    #   statsmodels
+    #   transformer-lens
+pandocfilters==1.5.1
+    # via nbconvert
+parso==0.8.4
+    # via jedi
+patsy==1.0.1
+    # via
+    #   plotly-express
+    #   statsmodels
+pexpect==4.9.0
+    # via ipython
+pillow==11.1.0
+    # via
+    #   matplotlib
+    #   sentence-transformers
+platformdirs==4.3.6
+    # via
+    #   jupyter-core
+    #   wandb
+plotly==5.24.1
+    # via
+    #   plotly-express
+    #   sae-lens
+plotly-express==0.4.1
+    # via sae-lens
+pluggy==1.5.0
+    # via pytest
+prometheus-client==0.21.1
+    # via jupyter-server
+prompt-toolkit==3.0.50
+    # via
+    #   ipython
+    #   jupyter-console
+propcache==0.3.0
+    # via
+    #   aiohttp
+    #   yarl
+proto-plus==1.26.1
+    # via
+    #   google-ai-generativelanguage
+    #   google-api-core
+protobuf==5.29.3
+    # via
+    #   google-ai-generativelanguage
+    #   google-api-core
+    #   google-generativeai
+    #   googleapis-common-protos
+    #   grpcio-status
+    #   proto-plus
+    #   wandb
+psutil==7.0.0
+    # via
+    #   accelerate
+    #   ipykernel
+    #   wandb
+ptyprocess==0.7.0
+    # via
+    #   pexpect
+    #   terminado
+pure-eval==0.2.3
+    # via stack-data
+py2store==0.1.20
+    # via babe
+pyarrow==19.0.1
+    # via datasets
+pyarrow-hotfix==0.6
+    # via datasets
+pyasn1==0.6.1
+    # via
+    #   pyasn1-modules
+    #   rsa
+pyasn1-modules==0.4.2
+    # via google-auth
+pycparser==2.22
+    # via cffi
+pycryptodomex==3.21.0
+    # via
+    #   blobfile
+    #   boostedblob
+pydantic==2.10.6
+    # via
+    #   google-generativeai
+    #   openai
+    #   wandb
+pydantic-core==2.27.2
+    # via pydantic
+pygments==2.19.1
+    # via
+    #   ipython
+    #   ipython-pygments-lexers
+    #   jupyter-console
+    #   nbconvert
+    #   rich
+pynndescent==0.5.13
+    # via umap-learn
+pyparsing==3.2.1
+    # via
+    #   httplib2
+    #   matplotlib
+pytest==8.3.5
+    # via
+    #   pytest-profiling
+pytest-profiling==1.8.1
+    # via sae-lens
+python-dateutil==2.9.0.post0
+    # via
+    #   arrow
+    #   jupyter-client
+    #   matplotlib
+    #   pandas
+python-dotenv==1.0.1
+    # via
+    #   sae-lens
+python-json-logger==3.2.1
+    # via jupyter-events
+pytz==2025.1
+    # via pandas
+pyyaml==6.0.2
+    # via
+    #   accelerate
+    #   datasets
+    #   huggingface-hub
+    #   jupyter-events
+    #   omegaconf
+    #   sae-lens
+    #   transformers
+    #   wandb
+pyzmq==26.0.0
+    # via
+    #   ipykernel
+    #   jupyter-client
+    #   jupyter-console
+    #   jupyter-server
+    #   sae-lens
+referencing==0.36.2
+    # via
+    #   jsonschema
+    #   jsonschema-specifications
+    #   jupyter-events
+regex==2024.11.6
+    # via
+    #   nltk
+    #   tiktoken
+    #   transformers
+requests==2.32.3
+    # via
+    #   datasets
+    #   fsspec
+    #   google-api-core
+    #   graze
+    #   huggingface-hub
+    #   jupyterlab-server
+    #   tiktoken
+    #   transformers
+    #   wandb
+rfc3339-validator==0.1.4
+    # via
+    #   jsonschema
+    #   jupyter-events
+rfc3986-validator==0.1.1
+    # via
+    #   jsonschema
+    #   jupyter-events
+rich==13.9.4
+    # via
+    #   transformer-lens
+    #   typer
+rpds-py==0.23.1
+    # via
+    #   jsonschema
+    #   referencing
+rsa==4.9
+    # via google-auth
+sae-lens==3.19.1
+safetensors==0.4.5
+    # via
+    #   accelerate
+    #   sae-lens
+    #   transformers
+scikit-learn==1.6.1
+    # via
+    #   automated-interpretability
+    #   pynndescent
+    #   sentence-transformers
+    #   umap-learn
+scipy==1.15.2
+    # via
+    #   plotly-express
+    #   pynndescent
+    #   scikit-learn
+    #   sentence-transformers
+    #   statsmodels
+    #   umap-learn
+seaborn==0.13.2
+send2trash==1.8.3
+    # via jupyter-server
+sentence-transformers==3.4.1
+sentencepiece==0.2.0
+    # via transformer-lens
+sentry-sdk==2.22.0
+    # via wandb
+setproctitle==1.3.5
+    # via wandb
+setuptools==75.8.2
+    # via
+    #   jupyterlab
+    #   torch
+    #   wandb
+shellingham==1.5.4
+    # via typer
+six==1.17.0
+    # via
+    #   docker-pycreds
+    #   pytest-profiling
+    #   python-dateutil
+    #   rfc3339-validator
+smmap==5.0.2
+    # via gitdb
+sniffio==1.3.1
+    # via
+    #   anyio
+    #   httpx
+    #   openai
+soupsieve==2.6
+    # via beautifulsoup4
+stack-data==0.6.3
+    # via ipython
+statsmodels==0.14.4
+    # via plotly-express
+submitit==1.5.2
+    # via autointerp-llm (pyproject.toml)
+sympy==1.13.1
+    # via torch
+tenacity==9.0.0
+    # via plotly
+terminado==0.18.1
+    # via
+    #   jupyter-server
+    #   jupyter-server-terminals
+threadpoolctl==3.5.0
+    # via scikit-learn
+tiktoken==0.9.0
+    # via automated-interpretability
+tinycss2==1.4.0
+    # via bleach
+tokenizers==0.21.0
+    # via transformers
+torch==2.6.0+cu124
+    # via
+    #   accelerate
+    #   sentence-transformers
+    #   transformer-lens
+tornado==6.4.2
+    # via
+    #   ipykernel
+    #   jupyter-client
+    #   jupyter-server
+    #   jupyterlab
+    #   notebook
+    #   terminado
+tqdm==4.67.1
+    # via
+    #   datasets
+    #   google-generativeai
+    #   huggingface-hub
+    #   nltk
+    #   openai
+    #   sentence-transformers
+    #   transformer-lens
+    #   transformers
+    #   umap-learn
+traitlets==5.14.3
+    # via
+    #   comm
+    #   ipykernel
+    #   ipython
+    #   ipywidgets
+    #   jupyter-client
+    #   jupyter-console
+    #   jupyter-core
+    #   jupyter-events
+    #   jupyter-server
+    #   jupyterlab
+    #   matplotlib-inline
+    #   nbclient
+    #   nbconvert
+    #   nbformat
+transformer-lens==2.15.0
+    # via sae-lens
+transformers==4.48.0
+    # via
+    #   sae-lens
+    #   sentence-transformers
+    #   transformer-lens
+    #   transformers-stream-generator
+transformers-stream-generator==0.0.5
+    # via transformer-lens
+triton==3.2.0
+    # via torch
+typeguard==4.4.2
+    # via transformer-lens
+typer==0.12.5
+    # via sae-lens
+types-python-dateutil==2.9.0.20241206
+    # via arrow
+typing-extensions==4.12.2
+    # via
+    #   anyio
+    #   beautifulsoup4
+    #   google-generativeai
+    #   huggingface-hub
+    #   hydra-zen
+    #   openai
+    #   pydantic
+    #   pydantic-core
+    #   referencing
+    #   sae-lens
+    #   submitit
+    #   torch
+    #   transformer-lens
+    #   typeguard
+    #   typer
+tzdata==2025.1
+    # via pandas
+umap-learn==0.5.7
+    # via autointerp-llm (pyproject.toml)
+uri-template==1.3.0
+    # via jsonschema
+uritemplate==4.1.1
+    # via google-api-python-client
+urllib3==2.3.0
+    # via
+    #   blobfile
+    #   requests
+    #   sentry-sdk
+uvloop==0.21.0
+    # via boostedblob
+wadler-lindig==0.1.3
+    # via jaxtyping
+wandb==0.19.7
+    # via
+    #   transformer-lens
+wcwidth==0.2.13
+    # via prompt-toolkit
+webcolors==24.11.1
+    # via jsonschema
+webencodings==0.5.1
+    # via
+    #   bleach
+    #   tinycss2
+websocket-client==1.8.0
+    # via jupyter-server
+widgetsnbextension==4.0.13
+    # via ipywidgets
+xxhash==3.5.0
+    # via datasets
+yarl==1.18.3
+    # via aiohttp
+zstandard==0.22.0
+    # via sae-lens
