@@ -11,13 +11,13 @@ This repository contains the code and experiments for the paper **[Capturing Pol
 
 ## Table of Contents
 
-- [1. About](#-about)
-- [2. Repository Overview](#-repository-overview)
-- [3. Installation](#-installation)
-- [4. Running Experiments](#-running-experiments)
-  - [4.1 Feature Descriptions](#feature-descriptions)
-  - [4.2 Evaluation](#evaluation)
-  - [4.3 Meta-labels](#metalabels)
+- [About](#-about)
+- [Repository Overview](#-repository-overview)
+- [Installation](#-installation)
+- [Running Experiments](#-running-experiments)
+  - [1 Feature Descriptions](#feature-descriptions)
+  - [2 Evaluation](#evaluation)
+  - [3 Meta-labels](#metalabels)
 
 ## About
 
@@ -26,7 +26,7 @@ This repository contains the code and experiments for the paper **[Capturing Pol
   <img width="800" src="./prism_framework.jpg">
 </p>
 
-
+Unlike prior approaches that assign a single description per feature, PRISM (Polysemantic FeatuRe Identification and Scoring Method) provides more nuanced descriptions for both polysemantic and monosemantic features. PRISM samples sentences from the top percentile activation distribution, clusters them in embedding space, and uses an LLM to generate labels for each concept cluster. We benchmark PRISM across various layers and architectures, showing how polysemanticity and interpretability shift through the model. In exploring the concept space, we use PRISM to characterize more complex components, finding and interpreting patterns that specific attention heads or groups of neurons respond to. Our findings show that the PRISM framework not only provides multiple human interpretable descriptions for neurons but also aligns with the human interpretation of polysemanticity.
 
 ## Repository Overview
 
