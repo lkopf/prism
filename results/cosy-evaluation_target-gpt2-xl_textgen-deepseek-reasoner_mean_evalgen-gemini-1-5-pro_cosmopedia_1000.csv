@@ -1,0 +1,301 @@
+layer,unit,explanation,AUC,U1,p,MAD
+0,6314,"proper nouns denoting people, places, institutions, or legislation in contexts of official capacity, public identity, or institutional recognition",0.7841,2159.0,0.0019705331305871735,0.5424876104442924
+0,6314,overcoming restrictions to enable access or functionality,0.8429,1571.0,0.0001875318434157688,0.8151160830670835
+0,6314,Specific items or products,0.8640000000000001,1360.0,7.335781492450088e-05,1.006648377744139
+0,6314,events and experiences,0.8576,1424.0,9.803764704315015e-05,0.9848011352825928
+0,6314,"personalization and customization of experiences, environments, or tools for satisfaction, efficiency, or emotional fulfillment",0.9204000000000001,796.0,4.6590006241433005e-06,1.8469913888547085
+0,2725,"product attributes, specifications, and quality descriptors",0.6713,3287.0,0.06208105615663694,0.3296465440479079
+0,2725,achievements recognition awards winning competitive success,0.9664,336.0,3.759661253058211e-07,2.184685291130832
+0,2725,gaining or receiving benefits with ease or automation,0.9788,212.0,1.8299115773245566e-07,2.6754330534136517
+0,2725,recognition or designation of entities through awards automated processes or selection mechanisms,0.9809,191.0,1.616996501524527e-07,2.5436726846017126
+0,2725,acquisition or receipt of something beneficial,0.7882,2118.0,0.0016934842599925428,0.8576010960945428
+0,4297,industrial processes and technical specifications,0.8842,1158.0,2.8491916678078925e-05,0.5622745795458087
+0,4297,ownership or financial backing of entities or assets,0.9016,984.0,1.215636654541139e-05,0.6917509291271975
+0,4297,inherent traits or conditions present from birth or as fundamental characteristics,0.8465,1535.0,0.00016035025367928978,0.3593706667812706
+0,4297,"financial planning and regulatory compliance in corporate and personal contexts involving tax strategies, employee incentives, retirement funding, insurance policies, investment management, and legal obligations for asset handling",0.9837,163.0,1.3700553560075196e-07,3.293391439530433
+0,4297,Responsibility for others' welfare and life management,0.9148,852.0,6.225738946896374e-06,0.9492617884027097
+0,4842,hair care products and styling tools  skin care products and texture  furniture design and models  food recipes and ingredients  cosmetic tools and palettes  fashion design and clothing items  sleep products and comfort features,0.8375,1625.0,0.00023653502386403793,0.99985411726248
+0,4842,professional advisory services and expertise provision,0.1473,8527.0,0.00012202891646008,-0.9999458764290773
+0,4842,"brands, products, models, and key features in descriptive contexts",0.1655,8345.0,0.0002687148053493787,-0.9375478509716435
+0,4842,technical systems and their components,0.2561,7439.0,0.007891637365816584,-0.7221410567788518
+0,4842,professional services or expertise provided to clients or users,0.5813,4187.0,0.37605205912059325,0.10208350657655152
+0,5551,international organizations and diplomatic bodies  religious institutions and ecclesiastical unions  national territories and protected regions  legal frameworks and prosecutorial systems,0.9865999999999999,134.0,1.1528783211649897e-07,3.2281324035571393
+0,5551,"nouns specifying concrete objects or defined entities in technical, mechanical, or functional contexts",0.08920000000000002,9108.0,7.6412868971191e-06,-0.9590798059522467
+0,5551,international governance and diplomatic affairs,0.9741,259.0,2.4091526070919917e-07,2.782899427643567
+0,5551,international organizational memberships and obligations,0.6622,3378.0,0.07729948670552193,1.3025870002290874
+0,5551,completion of compound nouns or phrases,0.045,9550.0,7.175918116774102e-07,-0.9949385052316673
+0,1749,"commercial service features and specifications, business operations and technical details, legal compliance and intellectual property, product characteristics and benefits, financial qualifications and asset distribution",0.012500000000000011,9875.0,1.0925370154945094e-07,-2.4006925512750743
+0,1749,"overcoming personal challenges and limitations through resilience, spiritual or emotional growth, perseverance in adversity, and transformative self-improvement, particularly involving grace, courage, confession, forgiveness, and renewal, while also encompassing technical or practical aspects like security credentials, data handling, dental care, and creative or customized solutions",0.04680000000000002,9532.0,7.936166224849237e-07,-2.065848245198375
+0,1749,artistic appreciation and creation  luxury experiences and high-end lifestyles  outdoor adventure and natural exploration  personal struggles and emotional narratives  military and defense contexts  media titles and cultural references,0.3425,6575.0,0.08627748458985783,-0.4720623985300933
+0,1749,preparatory actions or competitive advantages  positive recognition or justification of value  overcoming limitations or enhancing performance  high-value assessments or breakthrough achievements,0.016300000000000016,9837.0,1.3700553560075196e-07,-2.3103120016238177
+0,1749,"formal systems and institutional processes involving legal, financial, or governmental compliance",0.008700000000000008,9913.0,8.697848819844698e-08,-2.6054199160417375
+0,3943,demarcation of quoted or emphasized text segments,0.9272,728.0,3.260806863943936e-06,1.9640724037022244
+0,3943,apparel products and customization concepts  automotive services and efficiency terms  customer service responsiveness and satisfaction  text errors and ambiguous language corrections  family-oriented product marketing  brand-specific merchandise and accessories  performance features in product design  puzzle-solving and clue interpretation contexts,0.8823,1177.0,3.120399165569496e-05,1.8529470264536232
+0,3943,Conformance to specifications or standards in technical and scientific contexts,0.987,130.0,1.1256720722705111e-07,2.976620531702897
+0,3943,promoting beneficial actions or positive outcomes,0.9794999999999999,205.0,1.756093308689715e-07,2.740100764927294
+0,3943,"Proper nouns and specific named entities including brands, people, locations, and products, often with descriptive attributes or positional references",0.9571000000000001,429.0,6.377511088395136e-07,2.284665932517576
+0,5960,"destinations, landmarks, or visit-worthy sites",0.9394,606.0,1.6964403700190609e-06,1.6507387291817044
+0,5960,mechanical components and attachment mechanisms,0.9503999999999999,496.0,9.275117733418475e-07,1.9796797237681942
+0,5960,formal qualifications and professional recognition,0.8330000000000001,1670.0,0.00028630241379584584,0.9256858649841335
+0,5960,service provision and facilitation,0.8995,1005.0,1.349716846694918e-05,1.3045463104558208
+0,5960,physical artifacts or representations,0.9666,334.0,3.716770831232706e-07,2.509573991158947
+0,3696,"structural or formatting colons introducing labeled sections, lists, or segmented information",0.8326,1674.0,0.00029117140487670476,1.009439140248312
+0,3696,structural delimiters for lists or specifications,0.05480000000000003,9452.0,1.2360276435465028e-06,-1.2086066150508414
+0,3696,syntactic markers introducing structured content or elaborative information,0.004900000000000004,9951.0,6.91297383303217e-08,-1.4448195904887546
+0,3696,introductory or explanatory elements preceding specifications or examples,0.0002000000000000002,9998.0,5.191509412250656e-08,-1.5673336958430284
+0,3696,"colons used as separators in structured data formats, timestamps, key-value definitions, section headers, and bibliographic references",0.9988,12.0,5.51884581828221e-08,5.4580061995109945
+0,3533,Financial obligations and settlements in transactions,0.4214,5786.0,0.3921204587962859,-0.3416437108620748
+0,3533,"temporal markers indicating deadlines, event dates, or significant time references",0.6874,3126.0,0.0412388054015975,0.282844477991322
+0,3533,digital file handling and management operations,0.8252,1748.0,0.0003964889588308814,0.7610453733351451
+0,3533,packaging and storage containers in commercial contexts,0.8338,1662.0,0.00027679241066873024,1.8250579556860325
+0,3533,"numerical identifiers within procedural, legal, or administrative contexts",0.8515999999999999,1484.0,0.00012812776706585004,1.611385454333248
+0,3124,specific product brands or model names,0.09400000000000003,9060.0,9.74745425498267e-06,-0.5507306582725012
+0,3124,scientific analysis of viral pathogens and their evolutionary changes,0.9846,154.0,1.2987373759210326e-07,2.861850173260644
+0,3124,"brands, products, or commercial features",0.011100000000000011,9889.0,1.004702718233883e-07,-0.8331223224928079
+0,3124,disease mechanisms and clinical characteristics,0.9875999999999999,124.0,1.0860242253002518e-07,4.749680348839252
+0,3124,temporal or structured human activities and endeavors,0.14550000000000002,8545.0,0.00011263565233704504,-0.6532165594479149
+0,1149,first-person perspective and self-identity in personal narratives or reflections  introspection and personal experiences within specific contexts  individual roles and affiliations in described scenarios  self-referential expressions during recollection or realization,0.04630000000000002,9537.0,7.717538724649807e-07,-1.3628031045990483
+0,1149,first-person perspectives in technical or specialized domains,0.0027000000000000023,9973.0,6.047644888048207e-08,-2.489137181214713
+0,1149,"First-person subjective experiences or personal narratives involving self-expression, opinions, and autobiographical reflections",0.06770000000000002,9323.0,2.486524386268652e-06,-1.4095290743875895
+0,1149,self-identity and belief systems within institutional contexts,0.009200000000000009,9908.0,8.963603734385179e-08,-2.1880516700818675
+0,1149,introspective cognitive states and self-referential awareness,0.8256,1744.0,0.00038998830020604987,1.1829978817782432
+0,6114,"formal identifiers and codes within technical, legal, or regulatory contexts",0.7343,2657.0,0.010708127663994803,0.9039969113242697
+0,6114,"numerical values specifying quantities, positions, identifiers, or measurements in structured contexts",0.8012,1988.0,0.001034627916253338,1.0711227561183143
+0,6114,numerical designations and sequential positions within contexts,0.5394,4606.0,0.668137035476366,0.058017624943305555
+0,6114,numerical and temporal identifiers within sequences or datasets,0.7736999999999999,2263.0,0.002869964630222869,0.9830520164479479
+0,6114,legal jurisdictions and court systems  medical conditions and anomalies  administrative deadlines and registration processes  institutional accreditation and membership  structured procedural steps and compliance  specific place names within formal contexts  numerical identifiers and codes in official documents  formal qualifications and certifications,0.9925999999999999,74.0,8.042095701238699e-08,4.388470693190294
+0,3279,specific service roles or participation within organizational contexts,0.864,1360.0,7.335781492450088e-05,1.111754756031805
+0,3279,localized service offerings in specific geographic areas,0.7474000000000001,2526.0,0.007043033972524882,0.5595781678485303
+0,3279,domain-specific terminology and jargon,0.7043999999999999,2956.0,0.02599203438481165,0.46297357704975517
+0,3279,Personal enthusiasm in reviews or endorsements of products and experiences,0.8805,1195.0,3.3998219311225696e-05,1.242093183269177
+0,3279,"personal justification, ownership, critical actions, fundamental concepts",0.574,4260.0,0.420437398420638,-0.02041567932993789
+0,440,Product specifications and availability status,0.007400000000000007,9926.0,8.042095701238699e-08,-3.4303908066842457
+0,440,"product or entity specifications regarding origin, materials, regulatory status, and quantifiable features",0.017400000000000016,9826.0,1.4623764006762736e-07,-2.7252358246439865
+0,440,references to governmental bodies or official institutions  mention of geopolitical entities or national structures  invocation of authoritative figures or systems  structured hierarchical organizations or ministries  presence of institutional or state-level designations  recognition of political or administrative frameworks,0.005300000000000004,9947.0,7.082696454003445e-08,-3.659301218505718
+0,440,governmental or institutional authority and mandates,0.041900000000000014,9581.0,6.028100760454035e-07,-2.5331157228769543
+0,440,national governmental bodies and their regulatory frameworks,0.025000000000000022,9750.0,2.2860165265890556e-07,-2.304777142027911
+0,4405,Product specifications and availability status,0.01130000000000001,9887.0,1.0168183573247629e-07,-2.2772630338740645
+0,4405,"product or entity specifications regarding origin, materials, regulatory status, and quantifiable features",0.028900000000000002,9711.0,2.8676222214266605e-07,-1.7781746362925706
+0,4405,references to governmental bodies or official institutions  mention of geopolitical entities or national structures  invocation of authoritative figures or systems  structured hierarchical organizations or ministries  presence of institutional or state-level designations  recognition of political or administrative frameworks,0.024300000000000013,9757.0,2.1944705970415153e-07,-2.172183315169302
+0,4405,governmental or institutional authority and mandates,0.2809,7191.0,0.01701040455306584,-0.7960804054758585
+0,4405,national governmental bodies and their regulatory frameworks,0.47550000000000003,5245.0,0.7899502063614905,-0.11824189047942907
+0,5781,"individuals with specific titles, positions, or roles in professional, organizational, or institutional contexts",0.3871,6129.0,0.21889704725160386,-0.34469997376047046
+0,5781,proper names and specialized terminology across contexts,0.3661,6339.0,0.14477031829101356,-0.3887617793503917
+0,5781,Personal names and titles of individuals,0.40240000000000004,5976.0,0.2878829014456764,-0.330559694255211
+0,5781,"roles and relationships involving guidance, authority, or kinship",0.522,4780.0,0.8109981595343055,-0.0948260663817786
+0,5781,Male proper names and professional titles,0.9616,384.0,4.944704215402332e-07,2.376980052745195
+0,3057,"consumable substances such as beverages, supplements, or chemical compounds",0.7583,2417.0,0.00489970369663007,0.8524800356079145
+0,3057,"specialized technological or professional domains involving innovation, expertise, or optimization",0.4298,5702.0,0.4447106495850097,-0.23858666731277803
+0,3057,"Abbreviations and acronyms in organizational, product, or event contexts",0.38349999999999995,6165.0,0.20455267047108883,-0.35119669693518873
+0,3057,specialized abbreviations and technical terminology in professional contexts,0.5872999999999999,4127.0,0.3418267308309392,0.18674053873123472
+0,3057,"negative phenomena, harmful conditions, detrimental states",0.3008,6992.0,0.030031221072580012,-0.5883253062971627
+0,5085,journeys and tourism activities,0.3254,6746.0,0.0572144573966346,-0.4849963076114484
+0,5085,methods systems or pathways,0.04670000000000001,9533.0,7.891968889008828e-07,-1.3905520031907002
+0,5085,terminology denoting specific methods processes or compound terms,0.06930000000000001,9307.0,2.7081171529554937e-06,-1.2932487215735655
+0,5085,sequential progression or directional change,0.3309,6691.0,0.06551201116740625,-0.5552835221994739
+0,5085,"pathways, routes, or courses of movement or progression",0.1775,8225.0,0.00044308723344713944,-0.979560067175541
+0,4679,positive descriptors and specific quantifiers,0.9924999999999999,75.0,8.09078951042024e-08,5.421971919806294
+0,4679,current context or immediacy,0.9663,337.0,3.78128519407698e-07,2.997748555359721
+0,4679,"positive qualities and attributes, completion and entirety, immediacy and temporal relevance, politeness markers, possession and specificity, significance and intention",0.9904999999999999,95.0,9.126812326913535e-08,5.113484369854775
+0,4679,structural or referential anchors in document organization,0.9826999999999999,173.0,1.453740964963758e-07,4.332081588830721
+0,4679,"expressions of gratitude, acknowledgment, or positive affirmation",0.9917,83.0,8.490753085334325e-08,5.191418043506718
+20,328,contact details and location references for services or information,0.9914999999999999,85.0,8.593696940695783e-08,4.069168662881131
+20,328,tools resources or methods enabling actions in technology education or procedures,0.9911,89.0,8.803222398386974e-08,3.8669087598290974
+20,328,Product features or brand names within promotional or instructional contexts,0.9768,232.0,2.0577285206453302e-07,3.2145522896419085
+20,328,instructions for accessing supplementary information or media,0.8799000000000001,1201.0,3.498130706752063e-05,1.5701258392483535
+20,328,"methodology, solutions, or offers presented",0.9954999999999999,45.0,6.747193827297039e-08,4.369313321244596
+20,5789,completion or progression stages of processes or events,0.9986,14.0,5.5866720014493564e-08,5.727834677332498
+20,5789,manner or method of action or creation,0.9958,42.0,6.625392847153903e-08,5.36767069742008
+20,5789,"current state, completion, or status of actions/objects",0.9992,8.0,5.385579301457098e-08,6.57537908411563
+20,5789,actions processes obligations requirements and their negations,0.971,290.0,2.8842713583272013e-07,2.7282485966225956
+20,5789,"verbs or prepositions indicating actions, states, or processes",0.9898999999999999,101.0,9.461904328935569e-08,4.67666016118606
+20,4268,personal agency ownership actions possessions decisions quantities,0.4801,5199.0,0.8287853359607533,-0.2850674875139838
+20,4268,terms and conditions stipulating user obligations and permissions,0.9902,98.0,9.29289624161009e-08,3.4409392296220833
+20,4268,"instructions, guidelines, or conditions",0.9471999999999999,528.0,1.1071911654138849e-06,2.3593266655126506
+20,4268,conditional suggestions or advice for user actions,0.8587,1413.0,9.330155114102261e-05,1.3295490178374378
+20,4268,user obligations and permissions within procedural guidelines,0.9253,747.0,3.6045902891027354e-06,1.6014265381402597
+20,2988,Personal or institutional background information and procedural steps,0.5473,4527.0,0.6067107451270507,0.003239692855110804
+20,2988,second-person references and self-referential language,0.49429999999999996,5057.0,0.9509171959755622,-0.1346332415225026
+20,2988,instructions or conditions for system interactions and configurations,0.7962,2038.0,0.001253301322857046,0.8654372084909081
+20,2988,"processes, conditions, or requirements",0.6329,3671.0,0.14779608726075807,0.228146592462554
+20,2988,"prepositions and pronouns indicating relationships, temporal markers, possessive determiners, numerical expressions, punctuation structuring clauses and lists, proper nouns and contextual references",0.5904,4096.0,0.3249505201161219,0.11598651331070423
+20,4683,specification or description of attributes and features,0.7727,2273.0,0.002973750595926095,1.0019969197411296
+20,4683,potential adverse situations or negative outcomes,0.32619999999999993,6738.0,0.05836410414032284,-0.5511813992288737
+20,4683,software and service options capabilities and choices platform features and alternatives user permissions and consent account types and privileges customization and configuration options business strategies and structural choices,0.5864,4136.0,0.34682948054697005,0.08459262370965916
+20,4683,"referential pointers to specific details, categories, or structural components",0.42379999999999995,5762.0,0.40674746426451713,-0.16495567080261647
+20,4683,numerical identifiers in formal documentation  dates and time references  legal and corporate references  financial figures and codes  technical specification markers  structured data points  bureaucratic terminology  administrative or procedural anchors,0.7982,2018.0,0.0011611594132303249,0.9360693491819594
+20,6045,content creation and dissemination platforms  storytelling and narrative construction  data analysis and presentation tools  digital media outreach strategies  personal and professional sharing mechanisms  creative output and distribution methods  educational and informational resources  online publishing and community engagement,0.5464,4536.0,0.6135805554667597,-0.1281278537086159
+20,6045,technical operations and software-related processes,0.4258,5742.0,0.41918178769710934,-0.3879339218702484
+20,6045,"experiential activities and participatory engagements such as tours, classes, workshops, competitions, or challenges  content creation platforms and sharing experiences via blogs, videos, or social media  structured events with defined rules, locations, or thematic elements like breweries, museums, or outdoor adventures  monetary transactions, resource management, or cost-related aspects within simulations or real-world activities",0.6145,3855.0,0.2124349908358073,0.08243913797148048
+20,6045,specific named entities or groups,0.5393,4607.0,0.668930170571532,-0.1279213359199444
+20,6045,procedural steps and components in instructional content,0.7041000000000001,2959.0,0.02621159566898086,0.3851687650279868
+20,5741,"expressions of appreciation, enthusiasm, or positive emotional responses",0.9634,366.0,4.463270157753755e-07,2.8098576809815476
+20,5741,promotional language and confident endorsements,0.9876,124.0,1.0860242253002518e-07,3.790417790745694
+20,5741,"initiating or necessitating an action, decision, or solicitation",0.9903000000000001,97.0,9.237212457291983e-08,3.9600614432209835
+20,5741,collaboration or mutual reliance between entities,0.9576,424.0,6.200434077578498e-07,2.9101999992281002
+20,5741,relational or associative connections between entities or concepts,0.9413,587.0,1.529947134473997e-06,2.023387134746682
+20,5662,"structural or organizational elements such as titles, headers, metadata labels, section markers, or document formatting cues",0.6651,3349.0,0.07215018613811978,0.2923548726591257
+20,5662,user engagement actions and content interaction prompts,0.997,30.0,6.159144104237379e-08,4.611149273085007
+20,5662,"structured information, instructions, documentation, technical specifications",0.9874999999999999,125.0,1.0925370154945094e-07,3.9991155706891885
+20,5662,"procedural directives and informational references in organizational or transactional contexts, specifically contact details, compliance requirements, prohibitions, resource locations, and attribution phrases",0.9938,62.0,7.47945934689835e-08,4.491954089148838
+20,5662,customizable or downloadable items and resources online,0.9946,54.0,7.125753700651079e-08,4.234287866401211
+20,2679,user actions in procedural steps involving scheduling permissions or resource allocation,0.9994999999999999,5.0,5.287681517994777e-08,7.002181769726761
+20,2679,introductory phrases preceding informational content with specific grammatical structures,0.9969,31.0,6.196751182416256e-08,5.418917850506726
+20,2679,"specifying extent, scope, or degree",0.9893,107.0,9.80889242107056e-08,4.491152698711163
+20,2679,"settings, specifications, or operational instructions within technical, procedural, or configuration contexts",0.9899,101.0,9.461904328935569e-08,4.781241162840624
+20,2679,"Product features, utilities, or attributes",0.9974999999999999,25.0,5.974401278504218e-08,5.362914356358683
+20,2869,product features or benefits directed toward the user's personal use or ownership,0.9803999999999999,196.0,1.6654047311761378e-07,3.5812435934992557
+20,2869,"seeking assistance, support, or services to address personal needs or problems",0.9972,28.0,6.084592210256089e-08,5.079083955231734
+20,2869,service or resource introduction and access,0.9833999999999999,166.0,1.3946590173053397e-07,3.82866710592557
+20,2869,prefixes or suffixes forming compound words or phrases,0.9955999999999999,44.0,6.706354444790232e-08,5.0972200702506205
+20,2869,"product attributes, conditions, or capabilities in descriptions and customer feedback contexts",0.9654000000000001,346.0,3.9813782108415884e-07,2.5489023096619197
+20,1424,"services, tools, or entities offered or discussed",0.9962,38.0,6.466300591235927e-08,4.464994664261169
+20,1424,"brands, products, or proprietary names",0.9788,212.0,1.8299115773245566e-07,3.387920092528527
+20,1424,"entities representing organizations, institutions, or structured entities",0.9874,126.0,1.0990875963226583e-07,4.531004563403602
+20,1424,"completion of formal names for businesses, organizations, or landmarks",0.9925999999999999,74.0,8.042095701238699e-08,4.151247420669159
+20,1424,categorization or definition of concepts,0.9915999999999999,84.0,8.542074858998555e-08,3.968456285480265
+20,5278,items or services available for acquisition or access including specifications and processes,0.7413,2587.0,0.008580145267938225,0.5470599198534839
+20,5278,temporal markers and specific numerical values indicating years ages or durations,0.9843999999999999,156.0,1.314268572999192e-07,2.87487745288907
+20,5278,"political appointments and confirmations, judicial nominations, election campaigns and outcomes, software version releases, product launches, feature rollouts, significant career milestones, governmental position announcements, policy implementations, electoral thresholds being crossed, regulatory compliance activations, scheduled event commencements, official status updates, public figure candidacies",0.5085999999999999,4914.0,0.925784685367328,-0.09482697795662447
+20,5278,"professional and educational qualifications, certifications, career milestones, transitions, and eligibility criteria",0.9884,116.0,1.035257361666066e-07,3.118295396472504
+20,5278,procedural steps in instructional content,0.9832,168.0,1.4112983113460763e-07,3.9303995519262647
+20,2325,terms and conditions permissions restrictions ownership or agreements,0.8466,1534.0,0.00015965097133553268,1.049204469826003
+20,2325,obligations requirements and future implications in roles or scenarios,0.7704000000000001,2296.0,0.00322557635832351,0.6604459704762019
+20,2325,Roles and capacities within organized groups or systems,0.7797999999999999,2202.0,0.0023053042579299124,0.704079179961247
+20,2325,physical items or products offering protection or functionality in residential contexts,0.8259,1741.0,0.00038517831436194237,0.8736720495908203
+20,2325,"fashion items and consumer products such as clothing, accessories, footwear, home decor, beauty products, and food items",0.9349,651.0,2.163091949153679e-06,1.7708594921532477
+20,2700,"text beginnings including titles and headers, temporal references and time indicators, punctuation structuring information such as dates and lists",0.9717,283.0,2.7696594299756163e-07,3.427362526706259
+20,2700,syntactic delimiters in technical or structured contexts,0.9989,11.0,5.485232663027702e-08,5.562754555036388
+20,2700,"specific references to digital addresses, identifiers, or technical specifications",0.9984,16.0,5.655305677098586e-08,5.8415311999570205
+20,2700,sentence or clause initiation tokens including start words and punctuation that segment text,0.988,120.0,1.0603467810907552e-07,4.145986188147765
+20,2700,declarative sentence beginnings and key punctuation marks in product descriptions or customer feedback contexts,1.0,0.0,5.1283388415865974e-08,5.664686387052089
+20,3313,selection and enabling actions in problem-solving contexts,0.9806,194.0,1.645875604925738e-07,2.9412642590784968
+20,3313,"selection, possession, or commitment by an individual",0.9686999999999999,313.0,3.294006535814878e-07,2.506851908287972
+20,3313,numerical quantities or counts within specific contexts,0.9614,386.0,5.001190037531066e-07,3.4856886736982804
+20,3313,contests competitions awards prizes giveaways wins recipients winners recognition ceremonies grants tournaments achievements,0.9944,56.0,7.212630106292318e-08,5.323825958005021
+20,3313,selection or acquisition in transactional or interactive contexts,0.9762,238.0,2.131260288780509e-07,2.638361999083893
+20,1004,initiation of significant events or transitions,0.6126,3874.0,0.22012423628295852,0.2978262022028289
+20,1004,initiation of actions processes or stages,0.6635,3365.0,0.0749552999129659,0.32396969370212797
+20,1004,"principal factors, optimal conditions, initial steps, peak states",0.8122,1878.0,0.0006719417684715289,0.8727846661009511
+20,1004,"onset or beginning of processes, events, or states",0.8434,1566.0,0.00018351337685401832,1.2096816713543168
+20,1004,initiation of time periods or events  temporal boundaries and starting points  commencement of actions or phases  transitional phrases indicating beginnings  markers of onset or origin,0.5936,4064.0,0.30810867042765566,0.11708762954449313
+20,4447,"collective entities or formal titles involving quantifiers and prepositions like ""of"" and ""all""",0.9984999999999999,15.0,5.620886826812353e-08,6.673911963629623
+20,4447,universality or negation in absoluteness,0.9994,6.0,5.3201204310527956e-08,6.8455755048197195
+20,4447,"universal quantifiers, negation, and contrastive conjunctions establishing inclusion, exclusion, or oppositional relationships",0.9933,67.0,7.70909724387663e-08,5.579329275647164
+20,4447,connective elements within compound phrases or expressions,0.9876,124.0,1.0860241331096486e-07,4.882810266438078
+20,4447,"beginning tokens of compound words or phrases, particularly in formal contexts like copyright notices, organization names, and hyphenated terms",0.9994,6.0,5.3201204310527956e-08,6.932762797411792
+20,1406,"specifications, requirements, or conditions in technical, educational, or professional contexts",0.976,240.0,2.1563303775296804e-07,3.029886344046239
+20,1406,accessing services or registering for platforms to obtain information or membership,0.9749,251.0,2.2993920450400245e-07,2.905762720906442
+20,1406,information submission forms and data entry interfaces,0.9969,31.0,6.196751182416256e-08,4.8486467635789205
+20,1406,"product specifications and attributes such as size, model, room type, or brand names in item descriptions",0.9888,112.0,1.0107429665585139e-07,3.917790819499487
+20,1406,"potential risks, dangers, or uncertainties requiring caution or verification",0.9968,32.0,6.234580697146196e-08,4.79348848053514
+20,3885,Abbreviated technical terms or product codes in technical or branded contexts,0.9572999999999999,427.0,6.306103099228052e-07,2.054271201978258
+20,3885,initial events or experiences  beginnings and anticipation  uncertainty or negation  upcoming or imminent actions  emotional responses to new situations,0.9635,365.0,4.437894032516729e-07,2.8831945763027274
+20,3885,"contextual prepositions, descriptive modifiers, compound word components, location specifiers, numerical identifiers, and specifying punctuation",0.9614999999999999,385.0,4.972869781318702e-07,2.23928928743737
+20,3885,abbreviations acronyms codes time notations and exclamatory expressions,0.8664000000000001,1336.0,6.572006675474514e-05,0.9559174240993458
+20,3885,"grammatical function words, numerical values and measurements, punctuation ending clauses, and initial syllables of specialized terms",0.9283,717.0,3.0763878832051057e-06,1.5115488169996927
+20,1790,organizational components and operational methodologies,0.9885999999999999,114.0,1.0229290877398768e-07,2.8470074926363207
+20,1790,customizable elements or selectable components within a set,0.9964000000000001,36.0,6.388148636305179e-08,3.69460460379323
+20,1790,services or business operations and their associated actions or entities,0.9506,494.0,9.172675908740113e-07,1.9803402463872841
+20,1790,"sub-word units in abbreviations, acronyms, and technical/commercial terminology fragments",0.9946,54.0,7.125753700651079e-08,3.4692350220147543
+20,1790,"names of organizations, events, products, or entities",0.9849,151.0,1.2757730170965155e-07,2.75100563933646
+40,4965,"occurrence or release of events, products, or information",0.9546,454.0,7.338544546029721e-07,2.317427693254679
+40,4965,reporting announcements updates current status changes,0.9176,824.0,5.388106839884334e-06,1.5340088124379394
+40,4965,presence or existence of entities and attributes,0.6962,3038.0,0.032598457666768964,0.9819438810329983
+40,4965,"existence or emergence of issues, scandals, conflicts, or public revelations",0.9907,93.0,9.017690101350517e-08,3.9633981518283443
+40,4965,"brand and model names in product descriptions, technical specifications, and component listings, including automotive parts, hardware items, and consumer goods, often featuring abbreviations, alphanumeric codes, and structured data points like dimensions or addresses, with activation on introductory terms, punctuation in lists, and key identifiers within technical or commercial contexts",0.9420999999999999,579.0,1.4646483288134893e-06,1.8105445582194104
+40,3948,Learning processes and methodologies in communication or creation,0.5676,4324.0,0.46176928573532916,-0.08976954820417618
+40,3948,establishments events activities venues operations,0.1382,8618.0,8.10899896675999e-05,-0.8370334559384649
+40,3948,"positive endorsements or recommendations of desirable qualities, products, services, or experiences",0.3773,6227.0,0.1814727210744097,-0.10764166779655193
+40,3948,diversity in options or features,0.3464,6536.0,0.09435086337137183,-0.2051273018836062
+40,3948,"Organizational establishment, expansion, or certification",0.1281,8719.0,5.0957361501784596e-05,-0.8230273119986553
+40,4055,primary subject matter keywords and attributes,0.02350000000000001,9765.0,2.0941825352223527e-07,-0.9125928970806145
+40,4055,physical components and supplementary features enhancing functionality,0.05650000000000001,9435.0,1.3567704384269971e-06,-0.7769406919296117
+40,4055,objects and their functional or descriptive attributes,0.0017000000000000014,9983.0,5.689928221768739e-08,-1.0445754282333093
+40,4055,educational and professional roles and positions  career transitions and employment processes  leadership titles and strategic positions  access to structured opportunities and pathways,0.8046,1954.0,0.0009067126125823106,0.550556466187802
+40,4055,"accessibility, representation, or systemic standing within contexts",0.4826,5174.0,0.8500748337480704,0.2645942420330652
+40,824,"discussing or revealing sensitive, personal, or controversial information",0.7603,2397.0,0.00457763411491091,1.370289845331028
+40,824,ensuring security and privacy of sensitive information through protective measures and compliance protocols,0.9619,381.0,4.861127562784514e-07,1.5530396842713745
+40,824,unfiltered processes or experiences,0.02230000000000002,9777.0,1.9520085948049526e-07,-1.11546490657506
+40,824,exposure of scandals or misconduct through reports investigations and public revelations,0.46030000000000004,5397.0,0.665759855401859,0.351567533114175
+40,824,Proprietary terms and technical specifications,0.11770000000000003,8823.0,3.120399165569496e-05,-0.5270383740782373
+40,1823,"processes, states, or descriptive attributes  relational concepts and contextual definitions  ongoing actions and resultant conditions  characteristics and functional relationships  defining properties and interactions",0.1603,8397.0,0.0002152744092010718,-0.9135444496804245
+40,1823,"personal emphasis, emotional expression, and subjective time references conveying enthusiasm, reflection, or intimate sharing",0.3396,6604.0,0.08064354526125231,-0.5079470305731978
+40,1823,temporal or procedural transitions,0.5193,4807.0,0.8338839797687485,-0.11259088319596802
+40,1823,ongoing states or temporal immediacy with relational connections,0.4117,5883.0,0.33632255459241744,-0.36930286108087707
+40,1823,historical events and celebrations occurring in specific years,0.33720000000000006,6628.0,0.07621023552891455,-0.5229085017402997
+40,5557,domain-specific terminology and quantitative descriptors in scientific contexts  biological and molecular concepts with measurement indicators  technical vocabulary and quantitative attributes in specialized fields  scientific entities with comparative quantification  specialized nomenclature and expression-level indicators  morphological components of technical terms with quantitative modifiers,0.8128000000000001,1872.0,0.0006560521755818696,1.0657360499890458
+40,5557,"events or gatherings involving scheduled occasions, group activities, cultural celebrations, academic processes, or planned social functions",0.6780999999999999,3219.0,0.05240396360594233,0.1128756433178605
+40,5557,technical specifications and terminology abbreviations,0.9389,611.0,1.7430690423392723e-06,2.0831075376711623
+40,5557,family relationships and celebrations during significant occasions,0.8455,1545.0,0.00016750339265555464,0.8959967366311952
+40,5557,features and functionalities of systems or services,0.8274,1726.0,0.0003619489845409717,0.7825262369936145
+40,1516,"locations, institutions, events",0.1307,8693.0,5.749425006332554e-05,-1.0971181501535114
+40,1516,services and procedures in specific professional or commercial contexts,0.006800000000000006,9932.0,7.755838035388528e-08,-1.7657720782981756
+40,1516,customer-centric services and premium experiences,0.33230000000000004,6677.0,0.06777566073735287,-0.6944088845468704
+40,1516,tokens forming parts of compound terms or technical jargon in descriptive contexts,0.004800000000000004,9952.0,6.871162701944456e-08,-1.9084147164006158
+40,1516,personal agency and introspective life choices,0.9394,606.0,1.6964403700190609e-06,2.359643839640607
+40,364,negation words and contractions expressing denial or refusal,0.6359,3641.0,0.13886144897536137,-0.009827393215900941
+40,364,accessibility and provision of services or features for users,0.6335999999999999,3664.0,0.14567302320196973,-0.05514952780955013
+40,364,"elaboration on features, attributes, or accompaniments of a subject",0.8883,1117.0,2.3383156481109276e-05,1.0275821843500974
+40,364,structural connectors and grammatical linkers facilitating descriptive elaboration,0.6995,3005.0,0.029784324487030254,0.17562960116245863
+40,364,quantitative measurements and statistics in factual reporting,0.5908,4092.0,0.32281312402984386,-0.06587799098140754
+40,4808,acquisition or utilization of products and services,0.009600000000000008,9904.0,9.181851755468456e-08,-1.7971431109797196
+40,4808,contexts anticipating outcomes or performances in specialized domains  sports team dynamics and player contributions  music releases and equipment descriptions  product delivery and transactional processes  imminent results in competitive scenarios  technical specifications and brand presentations  upcoming events or releases  performance evaluations and critical moments  specialized domain terminology,0.08109999999999999,9189.0,5.036953697823791e-06,-1.5384296497167949
+40,4808,digital marketing strategies and brand promotion,0.17380000000000004,8262.0,0.000380423816044688,-1.1776804297791077
+40,4808,organizational structures and corporate entities,0.016100000000000014,9839.0,1.353886730644816e-07,-1.633064717901454
+40,4808,"creative or cultural outputs and their release, promotion, reception, or thematic elements",0.005100000000000005,9949.0,6.997336708859392e-08,-2.0891555618273667
+40,3612,"professional ethics, standards, and responsibilities across various fields including surveying, journalism, public health, governance, legal compliance, and cultural preservation, emphasizing accountability, upholding principles, societal contributions, and adherence to best practices",0.8673,1327.0,6.305498000957146e-05,1.0536864963403432
+40,3612,"product attributes and specifications including color, material, dimensions, and design qualities",0.5404,4596.0,0.6602261804003331,-0.2148802716906525
+40,3612,scientific and technical methodologies for validation and analysis,0.7458,2542.0,0.007420239738172627,0.4684733167926118
+40,3612,"nutritional or health-beneficial components and their effects  ingredient lists and composition details  cooking or preparation methods and instructions  dosage, usage, and application guidelines  beneficial properties and preventative effects",0.8811,1189.0,3.304140999063036e-05,1.2464849933255442
+40,3612,"evaluation, assessment, and clarification mechanisms",0.7721,2279.0,0.003037654425182454,0.5187034902930294
+40,6364,physical or organizational structures and their attributes  ownership or possession of entities  group membership or collective activities  sequential or temporal positioning within events,0.018700000000000015,9813.0,1.5792522752465923e-07,-2.2976279455442845
+40,6364,professional or technical fields and domains,0.0029000000000000024,9971.0,6.121758199063496e-08,-3.507993773950327
+40,6364,technical specifications and features within structured descriptions,0.01120000000000001,9888.0,1.0107429665585139e-07,-2.820030798935645
+40,6364,ongoing collective actions within geopolitical or organizational contexts,0.09490000000000003,9051.0,1.019970508389879e-05,-1.9255966291297244
+40,6364,personal ownership and experiences,0.015600000000000013,9844.0,1.314268572999192e-07,-2.4803542732175607
+40,3515,commercial product or service offerings,0.02030000000000002,9797.0,1.7355366903555303e-07,-1.596291005776561
+40,3515,academic and professional qualifications certifications and training programs,0.11530000000000001,8847.0,2.7816365105314443e-05,-1.094770657904906
+40,3515,geographical locations and cultural heritage tourism,0.004400000000000005,9956.0,6.706354444790232e-08,-2.173976807761782
+40,3515,Enabling access to resources or opportunities,0.0296,9704.0,2.9861437654126956e-07,-1.8716784590996765
+40,3515,Significant actions or events involving collective entities at critical junctures,0.005800000000000006,9942.0,7.300532038886129e-08,-2.1603104998936073
+40,556,"planning and execution of events, services, or projects",0.04930000000000001,9507.0,9.121864381039605e-07,-1.1562474824322497
+40,556,references to authoritative entities and doctrines,0.6271,3729.0,0.16630613151294305,0.6941477053209146
+40,556,financial support mechanisms for structured initiatives and programs,0.07450000000000004,9255.0,3.566827899679755e-06,-0.8590930594826003
+40,556,product features and options,0.2813,7187.0,0.01721305862151054,-0.6246809727318717
+40,556,future-oriented actions and requirements,0.2013,7987.0,0.0011391233675584961,-0.6292942396750486
+40,183,business structures and operational frameworks,0.010300000000000009,9897.0,9.576225411624417e-08,-1.2267013789018602
+40,183,business operations and employment services,0.41269999999999996,5873.0,0.3418267308309392,-0.32352172617370856
+40,183,hands-on activities involving creation or preparation of tangible items,0.007200000000000006,9928.0,7.945558028199424e-08,-1.2647819506261064
+40,183,organized travel activities and excursions,0.1459,8541.0,0.00011466213294043565,-0.7274783594470456
+40,183,initiating or managing professional or personal development efforts  facilitating growth through support systems or institutional programs  career advancement and skill acquisition processes  organizational or institutional support for individual progress  transitioning into new roles or ventures with assistance,0.9847,153.0,1.2910385103187507e-07,4.102408862081645
+40,3254,service provision and process explanations with conditional benefits,0.003300000000000003,9967.0,6.272633918917213e-08,-3.7611361602919686
+40,3254,"subject identifiers for people, places, organizations, brands, or cultural entities",0.0947,9053.0,1.0097505514146886e-05,-1.8239559140414021
+40,3254,regulatory compliance and systemic procedures,0.015900000000000015,9841.0,1.337902756417119e-07,-2.909192127854369
+40,3254,"concepts or actions being questioned, challenged, or analyzed within social, cultural, or personal narratives",0.008000000000000007,9920.0,8.338572793418424e-08,-3.463609913750521
+40,3254,"choices or experiential actions involving selection, trial, or evaluation",0.030400000000000017,9696.0,3.127391218412594e-07,-2.421117248189871
+40,6067,Event presentations and performances featuring public figures or groups,0.9658,342.0,3.8912177678069827e-07,2.5322104997295427
+40,6067,"conditions and procedural steps in technical, operational, or financial contexts",0.9168000000000001,832.0,5.615724237398764e-06,1.4020349219333603
+40,6067,written versus spoken communication forms,0.9758999999999999,241.0,2.1689720508209757e-07,2.7568241628525616
+40,6067,special occasions and notable items,0.9562,438.0,6.708605389787679e-07,2.221721257117139
+40,6067,data transformation and manipulation techniques,0.9163,837.0,5.762628797732401e-06,1.3904241967894335
+40,3636,potential problems requiring resolution or intervention,0.002300000000000002,9977.0,5.9020175083612364e-08,-2.011174727073357
+40,3636,combining or integrating elements in a process,0.08800000000000001,9120.0,7.187155783834058e-06,-1.4823020580986632
+40,3636,obligations and requirements in contractual or procedural contextsconditional dependencies and prerequisitesmandatory actions under specified conditionspreparatory steps for future executionbinding terms in agreementsnecessary procedures before implementationcontingent actions based on circumstancesformal stipulations governing conductdependencies for service fulfillmentpreconditions for operational validity,0.08290000000000002,9171.0,5.5293095164551506e-06,-1.5596700393077665
+40,3636,political structures and electoral processes,0.45389999999999997,5461.0,0.6158780941564852,-0.12692688406214267
+40,3636,enabling or facilitating actions permissions or access,0.010100000000000008,9899.0,9.461904328935569e-08,-1.6749114777204606
+40,1555,"procedures, techniques, or systematic approaches in specific domains",0.008500000000000008,9915.0,8.593696940695783e-08,-1.2179361109933737
+40,1555,Road travel and vehicle incidents,0.17110000000000003,8289.0,0.0003400347787118478,-0.6726038594982773
+40,1555,"personal endeavors involving preparation, challenges, or significant life processes",0.0030000000000000027,9970.0,6.159144104237379e-08,-1.3505296163309133
+40,1555,specialized professional practices and regulatory compliance frameworks,0.010600000000000009,9894.0,9.750217847066736e-08,-1.178652667356944
+40,1555,Financial transactions and cost-effective service acquisition,0.10240000000000002,8976.0,1.4830854389035148e-05,-0.9984991512817563
+40,6106,"presentation of specific attributes, features, or operational details",0.19080000000000003,8092.0,0.0007568958840383493,-0.8912611379977173
+40,6106,"Legal disputes, grievances, or formal complaints involving rights, intellectual property, or personal wrongs",0.09880000000000001,9012.0,1.240154017101787e-05,-1.1328493179757941
+40,6106,"accessibility and availability of resources, products, or services directly to the user",0.0013000000000000012,9987.0,5.552658549556701e-08,-1.5830846369292146
+40,6106,"professional services, advisory, and compliance processes",0.003400000000000003,9966.0,6.310912125199899e-08,-1.5101437765502885
+40,6106,technical functionality specifications,0.02270000000000002,9773.0,1.9983305283883337e-07,-1.0057642136824791
+40,4244,promoting products or services,0.5675,4325.0,0.4624326034735361,-0.1588040132810385
+40,4244,health risks and medical interventions,0.9077,923.0,8.944941339326613e-06,1.251679223338873
+40,4244,"capabilities, possibilities, and availabilities",0.7666,2334.0,0.003684508219143448,0.5483121400357162
+40,4244,"religious and historical events, institutional entities, natural phenomena, structured activities, geographical references",0.7237,2763.0,0.014826136632650831,0.2411376217212291
+40,4244,future-oriented opportunities or pathways for improvement and support,0.7492,2508.0,0.00663933241078605,0.38072667326871484

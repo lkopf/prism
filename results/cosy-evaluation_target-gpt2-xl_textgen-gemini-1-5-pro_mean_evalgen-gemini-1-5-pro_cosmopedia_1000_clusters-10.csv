@@ -1,0 +1,601 @@
+layer,unit,explanation,AUC,U1,p,MAD
+0,6314,"Sports, music, and entertainment figures, along with political figures and events",0.8526,1474.0,0.0001225718397092802,0.8785268573558233
+0,6314,"Electronic devices and their accessories, charging process, and alerts/alarms",0.9562,438.0,6.708605389787679e-07,2.3660478588856937
+0,6314,"Relating to colors, fashion items, furniture, or UI elements",0.923,770.0,4.067348395541229e-06,1.4887326608573832
+0,6314,"Positive descriptions of places and amenities, often related to homes, leisure activities, and healthcare",0.9167,833.0,5.6448153392326075e-06,1.3753659561555647
+0,6314,"Features, functions, or characteristics of smartwatches, or discussions about available brands or models",0.9813999999999999,186.0,1.569950173824799e-07,3.209355215639568
+0,6314,"Babies, apparel, music, entertainment, and leisure activities",0.9874999999999999,125.0,1.0925370154945094e-07,3.477433862276381
+0,6314,"Experiences and observations related to media, technology, personal events, and reflections on parenting and life",0.8487,1513.0,0.00014561252301392187,1.0087118154944252
+0,6314,"Events, entertainment, and celebrations, often including specific locations, venues, or performers",0.903,970.0,1.1334178221060897e-05,1.2957674735328166
+0,6314,"Activities, methods, or practices related to learning, improving, or coping, such as yoga, handwriting, mindfulness, language learning, or organizing",0.9185,815.0,5.142597054128485e-06,1.4339924845473877
+0,6314,"Food, recipes, meals, cooking, restaurants, flavors, ingredients, and colors",0.9337,663.0,2.307002115959563e-06,1.6186047577069407
+0,2725,"Methods of measurement, evaluation, or testing",0.844,1560.0,0.00017879807516406115,1.0327445167189795
+0,2725,Clothing or accessories and their attributes,0.9499000000000001,501.0,9.536064263117443e-07,1.932339433198272
+0,2725,"Positive reactions/feedback, acceptance, receiving something beneficial",0.9468,532.0,1.131878099669897e-06,1.8440509760415422
+0,2725,"Titles, names of characters, or names of creative works in entertainment-related contexts that relate to awards, nominations, or other forms of critical recognition",0.9853999999999999,146.0,1.2383693633288252e-07,2.785568289711254
+0,2725,"Composer, musical piece, musical instrument, musical score, musical key",0.9750999999999999,249.0,2.272716198988393e-07,2.397337289664142
+0,2725,"Winning, success, achievement, positive outcomes, progress, being ahead",0.9579,421.0,6.096472726610246e-07,2.153161172138449
+0,2725,Product or service descriptions with positive attributes,0.9403,597.0,1.6155130846990297e-06,1.8215037130839746
+0,2725,"Receiving, avoiding, or minimizing something negative",0.9743999999999999,256.0,2.3674118938010742e-07,2.4311583517605735
+0,2725,"Receiving, providing, or discussing information, assistance, or resources",0.9612,388.0,5.058297888103144e-07,2.0902524273407317
+0,2725,"Positive descriptions of interior design, furniture, awards, or items, and actions related to choosing, selecting, or earning something",0.9623,377.0,4.7518089100940207e-07,2.243351229929202
+0,4297,Technical specifications of industrial or commercial products or processes,0.8621000000000001,1379.0,7.9992003602355e-05,0.44779702417608275
+0,4297,"Concepts of territory, policy, and citizenship, often related to culture and welfare in a regional or international context",0.9313,687.0,2.6228854919567427e-06,1.2426030177791816
+0,4297,"Concepts of resource management, energy, and resource usage efficiency, sometimes in combination with simulations or modeling",0.9328,672.0,2.4209219382148064e-06,1.2534681972395265
+0,4297,"Donations, financial accounts, and charitable giving",0.9678,322.0,3.4691754560935315e-07,2.119505305787816
+0,4297,Small products for babies/young children,0.9099,901.0,7.99975681796161e-06,0.7492849574101943
+0,4297,"Probate, estate planning, asset distribution, ownership, or placeholder names",0.992,80.0,8.338572793418424e-08,4.925198891249168
+0,4297,"Kitchen utensils, shapes, parts of proper names, and flooring materials",0.8993,1007.0,1.3631975886701952e-05,0.6859742083629905
+0,4297,"Dementia care, future of surrogacy, personal life changes and goals, pragmatic and ethical implications of life technologies, retirement and retirees as a valuable resource,  rights and choices in life, acting in one's best interest, wealth and resources, commitment to goals and action, leases and ownership, managing life situations,  caregiving scenarios and skills, resources for projects and initiatives, conception difficulties, and the impact of global warming",0.9922,78.0,8.238590129118299e-08,5.0873410947026265
+0,4297,"Financial products and services, especially insurance policies and animal purchasing",0.9779,221.0,1.9292385371945532e-07,2.6833799284271276
+0,4297,"Financial, tax, and legal implications of company or employee stock options, share plans, and equity programs, including grants, exercises, savings, consequences, and treatments, often with respect to government regulations and authorities",0.9971,29.0,6.121758199063496e-08,8.255935834827316
+0,4842,"Hair care, skincare, food and drinks, or other products and their ingredients, effects, or usage",0.12969999999999998,8703.0,5.489125800918915e-05,-1.043206739137292
+0,4842,"Partnerships, collaborations, or affiliations and their impact on various entities, including governmental bodies, organizations, corporations, or individuals",0.05120000000000002,9488.0,1.0135256973339165e-06,-1.2605447770395626
+0,4842,"Fitness training, internships, professional coaching, mastery of skills, improving handwriting, systems thinking, college education, dog training, cleaning services, yoga instruction, podcasts, business branding, spiritual guidance, handling anxiety, and memory improvement tips",0.6605,3395.0,0.08045473151346294,0.3552172971763984
+0,4842,"Mathematical and scientific concepts, academic work (essays, research, dissertations), software and systems (design, development, tools, frameworks, code, algorithms), games (graphics, features), products (design, features, models), and business and marketing (strategies, clients, platforms, customers)",0.5352,4648.0,0.7017579483711311,-0.07617946372502071
+0,4842,"Fashion, beauty, and design, often involving specific brands, collections, or individuals",0.4976,5024.0,0.9795743669654762,-0.18143224589162668
+0,4842,"Food, recipes, and meals, especially in the context of restaurants, catering services, or home cooking",0.17350000000000002,8265.0,0.00037572421535927037,-0.9078379533117891
+0,4842,"Automotive design, components, and engineering, including engines, chassis, styling, and materials, along with software/computer aspects like kernels and graphics processing units",0.554,4460.0,0.5566875203094064,-0.041362236514986855
+0,4842,"Digital skills, clients, sessions, internal audits, analytics solutions, FMCG innovation, intellectual property assets, brand reputation, academic skills and educational environment, real estate properties, commercial building security and training, healthcare standards and feedback, traffic solutions and company numbers, timber frame skills, investment portfolios and options, cookie data and privacy policies, calibration trends and technology, and work environment and professional strategies",0.8734,1266.0,4.751326046943474e-05,1.1552755068977085
+0,4842,"Names of people, especially in contexts related to entertainment, professional work, or news events",0.1269,8731.0,4.818391778242452e-05,-1.0675419153005543
+0,4842,"Discussions of teams, personnel, or collaborations, especially in professional settings, often related to media, technology, sports, or the arts",0.3895,6105.0,0.22885290860012453,-0.40845589394934323
+0,5551,"Video games, especially Minecraft and Grand Theft Auto, online gaming, and digital media",0.018500000000000016,9815.0,1.5607010670551728e-07,-1.0705045171220344
+0,5551,"International relations, politics, and groups/unions",0.739,2610.0,0.009233457332687755,0.5966301266578541
+0,5551,"Locations, particularly Jamaica, and Jamaican Patois, including grammar, vocabulary, and features",0.1397,8603.0,8.679692380208783e-05,-0.7419448866834434
+0,5551,"Contractual disputes, financial disagreements, legal proceedings, and regulatory compliance relating to business operations",0.23199999999999996,7680.0,0.003508934887573381,-0.5926575101232219
+0,5551,"Food, especially different kinds of food pairings",0.09270000000000002,9073.0,9.127882961764409e-06,-0.859332638393184
+0,5551,"Locations, vehicles, and household objects",0.3182,6818.0,0.04769109408629182,-0.40359696914398024
+0,5551,"Locations, places, or establishments",0.26489999999999997,7351.0,0.010443209472549278,-0.5380530846560175
+0,5551,"International or governmental organizations, commissions, and agencies, especially those related to trade, commerce, economics, diplomacy, and sustainable development",0.9375,625.0,1.880274345485669e-06,2.9723608610044248
+0,5551,"United Nations Security Council activities, including resolutions, presidential statements, members, and humanitarian concerns",0.9988,12.0,5.51884581828221e-08,13.711447599983723
+0,5551,"Words related to commercial transactions, hobbies, and personal attributes related to individuals and/or groups",0.021200000000000007,9788.0,1.8299115773245566e-07,-1.1176334347154668
+0,1749,"Evaluations, endorsements, marketing, and retail business success",0.008000000000000007,9920.0,8.338572793418424e-08,-2.6273771080121677
+0,1749,"Legal, educational, or career advancement and related concepts",0.004400000000000004,9956.0,6.706354444790232e-08,-2.825200496070779
+0,1749,"Luxury travel, religious narratives, mathematical concepts, espionage and friendship, music reviews, and film and television",0.1646,8354.0,0.00025865380182696997,-1.0543811998004566
+0,1749,"Sports, politics, or entertainment figures participating in an event or competition, often involving specific numerical values (scores, money, dates, or measurements)",0.010700000000000008,9893.0,9.80889242107056e-08,-2.496982591040779
+0,1749,"Upscale accommodations, travel, and leisure activities",0.1262,8738.0,4.663280914745463e-05,-1.6937475424234616
+0,1749,"Dental care, vehicle upgrades or replacements, fashion styles, and travel or leisure",0.03360000000000002,9664.0,3.759661253058211e-07,-1.842772172058863
+0,1749,"Financial or corporate topics, particularly those related to assets, liabilities, and procedures, often in legal contexts",0.015800000000000015,9842.0,1.3299793770871095e-07,-2.3362988264711224
+0,1749,"Cosmetics, food, or collectibles being described as luxurious, desirable, or high-quality",0.2122,7878.0,0.001718844245572504,-0.8838822641296331
+0,1749,"Dollar amounts, user credentials, errors, arrays of key-value pairs, software or hardware defaults, concurrent actions, power capacity amounts, database backups, differentiation strategies in the context of IoT, development environments within Docker containers, product reviews, micro-transactions and in-game items, VR experiences with volumetric video, cell phone features, and C++ scoping rules",0.8875,1125.0,2.430599065849841e-05,1.6105179161031153
+0,1749,"A feeling of joy, gratitude, or contentment about a positive event or personal characteristic, sometimes with an element of surprise",0.2763,7237.0,0.014826136632650831,-0.6661456938413438
+0,3943,"Discussions of movies, TV shows, music, or other forms of media, sometimes including titles, names of actors, directors, or musicians",0.9047000000000001,953.0,1.040707556552732e-05,2.047002143693783
+0,3943,"Clothing, shoes, or accessories, often with descriptions of styles, brands or decorative elements",0.9833999999999999,166.0,1.3946590173053397e-07,2.8220581077388047
+0,3943,"Optimal, efficient, or improved processes or solutions, sometimes related to business, marketing, or therapy",0.9785999999999999,214.0,1.851547667262345e-07,2.9985688943941087
+0,3943,"Locations, food, and drinks",0.9804999999999999,195.0,1.6556123260854963e-07,2.7034786916191114
+0,3943,"Geographic locations, events, or individuals connected to a particular place",0.9711,289.0,2.8676222214266605e-07,2.4403620292915784
+0,3943,"Suitability, validity, or optimization of various tools or strategies in different contexts",0.9847999999999999,152.0,1.28338380546819e-07,2.968492283079696
+0,3943,"Times, years, or dates and their associated events, especially in relation to improvement or increase",0.9817,183.0,1.5423606750129356e-07,2.833342011600849
+0,3943,"Years, best solutions, and trouble, often related to vehicles, sometimes during a certain timeframe, and helping to overcome it",0.984,160.0,1.345871789755623e-07,2.97306966492724
+0,3943,"Emphasis, intensity, or unusualness, often related to personal experience, strong emotion, or judgment",0.9738,262.0,2.451603888308333e-07,2.541344290589362
+0,3943,"Proper nouns relating to people, organizations, and locations, often in the context of current events, politics, or social media",0.9863999999999999,136.0,1.1667189779601329e-07,3.0176283103413146
+0,5960,"Real estate, photography, or home repair services",0.9236,764.0,3.941419406332292e-06,1.5998480674498488
+0,5960,"Augers, drills, or other mechanical components used for moving or fastening materials",0.9467,533.0,1.1381321031660803e-06,1.805497258478552
+0,5960,"Spiritual, emotional, or exciting subjects, often with visual or photographic aspects",0.9395,605.0,1.6872596025735405e-06,1.8868070193231485
+0,5960,"Construction, engagement, medical procedures, guiding principles, visual or artistic representations, documentaries, exciting career opportunities, cultural traditions or establishment of institutions, academic achievements, carrying out projects, branching or fixing issues, deals or cooperation, stories or cooperative efforts, planning or approval, unfolding situations, bringing back or evoking something, establishing relationships, details or submission of applications",0.9392,608.0,1.7149461486203822e-06,1.62405332753847
+0,5960,"Jewelry, accessories, food, personal care products, or other items that evoke elegance, romance, or charm",0.9347,653.0,2.186462936840938e-06,1.6124465572408622
+0,5960,"Positive qualities, often related to fashion, appearance, or travel destinations, in visually appealing settings",0.9421,579.0,1.4646483288134893e-06,1.7374119225613165
+0,5960,"Locking, integral components, or software handling procedures",0.8861000000000001,1139.0,2.6004899990084055e-05,1.1865816981257835
+0,5960,"Legal cases, investigations, or incidents involving death, crime, or other negative events",0.9316,684.0,2.5812410632756118e-06,1.8198814052384282
+0,5960,"Games, competitions, or specific items related to them",0.9397,603.0,1.6690411172540317e-06,1.7190991057176492
+0,5960,"Titles of creative works, including books, movies, TV shows, music, and photographs, along with names of characters",0.9542,458.0,7.504718756745765e-07,2.2115766113492743
+0,3696,"Colons in question and answer sections, often with the question formatted as ""Q[:] "" and the answer formatted as ""A[:] """,0.3182,6818.0,0.04769109408629182,-0.5952013097965624
+0,3696,Locations or entities and a nearby qualifying adjective or descriptor,0.008400000000000008,9916.0,8.542074858998555e-08,-1.3820760071441902
+0,3696,"Color, color schemes, color palettes, and color types in relation to design, cosmetics, or clothing",0.016400000000000015,9836.0,1.3782095543494482e-07,-1.2851668770441658
+0,3696,"Tips, tricks, or instructions, often numbered or listed, sometimes with headers, and occasionally related to self-improvement, education, or specific domains like history or health",0.0534,9466.0,1.1444193501986217e-06,-1.1087025284838663
+0,3696,"Services related to home maintenance or improvement, including finding service providers, and financial/legal aspects of home ownership",0.0004000000000000004,9996.0,5.255433869802383e-08,-1.5024312099590114
+0,3696,"Specifications of electronic devices, vehicles, or parts, often including model numbers and technical details",0.004600000000000004,9954.0,6.788274081989385e-08,-1.548437346548073
+0,3696,"Food and drink recipes/preparation, sometimes straightforward or basic, and sometimes with unusual ingredients or combinations",0.0010000000000000009,9990.0,5.4518179454785595e-08,-1.4407243504904723
+0,3696,"Medical and scientific terminology related to diagnoses, analyses, phenomena, and morphology, often in the context of specific conditions or studies",0.0025000000000000022,9975.0,5.974401278504218e-08,-1.440157627945161
+0,3696,Categories/Categorization,0.0009000000000000007,9991.0,5.418600533570585e-08,-1.4612794154722482
+0,3696,"Geographic locations, years, and proper nouns relating to sports, events, or organizations",0.004900000000000003,9951.0,6.91297383303217e-08,-1.4147188856355604
+0,3533,"Warehousing, legal proceedings, vehicle rentals, logistics and distribution, asset division during divorce, in-game virtual world obstacles, aircraft purchases, fraudulent invoices, pest control bonds, long-distance travel, real estate sales, insurance payments, digital image downloads, taxi bookings, home maintenance, leasehold extensions, window installations, and charity fundraising events",0.9639,361.0,4.3377742915931123e-07,2.3496057934245944
+0,3533,"Months and numbers, often related to dates and times, sometimes within the context of collector items, events, or news reports",0.6239,3761.0,0.17723809613500507,0.43112073028069053
+0,3533,"Numbers, especially related to sizes, dimensions, versions, models, or quantities",0.4939,5061.0,0.9474471702075559,-0.16662896902560187
+0,3533,"Decorative or collectible boxes, often book-shaped, sometimes in sets, and occasionally with contents like dolls or other items",0.8976,1024.0,1.4830854389035148e-05,1.2490908195098
+0,3533,"Files, file systems, storage, software applications, email, and digital content related processes (uploading, downloading, sending)",0.8766,1234.0,4.088917092053875e-05,0.9968954466219151
+0,3533,"Quantities, containers, and time periods related to the end of the year holidays",0.8674,1326.0,6.276525718089403e-05,1.1563702410987775
+0,3533,"Numbers, often single digits, related to spiritual guidance, recovery, or life events, sometimes within specific bible verses",0.7943,2057.0,0.001347045237212888,0.6150894782973048
+0,3533,"Food preparation, including baking cookies, bread, and pizza, and cooking various dishes, often with specific ingredients like butter or squash",0.7604,2396.0,0.0045620457913344075,0.5090487827353607
+0,3533,"Ordering, delivery, or distribution of products or services, including contractual agreements and payments",0.7404,2596.0,0.008830700141009182,0.8472226067712915
+0,3533,"Dates, numbers, monetary amounts, and entities related to payments, refunds, cancellations, deadlines, registrations, applications, orders, releases, boards, corporations, legal cases, accounting, finances, or assets",0.9041000000000001,959.0,1.0725696500731003e-05,2.051235566808526
+0,3124,"Real estate, home renovation, or property alterations, sometimes with associated location or company names",0.08850000000000002,9115.0,7.373148767838882e-06,-0.5556016099604649
+0,3124,"Sports team nicknames, often shortened or with the suffix ""-gate""",0.1411,8589.0,9.246399768260939e-05,-0.48994376858553373
+0,3124,"Locations, proper names, art, collector items, publications, and checking accounts",0.11980000000000002,8802.0,3.448643635164585e-05,-0.5687602439063908
+0,3124,"Aspects of regulation, stress, and negative situations",0.048200000000000014,9518.0,8.580526072793462e-07,-0.8106126233916799
+0,3124,"Gene expression, human or mouse adult and developing brain, cell lines, transcription factors binding to gene promoters, dental and alveolar discrepancies, prolonged treatment, skeletal anchorage, button presses and form submissions, electronic and childhood classical music ensembles, granting, key state facts for a history project, CD version, inconsistent controller experience, remapping, 125 iTunes genres, repeated data acquisition and analysis, chronic kidney disease prevalence, inconsistent data transfer, core stability, and activating Grand Theft Auto cheat codes on a Playstation Portable",0.9861,139.0,1.187781878140311e-07,3.2538971617484846
+0,3124,"Wedding or special occasion attire, particularly dresses",0.6238,3762.0,0.17758814535261003,-0.05341112189254593
+0,3124,"Product families or lines, especially in technology or games, and their associated features and specifications",0.014500000000000002,9855.0,1.231017016301341e-07,-0.8579050413350527
+0,3124,Commercial products and brand names,0.026400000000000014,9736.0,2.4803052406458613e-07,-0.7565458418283432
+0,3124,"Medical conditions, often chronic and sometimes age-related, and their associated symptoms, treatments, or research",0.9598999999999999,401.0,5.445121354470077e-07,1.5590571620762523
+0,3124,"Time-related words, especially concerning recent events or times of day",0.01150000000000001,9885.0,1.029075356074078e-07,-0.8731382962048404
+0,1149,"First-person perspective discussions of personal experiences, actions, and opinions, often involving specific products, brands, or activities",0.4357,5643.0,0.48393723214484285,-0.2219818440666314
+0,1149,"First-person perspective discussing various topics, often involving decision-making or seeking advice, sometimes relating to products, vehicles, or health",0.23729999999999998,7627.0,0.00421652896113556,-0.7316063314543085
+0,1149,"Religious beliefs, religious figures, religious groups, and religious texts, especially related to Christianity, and self-identity",0.10870000000000002,8913.0,2.021080614674578e-05,-1.3345725506455217
+0,1149,"First-person accounts of various situations including traveling, dating, past experiences, and observations",0.22100000000000003,7790.0,0.0023730580708222686,-0.8568757159297187
+0,1149,"First-person narratives related to personal experiences, medical conditions, and reflections on life events",0.16440000000000002,8356.0,0.0002564665152317058,-1.4571480460711017
+0,1149,"First-person pronouns in relation to robotics, electronic music, software, and vehicles",0.3206,6794.0,0.05070554488505755,-0.4588240192704139
+0,1149,"First-person accounts of personal experiences, often including self-referential pronouns and introspection",0.4078,5922.0,0.3154046079789662,-0.38600325839381916
+0,1149,"First-person perspective related to self, identity, and technology (including brands and software)",0.4083,5917.0,0.318037582558201,-0.16555759020603716
+0,1149,"First person accounts of travel, leisure activities, or interests, often involving transportation (driving, hiking, motorcycles), and sometimes referencing specific locations, people, or events",0.9145,855.0,6.322539862976152e-06,1.5117948009217055
+0,1149,"First-person perspective on introspection, self-awareness, mental states, and personal experiences, especially regarding self-doubt, anxieties and fears, and the search for meaning and purpose in life",0.6763,3237.0,0.05483392257144407,0.47476374872981997
+0,6114,"Locations (cities, states, and countries) and time periods (months and years) related to legal, judicial, or regulatory contexts, often associated with processes, procedures, violations, or liabilities",0.4393,5607.0,0.5087641835914856,-0.26279007875373434
+0,6114,"Quantities, brands, or names, often related to products, purchases, or personal experiences",0.5350999999999999,4649.0,0.7025659292326623,-0.004537804416356487
+0,6114,"Medical treatments, especially those related to hemorrhoids, cosmetics, desserts (often cakes, sometimes purple), food (seafood, ribs), retail items, events from the past",0.6071,3929.0,0.24350246293136113,0.17507018865661347
+0,6114,"Dates, numbers, proper nouns related to organizations, locations, people, and monetary amounts in the context of certifications, qualifications, recruitments, or announcements related to healthcare, justice, or educational programs",0.5443,4557.0,0.6297418577890953,0.07835490533433791
+0,6114,"Years, primarily 2019, and day numbers, primarily 14, within timestamps related to logs, database schemas, software, or data releases",0.988,120.0,1.0603467810907552e-07,3.0497535431683667
+0,6114,"Medical conditions, pregnancy, ticks, cancer survivors, religious events, biblical plagues, respiratory issues, military patrols, cats, horror films, biblical figures, reptiles, drug offenses, nitrogen fixation, pituitary gland disorders, elderly people, fracking, and Sharia law",0.9099,901.0,7.99975681796161e-06,1.5875223497925264
+0,6114,"Clothing, accessories, or furniture and their attributes, including size, color, brand, and purpose",0.4348,5652.0,0.4778347879622683,-0.25897121609110096
+0,6114,"Sports tournaments, rankings, dates, and names of teams/people involved",0.4814,5186.0,0.8398412232900448,-0.10821160427466724
+0,6114,"Serial numbers of US patents and applications, often appearing after ""Ser"" or within citations of legal documents, sometimes accompanied by dates or other numerical identifiers",0.9551000000000001,449.0,7.135807296742775e-07,2.452616190808191
+0,6114,"Locations, often landmarks or businesses, and numbers, typically related to measurements like height, years, or dates",0.6167,3833.0,0.20377629542058184,0.2364201348671757
+0,3279,"Points systems in various contexts, such as competitions, proficiency levels, or membership programs",0.7998000000000001,2002.0,0.0010919980689843125,0.8088885115354377
+0,3279,"Discussions of customer service, support, or assistance, often related to business or community",0.8698,1302.0,5.6178474877297895e-05,1.15954178019431
+0,3279,"Expressions of excitement, gratitude, or strong positive emotions, often related to jewelry, fashion, or personal experiences",0.8575,1425.0,9.847927599835457e-05,1.0864643439581607
+0,3279,"Medical and dental procedures, health conditions, and related advice",0.8736999999999999,1263.0,4.685146010547812e-05,1.1766370309438405
+0,3279,"Locations and services related to travel, including accomodations, transportation, and local attractions",0.8582,1418.0,9.54268907938656e-05,1.0836618329894885
+0,3279,"Location or item related services, often involving transportation or delivery",0.854,1460.0,0.00011517409952815666,1.0443763983058791
+0,3279,"Discussions of events, legal proceedings, media, or finances",0.7967,2033.0,0.0012296533171958484,0.7677331924873828
+0,3279,"Numbers, especially relating to measurements, specifications, or counts, often appearing in contexts of cameras, lenses, or technical descriptions",0.8004,1996.0,0.0010670597734704858,0.7971602192521565
+0,3279,Expressions of strong emotions or opinions,0.9009999999999999,990.0,1.252588949692891e-05,1.469306462337124
+0,3279,"Emotional reactions, strong feelings, and emphatic expressions",0.9188000000000001,812.0,5.063167989932616e-06,1.621946386650803
+0,440,"Suffixes related to past participles, numbers, and brand names",0.10550000000000001,8945.0,1.7280372504976687e-05,-2.8293209298160424
+0,440,"Financial transactions, credit, payments, certification,  tenure, employment status, financial agreements and arrangements, and dedicated commitment",0.012500000000000011,9875.0,1.0925370154945094e-07,-3.047681599659383
+0,440,"Apologies, announcements, and media relating to finances, downgrades, ratings, and payments",0.01010000000000001,9899.0,9.461904328935569e-08,-3.2605149297446983
+0,440,"Elegance, formality, quality, authenticity, milestones, and notable people or events",0.01980000000000002,9802.0,1.6851578218297106e-07,-2.603400222946646
+0,440,"Discussions of software updates or software versions, often related to security, and sometimes dates or time periods",0.009400000000000009,9906.0,9.072092372140264e-08,-3.2909028907606612
+0,440,"Financial transactions related to real estate, construction, or services, often including deadlines, responsibilities for payments or additional charges, and the importance of proper handling or timely execution",0.10750000000000001,8925.0,1.906037506901683e-05,-1.431449368312216
+0,440,"Retail, e-commerce, online platforms, user experience, and financial transactions",0.007800000000000007,9922.0,8.238590129118299e-08,-3.433205725565504
+0,440,"Dedication to providing high-quality, helpful services, often involving legal, medical, or financial matters, with emphasis on responsible and ethical practices and the potential negative consequences of inadequate planning or execution",0.029700000000000025,9703.0,3.0034568547488985e-07,-2.200543145017751
+0,440,"Footwear, taxidermy, hair, jewelry, home decor, cakes, gratitude, wall decorations, cosmetics, lamps, smart watches, nail art, television programs, dog grooming products, and makeup palettes",0.5847,4153.0,0.3564055591694121,0.23215582232159734
+0,440,"Discussions of religious or philosophical concepts relating to truth, forgiveness, remembrance, acknowledgment, proper behavior, and intentional actions",0.9644,356.0,4.2156859740367613e-07,2.0184430323845817
+0,4405,"Military forces, government, and countries/regions, often with numerical values",0.1039,8961.0,1.5971590610414894e-05,-1.2638672225315877
+0,4405,Emphasis on or references to the present moment,0.06120000000000001,9388.0,1.7525414395677715e-06,-1.7103455668643455
+0,4405,"Government-related entities (administrative, official, department, training, regimes, authorities, agencies) and locations (countries, university, Shanghai, China, US, UK, India, Japan, Greece, Sweden, Oman, Malaysia, Australia)",0.4821,5179.0,0.845807655425427,-0.13739230899353175
+0,4405,"Minecraft servers, US visas, freight/shipping, software installation, Chinese government control, leasehold properties, ATM usage, property division in Utah divorces, campsite rules, space launches, consolidated financial statements, European car travel, online fax services, torrent downloads, drone photography services, dating advice, personally identifiable information, dumpster rentals, home builders",0.516,4840.0,0.8620459292628105,-0.035825549938910226
+0,4405,Attributes of heavy-duty footwear or items made of steel,0.13700000000000004,8630.0,7.678175852606961e-05,-1.041578388659659
+0,4405,"Installation of splashbacks, sale of linens, flooring, shutters, closets, cosmetics, wood, anatomy textbooks, dolls, chandeliers, hotel administration, airline livery, wedding cake toppers, Japanese house floor plans, hotel room amenities, compost and fertilizers, double glazing, cardboard boxes, luxury apartments, and Halloween ephemera",0.02040000000000002,9796.0,1.7457857475975995e-07,-1.721980341219876
+0,4405,"Oracle Integrated Lights Out Manager (ILOM), Linux kernel drivers (especially NVIDIA and Nouveau), Philippines manufacturing and exports, offshore personnel transfer baskets, automobiles, chemicals, Epiphan Systems hardware, Panasonic chargers, Microsoft patch deployments, network management systems, navy equipment, Mercedes vehicles, soybean inoculants, Japanese encephalitis vaccine, Bosch security systems, Leviton fast connectors, and magnetization in magnetic materials",0.2619,7381.0,0.009500952410489307,-0.6672011469356182
+0,4405,"Food and drinks, sometimes with a geographical or cultural context, often with numbers",0.014200000000000015,9858.0,1.209212495356555e-07,-2.1295304565670845
+0,4405,"Locations, people, and events connected to religion, government agencies, or geological concepts",0.40449999999999997,5955.0,0.2983870302949809,-0.2823165863075786
+0,4405,Governmental actions and mandates,0.052400000000000016,9476.0,1.0830228018734577e-06,-1.9013578505921556
+0,5781,"Locations (cities, counties, states/provinces) and people's names/titles/roles related to law and legal processes",0.8462999999999999,1537.0,0.0001617574738597632,0.9990722649153697
+0,5781,"Personal names, places, and organizations",0.1441,8559.0,0.00010580584005154937,-0.8071593259451796
+0,5781,"Titles, names, and roles of individuals, or name of companies/products related to vehicles, finance, or official pronouncements",0.09570000000000002,9043.0,1.0618468531406407e-05,-1.1236108732342511
+0,5781,"Titles, names, and specific numbers related to time, dates, age, or quantity",0.10049999999999999,8995.0,1.349716846694918e-05,-1.009663983783615
+0,5781,"Food preparation, ingredients, and specific dishes/cuisines, often with a focus on cooking methods or specific chefs/restaurants",0.07350000000000001,9265.0,3.3836357347912706e-06,-1.1755090937845183
+0,5781,"Person's name, year, musical instrument, musical genre/form, or related terms",0.3417,6583.0,0.08469243469305715,-0.4371950819799801
+0,5781,"Days of the week, dates, numbers, musical professions (composer, guitarist, bassist, drummer, singer, musical director, producer), names (especially male), and locations/nationalities",0.6868000000000001,3132.0,0.04189273408840979,0.4095701739394438
+0,5781,"Personal names in various contexts, including informal greetings, introductions, discussions of historical figures, and professional roles",0.5775,4225.0,0.39878449152736917,0.0679973585090551
+0,5781,"Male figures, often family members or religious figures, in challenging or significant life situations",0.365,6350.0,0.1414970398012236,-0.42022223330099845
+0,5781,"Titles/roles of individuals, often in academic or medical contexts",0.48790000000000006,5121.0,0.8955529698648843,-0.0690054862631249
+0,3057,"Food and beverages, sometimes with a focus on preparation methods or ingredients",0.4329,5671.0,0.4650911833920468,-0.2220103216288467
+0,3057,"Technical writings about nuclear fission, server management (ILOM, SP), medical conditions (ALS, breathing techniques, hormonal disorders, psoriasis), software testing for vaccines, biology of viruses, dietary supplements, educational psychology, cosmology, geological evolution, electronic music production, baseball hall of fame statistics, and mobile phone identification",0.624,3760.0,0.17688856112204576,0.29732249661015886
+0,3057,"Locations, products/services, or activities related to leisure, travel, or hospitality",0.3127,6873.0,0.041347189265781646,-0.52826423082687
+0,3057,"Synthetic materials or the word ""free""",0.3708,6292.0,0.15941263475980938,-0.37300223716055597
+0,3057,"Concepts related to virtual/augmented reality, academic assignments, data analysis and visualization, magic and spells, Search Engine Optimization (SEO) and web design, communication technologies, social media marketing and strategy, setting up a personal training business, drones, real estate, call centers and customer service, digital marketing internships, company name changes and rebranding, multi-lingual websites and credibility, golf swing improvement apps, data security and encryption, financial and technical advisory services, business etiquette and innovation, and web analytics and internet privacy",0.5196000000000001,4804.0,0.83133377052,-0.015908697286960486
+0,3057,"Medical, administrative, or leadership roles within organizations, particularly in healthcare, such as hospitals or medical schools",0.3254,6746.0,0.0572144573966346,-0.4994964818339512
+0,3057,"Installation of splashbacks, electronic devices and components, medical devices and procedures, playground equipment, and network attached storage",0.46929999999999994,5307.0,0.7384381331345287,-0.14012934790314432
+0,3057,"Psychological or physical addiction, unhealthy obsession, or other potentially harmful behavior",0.4754,5246.0,0.7891113566658539,-0.10697665653528171
+0,3057,"Musical styles, locations, and numbers related to time or quantity",0.3107,6893.0,0.03922479240404069,-0.5616796741445081
+0,3057,"Nuclear testing, cost, fighting, coaching, basketball, mental health, Nevada, sports, dietary supplements, Purdue, healthcare mandates, music festivals, travel, explosives, narcotics, amateur boxing, surfing",0.8007000000000001,1993.0,0.0010547891745776269,0.7838823933759228
+0,5085,"Travel plans, including routes, destinations, methods of transportation, and sometimes accommodation",0.38559999999999994,6144.0,0.21283478780420284,-0.3780343447700895
+0,5085,"South American countries, commercial flights, and airline alliances",0.18219999999999997,8178.0,0.0005365974915113714,-0.8141625599572792
+0,5085,"Journeys, often with a change in direction or method of transportation",0.8325,1675.0,0.0002924007155128192,1.0070328616407134
+0,5085,"Whirlpool dishwashers, laminate flooring, RNA virus sequencing, woodworking joints, tunnels, auger conveyors, preventing animal entry, network rerouting, signal splitters, baseboard cleaning, mattresses, offshore personnel transfer basket regulations, teeth whitening, termite bonds, prostate cancer cell cycle regulation, Panasonic chargers",0.4972,5028.0,0.9760986279555851,-0.12416478185490464
+0,5085,"Rope access, geopolitical relations with Afghanistan, Tanzanian natural gas projects, Nigerian healthcare access and financing, innovative architectural designs involving spirals and light, chapel renovations, post-Soviet self-determination, communication in healthcare facilities, professional conduct of Nigerian land surveyors, Amazonian biodiversity and evolution, cystic fibrosis research funding, dementia care research, NHS consultation and services for children and young people with congenital heart disease, biodiversity and disease spread, history of a ranch and science center, Myanmar school renovations, habitat conservation and biodiversity, ethics in assisted reproduction technology, psychology and academic studies, language and translation department programs",0.4041,5959.0,0.2963667603770972,-0.3105026028306787
+0,5085,Locations and legal processes or outcomes,0.28790000000000004,7121.0,0.020875982414639664,-0.6075160571870979
+0,5085,"Locations, vehicles, or accommodations and their features",0.3963,6037.0,0.25879868939365536,-0.2838950337501092
+0,5085,"Educational or self-improvement journeys, geographical locations or travel, along with the concept of methods or manners of doing things",0.11990000000000002,8801.0,3.4650649767071706e-05,-1.1799750877264599
+0,5085,"Food recipes, types of food, food ingredients, and restaurants",0.9975,25.0,5.974401278504218e-08,5.3125330715188825
+0,5085,"Gemstones, airline industry trends, makeup and beauty products, color palettes and schemes, fashion and accessories, hobbies and personal experiences",0.475,5250.0,0.7857584111247039,-0.15704044107900114
+0,4679,"Temporal concepts such as current, present or recent time, next, last, or numbers",0.9577,423.0,6.165591869737219e-07,2.1557931294496995
+0,4679,"Quantities, specifications, or characteristics of items or services",0.9928,72.0,7.945558028199424e-08,5.407244939671743
+0,4679,Discussions of upcoming or recent times/events and related preparations or review,0.9808,192.0,1.6265679953946828e-07,3.6271697953673527
+0,4679,"Expressions of gratitude, positive assessments, or offers",0.9954999999999999,45.0,6.747193827297039e-08,6.185105301001634
+0,4679,"Temporal expressions related to the present, or near future",0.9863,137.0,1.1736994650685415e-07,4.2377648846638305
+0,4679,"Expressions of gratitude, positive feedback, or descriptions of positive experiences",0.9765999999999999,234.0,2.0819623952158776e-07,3.412793291950056
+0,4679,"Descriptions of new endeavors, often related to education,  programs, or initiatives, sometimes involving named individuals and years",0.9946,54.0,7.125753700651079e-08,5.6641234333330726
+0,4679,"Words related to novelty, quality, or importance, often in the context of products, services, or information",0.9943,57.0,7.256452154484503e-08,5.851851860007044
+0,4679,"Temporal markers like dates, times, or words indicating recency, along with expressions of gratitude or courtesy",0.9948,52.0,7.039891265086137e-08,5.772479023306801
+0,4679,"Temporal markers, quantities, and introductory, location, request, or possessive words",0.9886,114.0,1.0229290877398768e-07,4.549042024067448
+20,328,"First person, locations, online services, or descriptions of places/products/events",0.9288000000000001,712.0,2.995908245945563e-06,2.117033956664296
+20,328,"Titles, topics, or subjects of media, events, or content, along with related words such as ""for,"" ""to,"" ""on,"" and ""in""",0.9974,26.0,6.010914989508201e-08,4.751168573251031
+20,328,Internet marketing and e-commerce,0.9914,86.0,8.645621026039616e-08,3.957061220114405
+20,328,"Medical or psychological topics, often including specific treatments or conditions",0.985,150.0,1.268205902228386e-07,3.452318758868042
+20,328,"Telecommunication, internet services, and online platforms",0.9996,4.0,5.255433869802383e-08,5.640221577401264
+20,328,"Locations, events, or items and additional information related to them, often including a purpose or reason",0.9902,98.0,9.29289624161009e-08,3.8548753099787727
+20,328,"Technical specifications or descriptions of products or services, often including brands, model numbers, or technical details",0.9893,107.0,9.80889242107056e-08,3.7938395848190205
+20,328,Products or items and their descriptions,0.9925999999999999,74.0,8.042095701238699e-08,4.107901175314742
+20,328,Prepositions related to location or direction,0.9724999999999999,275.0,2.6440580190198573e-07,2.5881370653220697
+20,328,"Locations, items, or events being advertised",0.9892,108.0,9.867908716679387e-08,3.7680527873838776
+20,5789,"Situations, events, or actions occurring within specific timeframes or locations",0.9934,66.0,7.66263063621759e-08,5.573725592984403
+20,5789,"Travel, location, time, and actions/events related to them",0.991,90.0,8.856371639187941e-08,4.84453536430016
+20,5789,"Actions, processes, or states of being",0.9819,181.0,1.5242287894889437e-07,4.011441356728608
+20,5789,"Locations, actions, and states related to products or services",0.9917,83.0,8.490753085334325e-08,4.894149695438152
+20,5789,"Actions, states, and processes related to completion or execution",0.9988,12.0,5.51884581828221e-08,5.8330044336936835
+20,5789,"Actions/events related to beginning or ending, often in relation to time or location",0.9887,113.0,1.0168183573247629e-07,4.568813958681276
+20,5789,"Actions and states related to completion, progress, and ongoing activity",0.9884999999999999,115.0,1.029075356074078e-07,4.561886698854969
+20,5789,"Creation, manufacturing, or crafting processes",0.9906,94.0,9.072092372140264e-08,4.777949555830865
+20,5789,Actions or states of being,0.9732999999999999,267.0,2.523966747387902e-07,3.2247254507325542
+20,5789,"Creation or production of something, including food, drink, yogurt, and other items",0.9936,64.0,7.570508474525785e-08,5.331040526421415
+20,4268,"Conditional statements, questions, or suggestions, often including the pronoun ""you""",0.6282000000000001,3718.0,0.1626678052749838,0.10460595262976326
+20,4268,"Conditional statements, options, choices, or alternatives",0.35259999999999997,6474.0,0.10842049819403239,-0.5385347374982442
+20,4268,"Personal pronouns, often within a conditional or interrogative context, related to choices, preferences, or advice",0.5288999999999999,4711.0,0.7532841396698664,-0.16133160783880723
+20,4268,"Conditions, terms of service, user agreements, or similar legal or regulatory documents",0.9984,16.0,5.655305677098586e-08,6.152285679669112
+20,4268,"Instructions, recommendations, or requirements relating to personal information, procedures, or processes",0.9258,742.0,3.5108946824380525e-06,1.907762372914867
+20,4268,"Options, choices, alternatives, or recommendations",0.6729,3271.0,0.05968032803096312,0.23223820092039368
+20,4268,"Advice, recommendations, or suggestions, often related to the reader's location or situation",0.5824,4176.0,0.36962390601846074,0.0021823417292321607
+20,4268,"Conditional statements, questions, or enumerations related to health, legal, or technical issues, often containing a second person pronoun",0.8821000000000001,1179.0,3.1503331599000984e-05,1.38951000927791
+20,4268,"Conditions, terms, or requirements related to services, products, or information access, often with additional or alternative options",0.8561000000000001,1439.0,0.00010486266844036735,1.225809941444327
+20,4268,"Second person pronouns related to obtaining something, such as information, services, or products",0.7907,2093.0,0.0015426260439968483,0.785340569187467
+20,2988,"Locations, often including time spans or temporal references",0.3839,6161.0,0.20611187033429157,-0.3913315914730812
+20,2988,"Nationality, location, or role associated with a person",0.61,3900.0,0.23096699630427964,0.15523846144486314
+20,2988,"Years of professional experience, often with numerical details about audience reach or time frames",0.6658,3342.0,0.07095027833399467,0.29749075527863755
+20,2988,"A person's name, often abbreviated or fragmented, appearing near descriptions of their work or achievements, particularly in artistic fields like music, acting, or visual arts, and sometimes including their location or collaborators",0.4567,5433.0,0.6375011142527622,-0.22627715703384504
+20,2988,"Instructions, descriptions, or specifications related to technical processes, software, or equipment",0.6331,3669.0,0.14718709898447377,0.23998861453134263
+20,2988,"Personal details such as name, location, profession, duration of service, time period, education, country of origin, and family relations",0.7284999999999999,2715.0,0.012814156346243848,0.5146990267186015
+20,2988,"Periods, question marks, commas, hyphens, the words ""if"", ""me"", ""since"", ""myself"", ""matter"", ""back"", ""man"", ""for"", ""years"", ""about"", ""so"", ""no"", ""what"", ""why"", ""a"", ""an"", ""as"", ""of"", ""I"", ""to"", ""on"", ""things"", ""you"",  and numbers relate to self-care, hobbies, or personal events",0.6472,3528.0,0.10890060244274853,0.2627270048730134
+20,2988,"First person perspective, often related to personal experiences, opinions, or advice, and frequently featuring questions or requests for interaction",0.4318,5682.0,0.4578005559126245,-0.2719945315113299
+20,2988,"Personal accounts of processes, often involving food preparation, and including temporal information such as duration or frequency",0.2424,7576.0,0.005017182457201764,-0.731784425870275
+20,2988,"Questions about services, subscriptions, or memberships, often related to costs, timelines, terms, and conditions",0.6683,3317.0,0.06679776756642736,0.3229862325557369
+20,4683,"Automotive features, often technical specifications, or their perceived quality, suitability, or impact",0.6387,3613.0,0.1309033062115377,0.36903239530260024
+20,4683,"Discussions of the benefits and drawbacks of various life choices, or the need for self-reliance and independence in decision-making",0.6106,3894.0,0.22843174942937416,0.23887146601411666
+20,4683,"Properties, characteristics, or descriptions of products, materials, or objects, often with a focus on color, size, or material composition",0.1883,8117.0,0.0006854556358253855,-0.9327671938043995
+20,4683,"Months, years, and the word ""Description"" related to collectible items, frequently co-occurring with ""details,"" ""information,"" ""second-hand,"" and sometimes the word ""cent""",0.04740000000000001,9526.0,8.206399187370815e-07,-1.5005769904483797
+20,4683,"Musical scores, school terms and admissions, property ownership, community events and programs, hospital facilities and patient care, daycare facilities and activities, catering services and menus, summer camps for children with disabilities, local news and events, brand marketing and creative spaces, school activities and curriculum, fellowship program applications, writing competition submissions, role-playing game resources, bank accounts and financial services, livestock breeding and sales, travel photography tours and workshops",0.5338,4662.0,0.7130999758765921,-0.015097197416852804
+20,4683,"Dates, numbers, and names related to software versions, patents, and legal documents",0.904,960.0,1.0779697439271577e-05,2.1398229768897243
+20,4683,"Properties and characteristics of quartz and other gemstones, including their color variations, sources, and uses",0.9557,443.0,6.899640784530235e-07,1.9951091985800609
+20,4683,"Conditions, requirements, or guarantees related to services, properties, or products, especially in the context of housing, real estate, or business operations",0.12440000000000001,8756.0,4.285874876489648e-05,-1.1506940702486739
+20,4683,"Modality, permissibility, and possibility, often concerning medication, legal matters, or procedures, sometimes involving a specific timeframe or location",0.12829999999999997,8717.0,5.1434065052699985e-05,-1.1638052616806212
+20,4683,"Locations, dates, and proper nouns related to company acquisitions, mergers, and new hires",0.5557,4443.0,0.5443223751165963,0.042495388689955366
+20,6045,"Regulations, requirements, and legal processes related to vehicles, employment, or health",0.43320000000000003,5668.0,0.4670906824915716,-0.36856240785779826
+20,6045,"Contests, challenges, opportunities, milestones, resources, announcements involving some kind of prize, reward, or incentive",0.5204,4796.0,0.8245419592919131,-0.18894516094643904
+20,6045,"Travel, leisure activities, and locations",0.7221,2779.0,0.015556102992914994,0.4227836532735033
+20,6045,"Instructions or descriptions of a process, often involving preparation or creation of food, drinks, hairstyles, or crafts",0.7029000000000001,2971.0,0.02710594506406822,0.37027323321486677
+20,6045,"Website features, services, and user experience, especially regarding lists of website elements, user attention, navigation, design changes, and testing",0.4924,5076.0,0.9344439845670572,-0.23255081028417865
+20,6045,"Software, programming languages, or computing systems and their usage, configuration, or features",0.5828,4172.0,0.36730343044730585,-0.03395370598353297
+20,6045,"Medical, legal, financial, or other professional services, often involving digital documents, invoices, records, reports, or forms, sometimes with a location or personal name",0.606,3940.0,0.24838012605362714,0.019250512040496104
+20,6045,"Sports game outcomes, or significant moments within the game",0.8501,1499.0,0.00013690845064301472,1.0947118938684723
+20,6045,"Products, often with brands or names, and their reviews, including ratings, prices, and customer experiences",0.5162,4838.0,0.8603337645868517,-0.1998610804283528
+20,6045,"Personal experiences, reflections, or observations often involving challenges, along with reactions and responses to various situations",0.7168,2832.0,0.018204855303806375,0.48460824375381856
+20,5741,"Expressions of positive emotions relating to anticipation or excitement for people, events, or activities",0.9744999999999999,255.0,2.3536542416223603e-07,3.0580364413877215
+20,5741,"Requests or questions, often directed towards people or organizations",0.9921,79.0,8.288435478107307e-08,4.129418103365097
+20,5741,"Expressing preference, choice, or decision",0.9520000000000001,480.0,8.485483344974016e-07,2.199930374641549
+20,5741,"Events, media, or locations",0.9742000000000001,258.0,2.395160653372305e-07,3.710335043091304
+20,5741,"Advertisements, product descriptions, or listings",0.9232,768.0,4.024949644131797e-06,1.8260405787704408
+20,5741,"Clauses related to purpose, belonging, or involvement",0.9742999999999999,257.0,2.3812472236959562e-07,3.063073550468736
+20,5741,"Sharing, recommendations, and opinions",0.9810999999999999,189.0,1.598016633753182e-07,3.515677515717809
+20,5741,"Attribution, sharing, or source of information",0.9547000000000001,453.0,7.297558199476909e-07,2.440824668758515
+20,5741,"Expressions of excitement, offers, business proposals, or requests",0.9594,406.0,5.601367019930018e-07,2.4438427678781633
+20,5741,Positive assessments of products or services,0.9704999999999999,295.0,2.968927062095387e-07,2.8961509990312657
+20,5662,"Discussions of medical procedures, tools, or devices, along with their associated properties or characteristics",0.9851,149.0,1.2606822191793775e-07,3.609551339850509
+20,5662,"Instructions, tutorials, or descriptions of creative processes or DIY projects",0.8989,1011.0,1.3905453529864868e-05,2.2334390100235324
+20,5662,"Visual or textual descriptions of creative works, including interior design, furniture, art, photography, albums, posters, and online content",0.952,480.0,8.485483344974016e-07,2.630820301611724
+20,5662,"Instructions, suggestions, or commands",0.9844999999999999,155.0,1.3064806478519532e-07,3.9562739259019457
+20,5662,"Instructions, directions, or announcements related to online content, often including an element of encouragement or invitation",0.9139,861.0,6.520479527050811e-06,1.266887793473046
+20,5662,"Instructions, steps, or guidance",0.9640000000000001,360.0,4.3130869046546803e-07,2.774891046022464
+20,5662,Methods of communication or contact,0.9895999999999999,104.0,9.63388623641681e-08,3.8734735778569522
+20,5662,References to parts of online articles or websites,0.9768,232.0,2.0577285206453302e-07,3.168476187025682
+20,5662,"Online text snippets containing personal thoughts, comments, opinions, or experiences",0.9386,614.0,1.771634855535537e-06,1.7980613518415822
+20,5662,"Requests or offers of help or information, often in a professional context",0.9942,58.0,7.300532038886129e-08,4.41149264319603
+20,2679,"Scheduling, appointments, calendar integrations, or time management",1.0,0.0,5.1283388415865974e-08,7.020693351495007
+20,2679,"Initial words or letters of business names or advertisements, and words related to ownership, customer service, or products/services",0.9806,194.0,1.645875604925738e-07,3.6952873418564884
+20,2679,"Regulations, requirements, or guidelines and actions enabling or facilitating compliance",0.9997,3.0,5.2233768642952676e-08,5.653111642471665
+20,2679,"Initial mentions of food, locations, events, or items, potentially for descriptive or informational purposes",0.9746999999999999,253.0,2.326370293070491e-07,3.452584114951548
+20,2679,"Locations, time, and people",0.9754999999999999,245.0,2.220258688906854e-07,3.3804886625260027
+20,2679,"Locations, proper nouns, and quantities related to vehicles, transport, or travel",0.9937,63.0,7.524850538994518e-08,4.877212380536411
+20,2679,"Times, dates, or durations",0.8662000000000001,1338.0,6.632661539505924e-05,2.570837077944671
+20,2679,"Starts with a single word or a short phrase, potentially acting as an introduction or attention-getter",0.9813999999999998,186.0,1.569950173824799e-07,3.7734002057993976
+20,2679,"Initial mentions of time, location, person, or event",0.9806999999999999,193.0,1.636194262544681e-07,3.8074478653864663
+20,2679,Decorative or descriptive qualities of a product,0.9933,67.0,7.709097913210274e-08,4.8291323112456785
+20,2869,"Food, cooking, and eating",0.9914,86.0,8.645621026039616e-08,4.418334038221685
+20,2869,"Education, tests, and degrees",0.9818,182.0,1.533268812336438e-07,3.6947178346815543
+20,2869,"Descriptions of, or introductions to, a product, service, topic, or piece of creative work",0.9882000000000001,118.0,1.047729387353512e-07,4.226360031505891
+20,2869,Qualities or descriptions of physical objects,0.9913,87.0,8.697848819844698e-08,4.470569088761615
+20,2869,Personal experiences and observations,0.9917,83.0,8.490753085334325e-08,4.670588269117645
+20,2869,Body parts or personal care items,0.9867999999999999,132.0,1.1391966062781653e-07,4.116317770035129
+20,2869,"Relating to individuals, groups, or entities and their actions, practices, characteristics, or future prospects",0.9974999999999999,25.0,5.974401278504218e-08,5.221849875517641
+20,2869,"Location, event, activity, or item descriptions",0.9821,179.0,1.5063031251411582e-07,3.6896712345280087
+20,2869,"Temporal expressions, monetary amounts, proper nouns, and everyday occurrences",0.9809,191.0,1.616996501524527e-07,3.5838605107580954
+20,2869,"Requests, inquiries, or comments related to products, services, or information",0.9876,124.0,1.0860242253002518e-07,4.10103355217216
+20,1424,"Concepts related to names, products, or services and frequently occurring at the end of a phrase or sentence",0.9957,43.0,6.665754570315817e-08,4.399230832639619
+20,1424,"Concepts of company names, religious figures, or family members, often in conjunction with prepositions, conjunctions, or possessive markers",0.9929,71.0,7.897710978009257e-08,4.073247362889025
+20,1424,"Locations, organizations, and events",0.9943,57.0,7.256452154484503e-08,4.464475981590223
+20,1424,"Proper nouns describing people, places, organizations, or creative works",0.9953,47.0,6.829596580492863e-08,4.359917809432417
+20,1424,"Discussions of health, medical treatments, and research, sometimes involving specific conditions or products",0.9958,42.0,6.625392847153903e-08,4.351186762682823
+20,1424,"Locations and proper nouns, often related to businesses or establishments",0.9577,423.0,6.165591869737219e-07,2.3958475715444663
+20,1424,"Facilitating or improving processes, resources, or situations, often in professional contexts",0.9822,178.0,1.4974169183203915e-07,3.265254875644993
+20,1424,Automotive or machine parts and their properties,0.9845999999999999,154.0,1.2987373759210326e-07,3.449811316629669
+20,1424,"Locations, people, organizations, and educational or legal topics",0.9941,59.0,7.34487122390239e-08,4.132133573838494
+20,1424,"Titles of media, including TV shows, movies, video games, and music",0.6109,3891.0,0.2271715846237602,0.29853121337500793
+20,5278,"Preparing food, traveling, or listing achievements, sometimes involving a duration or time element",0.9610000000000001,390.0,5.116034342847904e-07,2.193996506015797
+20,5278,"Positive adjectives describing home decor, furniture, clothing, or accessories",0.8505,1495.0,0.0001345130735059496,1.0051402104104756
+20,5278,"Beauty tips, DIY remedies, and overnight face treatments",0.9486,514.0,1.0248025956146665e-06,2.1229947038324175
+20,5278,"Years, locations, and proper nouns related to biographical summaries",0.9919,81.0,8.389003725369118e-08,3.5358789430535764
+20,5278,"Software/application updates, releases, and downloads, particularly those available online",0.9271,729.0,3.2780882509401404e-06,1.5688622516640744
+20,5278,"Education, skills, or experience related to a person's background",0.9829,171.0,1.4366178091927859e-07,2.8498609085717805
+20,5278,Time duration or quantity related to a product or service,0.8959999999999999,1040.0,1.605054128993895e-05,1.487022993961677
+20,5278,"Medical procedures or treatments, often with a time element or duration",0.9966,34.0,6.310912125199899e-08,4.300262817102899
+20,5278,"Events involving individuals, often prominent figures, particularly in legal, political, or entertainment contexts, and frequently accompanied by a time element",0.9498,502.0,9.589095027716197e-07,1.9869035696526995
+20,5278,"Times or dates related to past events, often years, sometimes with a specific month or day",0.9694,306.0,3.1636985436956357e-07,3.152947365813331
+20,2325,"Items, characters, or digital content related to online games, software, or platforms",0.8134,1866.0,0.00064051257810896,0.8832251466310095
+20,2325,"Artistic creations, exhibitions, or related events",0.8612,1388.0,8.332883921492018e-05,1.0934943685076142
+20,2325,"Employee benefits, educational opportunities, artist residencies, and healthcare access",0.9007,993.0,1.2714646634929388e-05,1.3619510692551877
+20,2325,"Terms of service, user agreements, and other legal and business documents related to personal data, property (both physical and intellectual), and financial assets",0.8861,1139.0,2.6004899990084055e-05,1.2883557253772435
+20,2325,"Locations, residences, or buildings and their auxiliary structures, parts, or associated systems, often with a focus on maintenance, repairs, condition, or suitability for habitation",0.8429,1571.0,0.0001875318434157688,0.9577789356655917
+20,2325,"Items or devices related to eyes, guns, patents/applications, microscopy, data security, weapons, music equipment, heavy machinery, measurement devices, electric power, medical procedures, and fertilizers",0.7524000000000001,2476.0,0.005972705516909997,0.5576823888085412
+20,2325,"Types of attire, accessories, or related products",0.9116,884.0,7.33558577747391e-06,1.7478532966869993
+20,2325,"Locations, people, and events related to accommodations, facilities, or services",0.7824,2176.0,0.0020971559810863956,0.7200396371378309
+20,2325,"Food, events, or items at a location",0.6948,3052.0,0.03385943494392698,0.39444922043555075
+20,2325,Conditional statements about someone's or something's state or characteristics,0.7788999999999999,2211.0,0.002381654287662573,0.7215095373257135
+20,2700,"References, citations, or mentions of organizations, groups, or institutions",0.9749,251.0,2.2993920450400245e-07,3.063979570849694
+20,2700,"Titles, author lists, or publication information",0.9986,14.0,5.5866720014493564e-08,5.366900625485963
+20,2700,Beginnings of commercial texts,0.9989,11.0,5.485232663027702e-08,5.5891597347626645
+20,2700,"Initial words of excerpts related to appreciation, requirement, enjoyment, creation, inquiry, information, technology, or opinions",0.9946,54.0,7.125753700651079e-08,4.973451200264019
+20,2700,"Pronouns, modal verbs, or numbers followed by forms of ""to be"" or action verbs related to communication, choice, need, or having/getting something",0.8948,1052.0,1.70274380509164e-05,3.2587394898770756
+20,2700,"Titles, headings, or introductory phrases",0.999,10.0,5.4518179454785595e-08,6.258835590361113
+20,2700,"Years, dates, or time periods",0.9813000000000001,187.0,1.5792522752465923e-07,4.052114712788149
+20,2700,Temporal expressions or proper nouns at the beginning of text excerpts,0.9922,78.0,8.238590129118299e-08,5.049674152407203
+20,2700,Descriptions of businesses or products,0.9902,98.0,9.29289624161009e-08,4.352681754633174
+20,2700,"A variety of textual elements in specific contexts, often related to software or technical documentation, such as summaries, dates, email addresses, code examples, questions, enumerated lists, or specific instructions",0.9914,86.0,8.645621026039616e-08,4.547726219273871
+20,3313,"Instructions, steps, or guidance related to projects, tasks, or activities",0.9271,729.0,3.2780882509401404e-06,1.692967766136602
+20,3313,"Religious belief, kinship, positive emotional reactions, personal choices and inquiries",0.49570000000000003,5043.0,0.9630691862613544,-0.22362301870322185
+20,3313,"Awards, prizes, or achievements",0.9705,295.0,2.968927062095387e-07,2.7290949244980323
+20,3313,"Winning/selection of something, often in a contest or competition",0.9897,103.0,9.576225411624417e-08,4.0569248647034275
+20,3313,"Selections, choices, or options, sometimes related to vehicles, years, or locations",0.8682,1318.0,6.0492423319501275e-05,0.9893640551485345
+20,3313,"Achievements, awards, or special events, often involving specific individuals",0.9678,322.0,3.4691754560935315e-07,2.4047105770069144
+20,3313,"Contests or giveaways with prizes, especially vouchers",0.9959,41.0,6.585267925979239e-08,5.579906056192157
+20,3313,"Directives, requests, or offers of assistance to the user",0.9802000000000001,198.0,1.6851578218297106e-07,2.923182232024961
+20,3313,"Commercial transactions, purchases, or pricing",0.9742,258.0,2.395160653372305e-07,2.6231204999176674
+20,3313,A number or quantity modifying an item or concept,0.9364,636.0,1.995299336616442e-06,1.8458375089770651
+20,1004,"Beginnings, initial stages, or first occurrences of events or processes, especially related to time, pregnancy, and springtime",0.9382,618.0,1.8104231270932263e-06,1.6974184686080114
+20,1004,"Relatively high-valued activations are present on words related to quantity, degree, or extent, especially when followed by or related to time or an event",0.5245,4755.0,0.7899502063614905,-0.04388635823503934
+20,1004,"Rankings, orderings, and top positions, often related to negative situations in lists of countries or other entities",0.7471000000000001,2529.0,0.007112420433741051,0.5428450255311338
+20,1004,"Periods, seasons, or points in time",0.8332,1668.0,0.000283896623734184,1.176634910376867
+20,1004,"Superlative quantifiers (e.g., most, highest, largest, first) related to magnitude, importance, or ordinality, especially in contexts of comparisons, effects, or changes, including threshold-crossing (e.g., when, if)",0.9806,194.0,1.645875604925738e-07,3.475212675300021
+20,1004,"Conditional clauses, often related to time or conditions for achieving a desired outcome",0.9666,334.0,3.716770831232706e-07,2.5242882062715095
+20,1004,"Initial mentions of days of the week, times, quarters of the year, or general time periods",0.5845,4155.0,0.357543011842702,0.20246537095426467
+20,1004,"Initial steps, often the first, related to long-term goals or problems, sometimes occurring quickly or at the worst/best time",0.8154,1846.0,0.0005911519651327166,0.830859800013632
+20,1004,"Dates, times, durations, and deadlines related to events, programs, or school years",0.8307,1693.0,0.00031537686658479494,0.9546375639270089
+20,1004,Temporal adverbs or adverbial phrases related to a final point in time,0.8102,1898.0,0.0007275281044983664,0.9207425901289233
+20,4447,"Government, legal, or political concepts",0.9862,138.0,1.1807202569609289e-07,4.804710416862752
+20,4447,"Quantifiers or determiners like ""all"", ""whole"", ""anything"", ""of"", relating to totality or entirety",0.9979,21.0,5.830483307779353e-08,6.6337891012351955
+20,4447,"Conjunctions, quantifiers, and prepositions related to location, origin, and exclusion",0.9949,51.0,6.997336097493492e-08,5.939644683980505
+20,4447,"Governmental, legal, or organizational structures",0.9894999999999999,105.0,9.691882256284519e-08,5.095595429226924
+20,4447,"The highlighted sections precede descriptions of groups, often related to sports teams, events, or products, and occasionally involving comprehensive lists or totals",0.9765,235.0,2.0941823652107507e-07,3.4750734443453353
+20,4447,"Totalities, quantities, or years",0.994,60.0,7.389470538585333e-08,5.921794769995808
+20,4447,"Central elements, entirety, or totality of something",0.9986,14.0,5.5866715062256477e-08,6.736510881964279
+20,4447,"A prefix, word, or abbreviation related to location, quantity, or negation",0.9931,69.0,7.80285187209227e-08,5.788011666319937
+20,4447,Possessive pronouns or prepositions related to location,0.9716,284.0,2.7857588012489435e-07,3.4088343386542848
+20,4447,"Quantifiers like ""all"" and ""no""",0.8491,1509.0,0.00014307388283541522,1.7337789568971234
+20,1406,"Temporal or conditional relationship, often related to finance or legal contexts",0.9952,48.0,6.871162701944456e-08,4.588347609688196
+20,1406,Locations or items and their descriptive or defining characteristics,0.9782000000000001,218.0,1.895564143561398e-07,3.3887848657630766
+20,1406,"Membership, subscriptions, or participation in groups, services, or events",0.9914999999999999,85.0,8.593696940695783e-08,4.212462094511922
+20,1406,"Products, items, or designs and their attributes, features, or specifications",0.9889,111.0,1.004702718233883e-07,4.008881356501517
+20,1406,"Educational resources, programs, or opportunities in specific fields like computer science or technology, for specific demographics like B.Tech students or Canadian adults, or pertaining to specific organizations or entities like the Indian Railways or the OECD",0.9700000000000001,300.0,3.055979641683281e-07,2.7585466224536823
+20,1406,"Locations, events, or entities and additional clarifying information",0.929,710.0,2.9642852864962698e-06,1.7729653045306784
+20,1406,"Public relations, conditions, and decisions",0.9979,21.0,5.830483823207476e-08,4.880501451510366
+20,1406,"Actions, methods, or tools related to food, products, or items",0.9809,191.0,1.616996501524527e-07,3.4748290764422607
+20,1406,Configuration settings or parameters within a system,0.9858,142.0,1.209212495356555e-07,3.6751099438215844
+20,1406,Purpose clauses,0.8132,1868.0,0.0006456539939768171,1.8374928807578184
+20,3885,"Business, equipment, correspondence, services, financial funds, invoices, reports, mobile applications, music promotion, construction staffing, announcements of new products and services, editorial publications, documentaries, analytics, and a job change within the WiFi industry",0.9440000000000001,560.0,1.3201277301369022e-06,1.7399818271598748
+20,3885,"Excitement or enthusiasm, often marked by exclamation points, relating to descriptions of food, activities, or events",0.9703,297.0,3.0034568547488985e-07,2.6737585900055163
+20,3885,"Times, frustration, or appreciation",0.9531999999999999,468.0,7.936166224849237e-07,2.423929525345134
+20,3885,"First experiences, often related to giving birth or travel, and accompanied by strong emotions",0.9637,363.0,4.3875586722573675e-07,2.4352753170815897
+20,3885,"Initial, introductory, or early stages of events, activities, or processes",0.9318,682.0,2.5538314889507143e-06,1.7469680897799529
+20,3885,Alphanumeric characters,0.8758,1242.0,4.245777092826154e-05,1.137603400362806
+20,3885,"Acronyms, abbreviations, and initialisms",0.9106,894.0,7.719594344099662e-06,1.2664407375343152
+20,3885,"Titles, names, and locations",0.9634999999999999,365.0,4.437894032516729e-07,2.324008975777622
+20,3885,Product features and specifications,0.9363,637.0,2.006085010882942e-06,1.6294459308590807
+20,3885,"Locations, proper nouns, and time references",0.9377,623.0,1.8600569471131966e-06,1.7334906834364288
+20,1790,"Travel, visits, locations, or journeys",0.9630000000000001,370.0,4.566181546966801e-07,2.194365866996415
+20,1790,"Food, ingredients, or cooking processes",0.9683,317.0,3.370778787102466e-07,2.248680917403887
+20,1790,"Locations, events, or creative works",0.9063,937.0,9.601007918616392e-06,1.6482942677769419
+20,1790,"Locations, organizations, or events and associated services or products",0.9954,46.0,6.788274081989385e-08,3.4109003974059937
+20,1790,"Promotions, coupons, or features relating to products, software or websites",0.9912,88.0,8.750382036173956e-08,2.986770542316928
+20,1790,"Business, organizations, management, services, programs, teams, resources, and clients",0.9958999999999999,41.0,6.585267925979239e-08,3.682646455777098
+20,1790,"Titles of creative works, organizations, and locations",0.8784000000000001,1216.0,3.7558487848676416e-05,1.3292520719643564
+20,1790,"Phrases related to picking or choosing something, and following or tracking something",0.8713,1287.0,5.2400180327936346e-05,1.283224708516946
+20,1790,"Conjunctions, prepositions, punctuation marks, abbreviations, and capitalized words in technical or product descriptions",0.9793000000000001,207.0,1.7768852307132305e-07,3.395758637524583
+20,1790,"Products or services and their descriptions, including materials, dimensions, and optional add-ons",0.9943,57.0,7.256452154484503e-08,3.19581124314793
+40,4965,"Titles, names of people, companies, locations, or events",0.9864999999999999,135.0,1.1597786710221205e-07,3.0031571073386445
+40,4965,"Past events, states, or actions",0.9074000000000001,926.0,9.081815272148323e-06,1.3562689283481777
+40,4965,Measurements of objects,0.8219,1781.0,0.00045411423516039954,0.6700384849854834
+40,4965,"Czech, Italian, or other non-English words in hotel or restaurant reviews, often related to positive sentiment",0.952,480.0,8.485483344974016e-07,1.7271877095719848
+40,4965,Requests and inquiries related to products and services,0.8336,1664.0,0.0002791417597606417,0.6720820181375233
+40,4965,"Leaked information, news, announcements, and reports",0.9813,187.0,1.5792522752465923e-07,2.7631889042318916
+40,4965,"Descriptions of a past event, often including a named individual and a verb in the past tense",0.9379,621.0,1.8400485062862304e-06,1.5502561644041428
+40,4965,"Products, companies, or organizations and a characteristic or activity they have been involved in",0.9734999999999999,265.0,2.4947773725137315e-07,2.1074749560766715
+40,4965,Changes in circumstances or events,0.9621000000000001,379.0,4.80616847289569e-07,2.486435010091325
+40,4965,"Forms of communication, services provided, or general information related to a business or individual",0.9487000000000001,513.0,1.0191491335129942e-06,1.5325064502074037
+40,3948,"Airline, software, or vehicle transport services and their associated companies",0.19530000000000003,8047.0,0.0009031824111469361,-0.6220418603437377
+40,3948,"Locations, events, or people in a position of importance",0.05260000000000002,9474.0,1.0950428197769315e-06,-0.9981063758095184
+40,3948,"Locations, venues, or establishments, often related to entertainment, hospitality, or nightlife, and sometimes with luxurious or high-end connotations",0.5994999999999999,4005.0,0.27859660368756756,0.14264706738700386
+40,3948,"Software and web development, including UI/UX design and implementation for web and mobile applications",0.7952,2048.0,0.0013018619492635851,0.42440278614607785
+40,3948,"Talents and skills, particularly in artistic fields like music, dance, and acting, but also in sports, and how they are utilized in performances, competitions, and entertainment events",0.4964,5036.0,0.9691485771927286,-0.038923537705013965
+40,3948,"Financial services, technology, and development in various industries",0.019100000000000006,9809.0,1.616996501524527e-07,-1.0217095949976014
+40,3948,"Brands, products, or items and their characteristics or components",0.0983,9017.0,1.2095799821669095e-05,-0.890427831352871
+40,3948,"Learning, improving skills, and achieving goals, especially related to careers, communication, personal development, and hobbies",0.15729999999999997,8427.0,0.00018916227101253253,-0.7137345293486318
+40,3948,"Descriptions of creative works including music, literature, jewelry, and personal style",0.8384999999999999,1615.0,0.00022663785875820516,0.8556075115059583
+40,3948,"Culinary creations, often with a specific cultural or regional association, and sometimes including brand names",0.8824,1176.0,3.1055337119413216e-05,1.2408207186976072
+40,4055,"Positions of authority, primarily within US government and legal systems, and advancements or achievements within those roles",0.509,4910.0,0.9223233679806364,-0.17526992650760861
+40,4055,"Places to stay or go, often with luxury amenities such as pools, spas, or high-end dining",0.0472,9528.0,8.115351541197243e-07,-1.046052545746072
+40,4055,"Titles of creative works, often with the author/director's name",0.18009999999999998,8199.0,0.0004927481243914825,-0.6254936088968811
+40,4055,Products with storage capabilities or accessories that connect or fit into other products,0.5617,4383.0,0.501801509919126,-0.00041943292450152743
+40,4055,"Accessing terminals, classes, IP networks, gateways, education/dreams/aspirations, Kotlin programming language, medical leadership, IRATA rope access levels, university rankings, passing Black Belt certification, NAS servers/Linux kernel support, application processors/mobile devices, cryptocurrency trading platforms, special economic zones in China, US student visas, Android M features, and soybean inoculants",0.22960000000000003,7704.0,0.00322557635832351,-0.5579249187151493
+40,4055,"Children's toys, especially dolls, or items related to children's activities",0.2066,7934.0,0.0013936713276658473,-0.6167198634075903
+40,4055,"Conditions of employment, requirements, qualifications, availability, and benefits related to job postings or descriptions",0.7127,2873.0,0.02051698763114344,0.05623453485210286
+40,4055,"Prizes related to high placement or participation, potentially involving point systems, often related to competitions or ranked activities",0.03470000000000001,9653.0,4.0042313596150487e-07,-0.8646546022659937
+40,4055,"Titles of artistic works, including movies, TV shows, video games, albums, and music, along with names of associated characters or individuals",0.38,6200.0,0.19127433645975556,-0.4214808761463483
+40,4055,"Concepts of new endeavors, career changes, and job roles, often involving additional details or context",0.1629,8371.0,0.00024060629503541229,-0.6549359554687482
+40,824,"Regulations, legal requirements, and contractual obligations related to personal information protection, including data collection, use, disclosure, security measures, access requests, and potential legal consequences",0.8170000000000001,1830.0,0.0005542383138088586,0.8689326333744557
+40,824,"Processes related to applying for grants, including applications, reviews, and leveraging funds",0.005300000000000004,9947.0,7.082696454003445e-08,-1.5127268149070403
+40,824,"Locations, proper nouns, and events related to investigations, legal proceedings, or criminal activity",0.7138,2862.0,0.019872796609437752,2.0386251037968717
+40,824,"Themes of difficult conversations and sharing personal information, often in challenging circumstances",0.3493,6507.0,0.10073812655271104,-0.29527805669506624
+40,824,"Relating to methods, tools, or materials involved in various activities like baking, crafting, and beauty treatments",0.008300000000000007,9917.0,8.490753085334325e-08,-1.4013779777939326
+40,824,"Automotive, transportation, or vehicle descriptions, features, issues, or events",0.03610000000000002,9639.0,4.3377742915931123e-07,-0.8832855238652663
+40,824,"Data security, privacy, and transfer, including ensuring data protection during transmission, storage, and sharing, as well as legal and contractual obligations related to data usage and disclosure",0.9496,504.0,9.696009562454264e-07,1.2081703778464643
+40,824,"Locations, often neighborhoods, and real estate",0.10200000000000002,8980.0,1.4540037459304276e-05,-1.0561396301884216
+40,824,"Government or organizational reports/announcements/statements/releases/publications/conclusions related to incidents, projects, investigations, probes, or political affairs",0.015000000000000001,9850.0,1.268205902228386e-07,-1.4105002104374929
+40,824,Improvements or important information related to an organization or location,0.0039000000000000033,9961.0,6.50572312903225e-08,-1.5770945769172304
+40,1823,A gathering or meeting related to a specific year or time period,0.34430000000000005,6557.0,0.08993150073122655,-0.4687108770816739
+40,1823,"Fashion, appearance, attire, accessories, jewelry,  positive feedback, special events, outings, and anticipation",0.2193,7807.0,0.0022312021197275714,-0.7156011583190527
+40,1823,"Contractual obligations, requirements, or specifications, especially regarding employment, services, products, or legal agreements",0.014700000000000003,9853.0,1.245764188216172e-07,-1.2297269337246788
+40,1823,"Ideas, reactions, conditions, plans, levels, congratulations, reactions, indications, studies, thriving, questions, challenges, information, conditions, looking",0.08650000000000004,9135.0,6.655718280570052e-06,-0.990261748785993
+40,1823,"Changes in regulation and policy related to business, trade, or economics, particularly in the context of their impact on markets, industries, companies, or regions",0.1703,8297.0,0.00032886100613950894,-0.9163568738454736
+40,1823,"Positive qualities of places, products, or services, often related to lodging, amenities, experiences, or design elements",0.31629999999999997,6837.0,0.045412805482726464,-0.5896421587956164
+40,1823,"Political scandals, particularly those involving government officials and elections, and sometimes the use of the suffix ""-gate"" to indicate a scandal",0.1822,8178.0,0.0005365974915113714,-0.7780463016724782
+40,1823,"Discussions of events, processes, or situations and their durations, often involving time periods or time-related measurements",0.1021,8979.0,1.4612227599575381e-05,-1.034545401944311
+40,1823,"Benefits and properties of products or services, especially related to electronics, vehicles, or treatments, and sometimes including pricing or deals",0.1129,8871.0,2.4780301232745203e-05,-0.9298019518531003
+40,1823,"Food recipes, cooking methods, restaurant experiences, beauty product descriptions, and personal care treatments",0.885,1150.0,2.7418373518271286e-05,1.7950602822190052
+40,5557,"Biological entities, genes, RNA, brain tissue, high and low gene expression, cell lines, transcription factors, and the number 12",0.8886000000000001,1114.0,2.304576735242061e-05,1.3090396240552815
+40,5557,"Events, celebrations, or gatherings involving groups of people",0.781,2190.0,0.0022069906558833748,0.5014654450879839
+40,5557,"Expressions of love and appreciation, especially related to family members and special occasions",0.6475000000000001,3525.0,0.10818107495644916,0.02825799514426698
+40,5557,"Software or application features/updates, especially related to mobile devices and user experience",0.9098,902.0,8.04056490960143e-06,1.4938011398777724
+40,5557,"Situations, events, or media related to entertainment, sports, or arts, often involving specific times, places, or individuals",0.6502,3498.0,0.10187342631224926,0.04716691768367402
+40,5557,"Examinations, educational programs, and healthcare initiatives",0.7537,2463.0,0.0057195749262571975,0.37885933848259407
+40,5557,"Requests for information or services, often related to technology, transportation, or online platforms",0.8169000000000001,1831.0,0.0005564810091508258,0.8138326102081943
+40,5557,"Electronics, hardware, and devices",0.8325,1675.0,0.0002924007155128192,0.7036523033653826
+40,5557,"Positive feedback, appreciation, or recognition related to services, improvements, or achievements",0.8513,1487.0,0.0001298402886081654,0.8364598864955273
+40,5557,"Days of the week, time periods, or points in time preceding an event, often associated with holidays, seasons, or personal milestones",0.8189000000000001,1811.0,0.0005131945231125362,0.7119442249485795
+40,1516,"Political figures, elections, government actions, and social issues",0.013600000000000001,9864.0,1.1667189779601329e-07,-1.7174779958530302
+40,1516,"Economic activity, professional development, personal recollections, and business operations",0.2707,7293.0,0.012503414315897467,-1.0288248209031905
+40,1516,"Possession, acquisition, or usage of something",0.4518,5482.0,0.5998755223615928,-0.22452398682697072
+40,1516,"Locations, services, products, and customer experience related to transportation, shipping, retail, or local businesses",0.30469999999999997,6953.0,0.03340437896900859,-0.4304437866054288
+40,1516,"A description of a difficult or challenging undertaking, often involving a long journey, a significant change or transition, or a personal struggle, and may include leaving a situation or relationship",0.6235,3765.0,0.17864138163320853,0.09317908782975524
+40,1516,"Descriptions of or information about commercial products with an emphasis on quality, rarity, or special features",0.16860000000000003,8314.0,0.0003062478545720501,-1.011750755554285
+40,1516,"Court cases, sports games, entertainment industry news, and religious texts related to changes in leadership, partnership, or important life transitions",0.009600000000000008,9904.0,9.181851755468456e-08,-1.7409932513927002
+40,1516,"Medical conditions, treatments, or procedures, especially relating to viruses, illnesses, or hospital visits",0.1479,8521.0,0.0001253207842742028,-1.0475793720279385
+40,1516,"Ingredients or products and their qualities, especially for food, drinks, or other consumable items",0.0027000000000000027,9973.0,6.047644888048207e-08,-2.0889009045759885
+40,1516,"Travel, journey, trip, visit, pilgrimage, stay, tour, vacation related terms",0.1481,8519.0,0.0001264365494017672,-1.1259572652650462
+40,364,"Locations, people, or organizations and a copula, often followed by additional information about the subject",0.8411000000000001,1589.0,0.0002026936371578681,0.7040082119039062
+40,364,"Items or features related to computer software or computer hardware, and words suggesting getting, obtaining, downloading, keeping, or maintaining them",0.7464,2536.0,0.007276714467451457,0.4629987275742748
+40,364,"Numbers related to locations, times, or quantities",0.5744,4256.0,0.41792838520157527,0.07317259444448211
+40,364,"Desire, need, requirement, or ability to obtain something",0.6921999999999999,3078.0,0.03631208056505727,0.1264195978907926
+40,364,Food recipes with ingredient lists,0.9896,104.0,9.63388623641681e-08,4.941750782648542
+40,364,"European Union membership, digital services, software licensing, and online platform features",0.7416,2584.0,0.008498050490294107,0.17961696495004068
+40,364,"Presence of punctuation and/or specific words in text excerpts, often at the end of phrases or sentences",0.8135,1865.0,0.0006379561749464508,0.8093363681750385
+40,364,"Attributes, characteristics, or features of products or items, often related to their composition, functionality, or appearance",0.8313000000000001,1687.0,0.00030753667466043957,1.100722567947656
+40,364,"Prices, conditions, or details of second-hand copies of publications",0.785,2150.0,0.001906375814978318,0.3623674144289253
+40,364,"Locations, establishments, and their amenities, often with quantitative details like prices, distances, or sizes",0.8907,1093.0,2.0810526787591483e-05,1.0447225514948335
+40,4808,"Animals, especially domesticated ones like cats and dogs, in the context of homes, pest control, veterinary care, and sometimes mythology",0.1911,8089.0,0.0007659185823118951,-0.868781965211967
+40,4808,"Marketing and business development, especially in the context of online presence and brand building",0.7625000000000001,2375.0,0.004245603232361131,0.3136693912055856
+40,4808,"Locations, groups of people, events, or things associated with them",0.16010000000000002,8399.0,0.00021343332320133683,-1.061549427186612
+40,4808,"Locations, organizations, and groups of people involved in negotiations and discussions around large development projects",0.016500000000000015,9835.0,1.3864106879928018e-07,-1.546864351544872
+40,4808,"Requests and offers related to products and services, especially those of a commercial nature",0.012300000000000002,9877.0,1.0795490154095252e-07,-1.8014025453735634
+40,4808,"Discussions of songs/albums/music by musicians, sometimes including specific names, dates, or titles",0.35829999999999995,6417.0,0.12277414758153671,-0.4700389701397821
+40,4808,"Sports team performance, often including specific players and scores, in games against other teams",0.6913,3087.0,0.037195632216834834,0.896275772554634
+40,4808,"Personal experiences, advice, and reflections on life events",0.07440000000000001,9256.0,3.5480892340745513e-06,-1.6058042540326338
+40,4808,"Automotive parts, shipping/delivery information, electronic devices and accessories, or RV/camping products and their features or availability",0.02030000000000001,9797.0,1.7355366903555303e-07,-1.6389298848050233
+40,4808,"Positive descriptions of personally meaningful items or experiences, especially gifts and creative works, sometimes including information about them",0.07800000000000001,9220.0,4.285842593350981e-06,-1.496536557528082
+40,3612,"Socioeconomic impact of various areas like media, higher education, healthcare, legal compliance, worker/consumer rights, and the food service industry",0.6908,3092.0,0.03769435592635533,0.19274530507178916
+40,3612,"Descriptions, explanations, and properties of products, industries, and services",0.6119,3881.0,0.22300685349679406,-0.039465698080750726
+40,3612,"Professional, ethical conduct and duties within various fields, including surveying, cultural events, healthcare, and communications",0.8182999999999999,1817.0,0.0005258391445084895,0.7328605999835243
+40,3612,"Reviews, data analysis, questionnaires, educational or professional services, products, and business planning with an emphasis on positive effects, importance, or benefits",0.5763999999999999,4236.0,0.4055162531198171,-0.14642170336362453
+40,3612,"Variations, options, features, and choices of products, models, vehicles, or systems",0.6134,3866.0,0.21686266539879795,0.015117620120273073
+40,3612,"Food preparation, cooking methods, ingredients, and meal descriptions",0.7567999999999999,2432.0,0.005154558086348179,0.5624555885169245
+40,3612,"Instructions, explanations, or descriptions related to formatting, structure, or content, often within educational or informative contexts",0.8290000000000001,1710.0,0.00033861888411999683,0.9484318793619805
+40,3612,"Qualities, features, and numerical values of products or items",0.4823,5177.0,0.8475139914135492,-0.3220943529763998
+40,3612,"Health and beauty benefits of avocado, coconut oil, and other natural products",0.9767,233.0,2.069811181834571e-07,2.759602092599105
+40,3612,"Medical or scientific studies and analyses, often with a focus on efficacy and practical applications",0.8125,1875.0,0.0006639527763501381,0.7895596365056855
+40,6364,Locations or organizations and events or actions associated with them,0.0018000000000000017,9982.0,5.7247561289514174e-08,-3.5423666798271443
+40,6364,"A change in employment or role, involving new skills, technologies, or environments",0.00970000000000001,9903.0,9.237212457291983e-08,-2.935216662084822
+40,6364,"Descriptions of plants, food, video games, or characters, often containing lists of items or properties",0.2243,7757.0,0.002672248792728659,-1.7506926999580732
+40,6364,"Automotive features and characteristics, often appearing in lists separated by commas",0.097,9030.0,1.1334178221060897e-05,-1.915669080122065
+40,6364,"Sports teams, events, or competitions and their associated details, such as schedules, venues, or player/coach information",0.20520000000000005,7948.0,0.001321767898457381,-1.1785379827025837
+40,6364,"Locations, people, and events related to politics, sports, or other areas of public interest",0.2069,7931.0,0.0014095411146841086,-0.9181974431861135
+40,6364,"Themes of introspection, listing possessions, and mentioning a journal, often in relation to difficult times or new experiences",0.17650000000000005,8235.0,0.00042526261032387687,-1.1733608270301745
+40,6364,"Data structures in network management related to rerouting data from failed circuits, qualifications and research interests of pediatric neuro-oncologists, tropical cyclones and forecasting, viruses with similarities to the Emaravirus genus, medication errors in dialysis treatments for patients with renal insufficiency, risk management and transmission protocols, vaccines for Japanese encephalitis virus, natural gas export projects, influenza virus evolution and drug resistance, and decommissioning of nuclear power plants",0.008300000000000009,9917.0,8.490753085334325e-08,-3.0992769362829105
+40,6364,"Locations, specifically businesses or establishments, their attributes, and in some instances, customer interactions or reviews regarding products related to those locations",0.003300000000000003,9967.0,6.272633918917213e-08,-3.4458626469493527
+40,6364,"Personal accounts of specific named individuals in various situations, often relating to specific past events",0.04140000000000003,9586.0,5.860389035480767e-07,-1.374862593965612
+40,3515,"Travel, journeys, locations, visits, and transportation",0.02040000000000002,9796.0,1.7457857475975995e-07,-1.550974215373157
+40,3515,"Provision, establishment, or maintenance of resources, possibly relating to facilities, buildings, societies, or systems, for fulfilling needs or achieving specific goals",0.29159999999999997,7084.0,0.023213072200443566,-0.3302261402288163
+40,3515,"Academic programs, certifications, memberships of professional organizations, and standards in various fields, with specific examples including accounting, education, medicine, and construction",0.9377,623.0,1.8600569471131966e-06,2.0482041999501086
+40,3515,"Services provided by professionals in various fields, including healthcare, education, HVAC, property management, and law",0.6161,3839.0,0.20611187033429157,0.3180600568350746
+40,3515,"Products made of metal or steel, especially for construction, home appliances or home improvement",0.0857,9143.0,6.3878720946593136e-06,-1.1154118544320202
+40,3515,"Sports matches, tournaments, and players' performance, sometimes involving player transfers and team lineups",0.0976,9024.0,1.1679825978018132e-05,-1.2472557691121162
+40,3515,"Locations, times, and proper names related to sports, competitions, or entertainment events",0.04410000000000001,9559.0,6.82260585229791e-07,-1.8399032940121847
+40,3515,"Temporal expressions related to months, years, or decades, often related to economic or political events",0.006500000000000006,9935.0,7.616434666510465e-08,-2.113829944550185
+40,3515,"Actions related to improvement, maintenance, or creation, frequently involving tools, materials, or products, sometimes in a professional setting",0.0235,9765.0,2.0941825352223527e-07,-1.7454047374419228
+40,3515,"Conditions, requirements, or actions related to services for houses, businesses, or individuals",0.015400000000000013,9846.0,1.2987373759210326e-07,-1.811796546311638
+40,556,"Sports events, participants, and outcomes",0.09960000000000001,9004.0,1.2906115969073117e-05,-0.9877768295841606
+40,556,"Seeking knowledge, wisdom and truth, often through introspection and meditation",0.9222,778.0,4.241263134157338e-06,2.482634115436058
+40,556,"Financial topics, including banking, loans, investments, insurance, and financial aid",0.0758,9242.0,3.819232183773095e-06,-1.3167991123868232
+40,556,"Discussions of religious topics, often relating to specific religious figures or texts",0.9678,322.0,3.4691754560935315e-07,4.472915979072894
+40,556,"Hairstyles, online flower purchases, new makeup releases, clothing/accessories, numbers/calculations/measurements, adoption or fostering of dogs, coding/encoding/decoding, new fashion collections, video game guides, pies/tarts, online shopping, food preparation, salads, creative projects, descriptions of adult film performers, wedding accessories/planning, cake decorating instructions, olive oil cake baking instructions, homemade bubble wands, alcoholic beverages, taxidermy",0.1643,8357.0,0.00025537938759108035,-0.7369325510573568
+40,556,"Discussions of events and festivals, particularly those involving community and cultural elements, sometimes related to travel and tourism",0.14230000000000004,8577.0,9.759788835292195e-05,-1.007605951162001
+40,556,"Business, project, or financial planning, progress tracking, timelines, milestones, client needs, platforms, devices, user experience, tools, methods, and strategies",0.3713,6287.0,0.16103400674414836,-0.46861397012962713
+40,556,"Plans, goals, and initiatives related to training programs, projects, and facilities, often within medical, health, educational, or professional development fields",0.1702,8298.0,0.0003274886998985672,-0.905473804084935
+40,556,"Body parts, numbers, and connecting words related to beauty treatments, often combined with specific products or devices",0.23190000000000002,7681.0,0.0034966900652753426,-0.6582160579891683
+40,556,"Government plans, agreements, and financial allocations related to development projects",0.3672000000000001,6328.0,0.14810130255185944,-0.2577913307744017
+40,183,"Automotive, computer hardware, and biological concepts, often presented as a product or model with a specific name or number",0.00880000000000001,9912.0,8.750382036173956e-08,-1.22178133608407
+40,183,"Quantities, reasons, locations, and actions related to real estate, cleaning services, building construction, finance, and insurance",0.6110000000000001,3890.0,0.2267526331686892,0.05400456097309655
+40,183,"Activities and items related to crafts, hobbies, and creative pursuits",0.05380000000000001,9462.0,1.1699041701256003e-06,-0.974766108933321
+40,183,"Travel, itineraries, tours, and transportation, often including numbers of people, costs, or times/dates",0.6305000000000001,3695.0,0.15525488714187297,0.38418771386655914
+40,183,"Earning potential in a new career or business, sometimes involving a subsidiary company or through training and mentorship",0.12430000000000001,8757.0,4.2657812882009726e-05,-0.862386645163873
+40,183,"Travel, tours, and educational activities",0.09850000000000002,9015.0,1.2217222629577425e-05,-1.033323199073072
+40,183,"Travel, relocation, and journeys, often involving family members",0.5583999999999999,4416.0,0.5249684512857822,0.13536073673137766
+40,183,"Artistic endeavors, travel experiences, and landmark locations",0.013800000000000014,9862.0,1.1807203566327907e-07,-1.1064740873049996
+40,183,"Discussions of home furnishings, renovations, or real estate, often including a location or specific item",0.008700000000000008,9913.0,8.697848819844698e-08,-1.2487902361946728
+40,183,Collaboration between organizations and educational institutions/programs,0.016800000000000016,9832.0,1.4112983113460763e-07,-1.0153522923381657
+40,3254,Benefits of using certain online services or products,0.017800000000000017,9822.0,1.4974169183203915e-07,-2.8242116158397095
+40,3254,"Disjunctions, often in legal or financial contexts, related to restrictions, requirements, or actions on a website, platform, or service",0.026100000000000012,9739.0,2.437373794757471e-07,-2.5544280024022283
+40,3254,"Trips and locations, especially destinations, sometimes with a focus on restaurants or hotels",0.12310000000000001,8769.0,4.0315249289533626e-05,-1.1017275822628732
+40,3254,"Academic/professional achievement, success, and high status",0.0036000000000000034,9964.0,6.388148636305179e-08,-3.8570652970637087
+40,3254,"Concepts related to media, technology, and entertainment, often involving comparisons between newer and older technologies",0.021200000000000017,9788.0,1.8299115773245566e-07,-2.7040219396576526
+40,3254,"Medical procedures, treatments, or conditions, often involving specific measurements or quantifications",0.03370000000000002,9663.0,3.78128519407698e-07,-2.2492810133848757
+40,3254,Products or services offered at a high standard,0.01050000000000001,9895.0,9.69188308524015e-08,-3.318384014753406
+40,3254,"Events causing harm, injury, or negative impact, often with reference to specific examples and their likelihood",0.005900000000000006,9941.0,7.34487122390239e-08,-3.6544334287163047
+40,3254,"Consumption of food/drinks, entertainment, or other media, especially when disliked",0.006200000000000006,9938.0,7.47945934689835e-08,-3.5563661507106206
+40,3254,"Descriptions of a female celebrity or character and discussion of their career, skills, relationships, and public image, often including discussion of a mother-son relationship or other familial connection",0.01980000000000002,9802.0,1.6851578218297106e-07,-2.6334956633341258
+40,6067,"Personal relationships, often familial, and milestones or events",0.9757,243.0,2.1944705970415153e-07,2.773165203654914
+40,6067,Accessing something through a particular means/method/interface,0.8986,1014.0,1.4113987523191862e-05,1.166473431471096
+40,6067,"Encoding, decoding, ciphers, or cryptography",0.9588,412.0,5.794571614101848e-07,2.243791876033559
+40,6067,"Revisiting, repeating or preventing something, or questioning how, why, or where to do or use something, or what something is",0.9246,754.0,3.7398002743109167e-06,1.5211394145452632
+40,6067,"Events, often with a date or time, sometimes including a location",0.9383,617.0,1.800650253979228e-06,1.7653653671126586
+40,6067,"Educational or cultural events or programs involving groups of people, often students",0.9754999999999999,245.0,2.220258688906854e-07,2.953865391964499
+40,6067,"Discussions of athletes or teams, sometimes related to specific events, awards, or sports clubs",0.5186,4814.0,0.8398412232900448,0.3350153121017902
+40,6067,"Discussions of US presidents and their speeches or addresses, especially State of the Union addresses",0.9981,19.0,5.759790575163811e-08,7.393393946182748
+40,6067,"Financial topics, especially related to loans and interest rates",0.9640000000000001,360.0,4.3130869046546803e-07,2.6351608410190455
+40,6067,"Celebratory events, holidays, or special occasions",0.9448000000000001,552.0,1.263471366234637e-06,1.9203904183138218
+40,3636,"Legal, medical, or technical documents describing problems, prevention, causes, procedures, or treatments",0.2816,7184.0,0.01736643595973178,-0.5936857722364992
+40,3636,"Political discussions and polls, interpersonal conflicts and relationships, personal experiences and introspection",0.5138,4862.0,0.880920795539397,-0.13348873956769916
+40,3636,"Provision of services, usage of online services, managing data and information, business operations",0.006500000000000005,9935.0,7.616434666510465e-08,-1.858733059149362
+40,3636,"Financial or legal agreements, especially before an important event or purchase, often related to property or housing",0.17470000000000005,8253.0,0.0003948543691640168,-1.238043592141066
+40,3636,"Financial aid, management of services, community engagement, events, and sharing knowledge/expertise",0.007700000000000007,9923.0,8.189035105052961e-08,-1.7266455130840812
+40,3636,"Food preparation, methods, ingredients, or descriptions of food, often with specific names of dishes or ingredients",0.5259,4741.0,0.7782288865178252,0.05853837561548836
+40,3636,"Division of assets and property, financial resources, budgets, premiums, insurance, earnings per share, leases, agreements, specifications for electronic devices, usage, functionalities, and customer service",0.5545,4455.0,0.5530365392675958,-0.031005136447633252
+40,3636,"Themes of competition, negotiation, and risk, often in business or game contexts",0.3002,6998.0,0.029539175166574002,-0.4943318252669242
+40,3636,"Methods for memorization, organization, and time management, often in relation to creative pursuits or personal anxieties",0.11040000000000003,8896.0,2.1954281211648142e-05,-1.0403179148958346
+40,3636,"Leisure activities, often luxurious or relaxing, sometimes with a focus on specific locations or events",0.027,9730.0,2.5683702555236736e-07,-1.458895288606641
+40,1555,"Concepts of sports, legal proceedings, software procedures, consumer electronics repair, retail business finances, video games, road construction, consumer electronics retail, supply chain management, transport and logistics, duplicated invoices, loss prevention, viruses, optical applications, computer applications, agriculture, and email spam filtering",0.09870000000000002,9013.0,1.2339808124167244e-05,-0.6708569733153296
+40,1555,"Decisions or choices related to purchases, actions, or preferences, often with an element of excitement or enthusiasm",0.008700000000000008,9913.0,8.697848819844698e-08,-1.2131881328804144
+40,1555,Commercial or marketing strategies,0.091,9090.0,8.374269849227703e-06,-1.105090694778314
+40,1555,"Discussions about personal struggles, challenges, and advice related to overcoming negative situations, with a focus on self-improvement and achieving a positive outcome",0.005800000000000006,9942.0,7.300532038886129e-08,-1.279262109624929
+40,1555,"Financial products and services, especially those related to digital banking, cryptocurrency, investment, and trading, including specific examples of buy-sell agreements, mobile banking usage increase versus branch visits decrease, descriptions of multi-cryptocurrency portfolios, and discussions of online currency exchanges",0.8093999999999999,1906.0,0.0007509356906726905,1.2981403886947904
+40,1555,"Waiting lists, often for housing vouchers, and long wait times, sometimes related to transportation",0.011600000000000013,9884.0,1.035257361666066e-07,-1.1550467955588117
+40,1555,"Transportation, childcare, legal disputes, financial transactions, recruitment, healthcare services, and retirement plans",0.2202,7798.0,0.0023053042579299124,-0.4305762100542332
+40,1555,"Decisions, choices, or recommendations relating to health, lifestyle, or travel",0.3353,6647.0,0.07284327637600156,-0.33181028271097357
+40,1555,"Discussions about food, often plant-based, and sometimes with aspects of food preparation",0.016400000000000015,9836.0,1.3782095543494482e-07,-1.0579351623665616
+40,1555,Low-cost insurance and related services,0.28450000000000003,7155.0,0.018911957774506383,-0.42014822798529833
+40,6106,"Second-person pronouns in instructional contexts, often within recipes, DIY guides, or interactive tutorials",0.016900000000000012,9831.0,1.419689803768001e-07,-1.2081478834840977
+40,6106,Negative consequences of detailed movie trailers or previews and specific examples,0.2169,7831.0,0.0020441396034245355,-0.6193936345912653
+40,6106,"Indications of a first person perspective, often combined with personal anecdotes, and sometimes involving a direct address to the reader",0.043600000000000014,9564.0,6.63362724408072e-07,-0.8535577245464366
+40,6106,"Features, functionalities, or specifications of electronic devices",0.7294,2706.0,0.012465044548939291,1.7020565713763196
+40,6106,"Software, applications, or digital media related to entertainment, especially gaming, music, and TV shows",0.3594,6406.0,0.1257077976237297,-0.394801872617318
+40,6106,"Medical discussions, procedures, legal cases, and regulations",0.012400000000000012,9876.0,1.0860242253002518e-07,-1.304687921573143
+40,6106,"Invoice scanning, legal case handling, creating Flash animations, comparing online fax services, submitting complaints, website design services, shrink-wrapped software acceptance, ride-sharing services for dementia patients, live chat customer service, royalty audits and contract compliance, SharePoint site creation, online customer self-service software, website activity tracking and cookie usage, leasehold extensions, personal information privacy, HVAC maintenance and repair, home building services, termite bonds",0.012200000000000011,9878.0,1.0731111766166369e-07,-1.294855325975171
+40,6106,"Website functionalities, user accounts, online services, and digital content",0.07500000000000001,9250.0,3.6619534172872947e-06,-0.7173644390106783
+40,6106,"Multimedia artistic presentations and events, often involving digital components, collaborations, and exhibitions",0.027200000000000023,9728.0,2.5983907983774123e-07,-0.8888997075023227
+40,6106,"Auction information, publications, and exhibitions related to artists, especially when about prices, dates, and venues",0.5716000000000001,4284.0,0.43567618657755147,0.0951487267714962
+40,4244,"Potential outcomes, benefits, or capabilities of something",0.8151,1849.0,0.000598323126897353,0.9274502358031113
+40,4244,"A description of a place or event, often related to historical events, personal experiences, or travel, including locations, dates, and names of people or organizations involved",0.4277,5723.0,0.43119894611705645,-0.384181420256256
+40,4244,Religious or historical anniversaries and celebrations,0.6224000000000001,3776.0,0.18254301516002736,-0.034697332754459964
+40,4244,Questions and answers,0.5059,4941.0,0.9491820626189023,-0.24477521923666948
+40,4244,"Financial products or services, including insurance policies, service agreements for web hosting or servers, and checking accounts, and also dental consultations involving crowns, bridges, and onlays",0.512,4880.0,0.8964148435233698,-0.2672911050116827
+40,4244,"Medical conditions, treatments, or substances, along with their associated symptoms and sometimes effects on specific body parts",0.7958000000000001,2042.0,0.0012725213044868244,0.47959852859788066
+40,4244,Real estate amenities,0.5894999999999999,4105.0,0.3297932537398899,-0.12041495886758737
+40,4244,"Consumption of food or drinks, often with a focus on enhancing experiences or achieving specific goals",0.5794,4206.0,0.3873165827023143,-0.08546667017811975
+40,4244,"Challenges, self-improvement, or learning a new skill",0.5478000000000001,4522.0,0.602909098158056,-0.14996694457494053
+40,4244,"Locations, events, and activities accessible or pertinent to specific groups of people",0.6212,3788.0,0.1868710108272249,-0.06529542487355865

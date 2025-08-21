@@ -1,0 +1,61 @@
+layer,unit,explanation,AUC,U1,p,MAD
+0,6314," words related to physical activities, exercises, and technology use in fitness.",0.929,710.0,2.9642852864962698e-06,1.5186757166365874
+0,2725," words related to deserving, earning, or gaining something.",0.9784999999999999,215.0,1.8624582401230322e-07,2.4568891443283363
+0,4297, words related to non-traditional or alternative concepts.,0.9169,831.0,5.586776681907507e-06,0.8219695805186304
+0,4842,terms related to data and analytics.,0.2315,7685.0,0.0034480986486452652,-0.7762266336715997
+0,5551, words and phrases related to European Union (EU) and political interactions or negotiations.,0.9671,329.0,3.6116006216933554e-07,2.237841197169939
+0,1749," words related to advancement, improvement, and progress.",0.015800000000000015,9842.0,1.3299793770871095e-07,-2.2698980782789735
+0,3943,proper nouns and related identifying words.,0.6149,3851.0,0.21084122770420255,0.18212805134084623
+0,5960, action words related to wrapping or fastening.,0.9461,539.0,1.1763601893766302e-06,1.820382883792459
+0,3696, punctuation specifically related to colons.,0.05560000000000002,9444.0,1.2915007436543733e-06,-1.0843334590354834
+0,3533, numbers and numerical values.,0.7036,2964.0,0.02658109376121903,0.2890981687749658
+0,3124,scientific terms related to biological processes and research.,0.5265,4735.0,0.7732206976246598,0.19064400591298003
+0,1149," quotes, personal pronouns, and expressions of personal perspective or identity.",0.0020000000000000018,9980.0,5.795032743408495e-08,-2.5250712939756923
+0,6114," numerical values, especially three-digit numbers.",0.1375,8625.0,7.854987085508059e-05,-1.0538435133914628
+0,3279,"emotion and emphasis indicators, such as punctuation and expressions.",0.92,800.0,4.7570428589361745e-06,1.5954520945505628
+0,440, words related to recognition or acknowledgement.,0.004400000000000004,9956.0,6.706354444790232e-08,-3.65797845478459
+0,4405, words related to governmental and institutional aspects.,0.006600000000000005,9934.0,7.66263063621759e-08,-2.3168348213939556
+0,5781, names of people or characters.,0.004800000000000004,9952.0,6.871162701944456e-08,-2.264559336259479
+0,3057, acronyms and technical terms from various fields.,0.3623,6377.0,0.1337038812941873,-0.409639622419705
+0,5085," occurrences of the word ""way"" and its variations.",0.0679,9321.0,2.513240324984197e-06,-1.3482222022557309
+0,4679,"occurrences of the word ""new"" and related terms highlighting something recent, upcoming, or updated.",1.0,0.0,5.1283388415865974e-08,9.560636248346784
+20,328,words related to technology and communication.,1.0,0.0,5.1283388415865974e-08,6.791957320685787
+20,5789, verbs related to performing an action.,1.0,0.0,5.1283388415865974e-08,6.643241107073415
+20,4268, phrases related to choices and alternatives.,0.8225,1775.0,0.00044308723344713944,0.853355481289367
+20,2988, words that indicate a relationship or connection between entities.,0.6047,3953.0,0.2542322494597101,0.13464369238541918
+20,4683, groups of words reflecting relationships and connections.,0.007400000000000006,9926.0,8.042095701238699e-08,-1.7707959392492705
+20,6045, specific and distinct nouns.,0.6869999999999999,3130.0,0.041673789427917274,0.2930693211862091
+20,5741, words related to suggestions or decision-making.,0.9997,3.0,5.2233768642952676e-08,5.803591186448528
+20,5662,actions related to someone doing something or interacting with objects.,0.9998,2.0,5.191509412250656e-08,6.461308189868011
+20,2679, phrases related to time and duration.,1.0,0.0,5.1283388415865974e-08,7.1252699451448365
+20,2869, possessive relationships and connections.,1.0,0.0,5.1283388415865974e-08,5.6965226158268125
+20,1424, words and phrases related to percentages and numbers in the context of different situations.,0.9977,23.0,5.9020175083612364e-08,4.6217948896706185
+20,5278, numerical values followed by units of time or measurement.,0.9584,416.0,5.926926823124377e-07,2.085962401569021
+20,2325," words related to dates, objects, and locations.",0.8279,1721.0,0.00035450159745890804,0.8884046635217241
+20,2700," prepositions, conjunctions, and connected fragments in sentences.",1.0,0.0,5.1283388415865974e-08,6.722598400322937
+20,3313, instances of numerals or phrases related to counting and ranking.,0.9894,106.0,9.750217847066736e-08,4.123974277632421
+20,1004, time-related phrases and references.,0.9358,642.0,2.0608588595400762e-06,1.9286163275919086
+20,4447,words related to titles and partial word matches in compound words.,1.0,0.0,5.1283388415865974e-08,7.17826322443531
+20,1406, words and phrases related to quantity or comparison.,0.9988,12.0,5.51884581828221e-08,4.991315932332992
+20,3885,"words or phrases that contain the syllable ""go"".",0.9694999999999999,305.0,3.1454943041162314e-07,2.5787266512647076
+20,1790, words and phrases related to actions and processes.,0.9969,31.0,6.196751182416256e-08,3.8410040367485907
+40,4965,"possessive pronouns and connecting words, focusing on ownership and relationships.",0.9189,811.0,5.036953697823791e-06,1.3224407846033652
+40,3948, words and phrases related to various forms of differentiation and distinction.,0.0496,9504.0,9.275117733418475e-07,-1.1099414452241332
+40,4055," numbers related to technical specifications, particularly in electronics.",0.3079,6921.0,0.0364093607478734,-0.47891387747109376
+40,824,"phrases related to secrecy, confidentiality, and keeping information hidden.",0.8245,1755.0,0.00040810932856932765,0.749307110596737
+40,1823," web addresses, dates, and numbers.",0.012000000000000012,9880.0,1.0603467810907552e-07,-1.2601397896325868
+40,5557,relevant numerical values and their associated units or measurements.,0.7759,2241.0,0.0026531779836762386,0.4714502053394156
+40,1516,"words related to rules, laws, and regulations.",0.0011000000000000012,9989.0,5.485232663027702e-08,-2.129138368028401
+40,364," combinations of letters and numbers, often related to technical specifications or codes.",0.8599,1401.0,8.838167777727851e-05,0.9220988032016748
+40,4808, phrases related to groups or teams working together.,0.0003000000000000003,9997.0,5.2233768642952676e-08,-2.456594763935756
+40,3612, numeric values and codes.,0.4557,5443.0,0.6297418577890953,-0.3709496195958832
+40,6364, parts of sentences with multiple connecting words or phrases.,0.008800000000000007,9912.0,8.750382036173956e-08,-3.0592343757457003
+40,3515," groups, organizations, and collective nouns.",0.003500000000000003,9965.0,6.349416600481911e-08,-2.323208254425016
+40,556, words and phrases related to projects or activities.,0.0002000000000000002,9998.0,5.191509412250656e-08,-1.902778761343673
+40,183, words and phrases related to job markets and employment situations.,0.019800000000000005,9802.0,1.6851578218297106e-07,-1.0780721820022952
+40,3254, phrases describing relationships or connections between items or concepts.,0.0,10000.0,5.1283388415865974e-08,-4.58545437477055
+40,6067, proper nouns related to political figures and events.,0.9520000000000001,480.0,8.485483344974016e-07,2.0197965048481117
+40,3636, action-related phrases in various contexts.,0.019300000000000005,9807.0,1.636194262544681e-07,-1.9428882941324284
+40,1555, words and phrases related to finance and monetary transactions.,0.1544,8456.0,0.00016677479415168938,-1.0001962849961263
+40,6106,locations and names of companies or organizations.,0.0020000000000000018,9980.0,5.795032743408495e-08,-1.782743564684934
+40,4244, words related to controversial or sensitive issues.,0.7637,2363.0,0.004073848650151943,0.30374568120317874
