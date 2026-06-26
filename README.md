@@ -7,7 +7,7 @@
 
   </p>
 
-This repository contains the code and experiments for the paper **[Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework](https://arxiv.org/abs/2506.15538)** by Kopf et al., 2025. 
+This repository contains the code and experiments for the paper **[Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework](https://proceedings.neurips.cc/paper_files/paper/2025/hash/77a404d99d58544293763afb769a16e4-Abstract-Conference.html)** by Kopf et al., 2025. 
 
 ## Table of Contents
 
@@ -100,14 +100,16 @@ All meta-label results can be found in **`metalabels/`** folder.
 If you find this work interesting or useful in your research, use the following Bibtex annotation to cite us:
 
 ```bibtex
-@misc{kopf2025prism,
-      title={Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework}, 
-      author={Laura Kopf and Nils Feldhus and Kirill Bykov and Philine Lou Bommer and Anna Hedström and Marina M. -C. Höhne and Oliver Eberle},
-      year={2025},
-      eprint={2506.15538},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2506.15538}, 
+@inproceedings{kopf2025prism,
+  author = {Kopf, Laura and Feldhus, Nils and Bykov, Kirill and Bommer, Philine L and Hedstr\"{o}m, Anna and H\"{o}hne, Marina and Eberle, Oliver},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {D. Belgrave and C. Zhang and H. Lin and R. Pascanu and P. Koniusz and M. Ghassemi and N. Chen},
+  pages = {82938--82974},
+  publisher = {Curran Associates, Inc.},
+  title = {Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2025/file/77a404d99d58544293763afb769a16e4-Paper-Conference.pdf},
+  volume = {38},
+  year = {2025}
 }
 ```
 This work is in review.
