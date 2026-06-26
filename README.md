@@ -112,7 +112,6 @@ If you find this work interesting or useful in your research, use the following 
   year = {2025}
 }
 ```
-This work is in review.
 
 ### Thank you
 
